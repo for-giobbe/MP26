@@ -1,0 +1,88 @@
+Orthogroup	L_gigantea_2	A_granulata_2
+OG0000000	L_gigantea|XP_009044634.1, L_gigantea|XP_009065493.1, L_gigantea|XP_009045323.1	A_granulata|model.g24978.t1_1
+OG0000003	L_gigantea|XP_009061655.1, L_gigantea|XP_009061656.1	A_granulata|model.g9167.t1_1
+OG0000003	L_gigantea|XP_009058591.1, L_gigantea|XP_009057653.1	A_granulata|model.g24679.t1_1
+OG0000003	L_gigantea|XP_009059572.1, L_gigantea|XP_009053437.1, L_gigantea|XP_009059573.1, L_gigantea|XP_009053435.1, L_gigantea|XP_009053436.1	A_granulata|model.g12389.t1.1.5d3b8706_1
+OG0000003	L_gigantea|XP_009061854.1	A_granulata|model.g24762.t1_1
+OG0000007	L_gigantea|XP_009046443.1	A_granulata|model.g6273.t1_1
+OG0000007	L_gigantea|XP_009046442.1	A_granulata|model.g6272.t1_1
+OG0000007	L_gigantea|XP_009046440.1	A_granulata|evm.model.Super-Scaffold_100004.707_1
+OG0000007	L_gigantea|XP_009052766.1	A_granulata|evm.model.Super-Scaffold_100004.333_1
+OG0000007	L_gigantea|XP_009063633.1	A_granulata|evm.model.Super-Scaffold_100004.301_1
+OG0000007	L_gigantea|XP_009046437.1	A_granulata|model.g6264.t1_model.g6265.t1_1
+OG0000007	L_gigantea|XP_009046446.1	A_granulata|model.g6275.t1_1
+OG0000007	L_gigantea|XP_009065435.1	A_granulata|model.g13936.t1_1
+OG0000007	L_gigantea|XP_009065436.1	A_granulata|model.g13938.t1_1
+OG0000007	L_gigantea|XP_009046479.1	A_granulata|model.g5761.t1_1
+OG0000007	L_gigantea|XP_009065930.1	A_granulata|evm.model.Super-Scaffold_100006.1323_1
+OG0000007	L_gigantea|XP_009046441.1	A_granulata|model.g6270.t1.2.5d3b84cf_1
+OG0000007	L_gigantea|XP_009046444.1	A_granulata|model.g6274.t1_1
+OG0000009	L_gigantea|XP_009044518.1	A_granulata|evm.model.Super-Scaffold_100012.506_1
+OG0000009	L_gigantea|XP_009055766.1, L_gigantea|XP_009064105.1	A_granulata|evm.model.Super-Scaffold_100004.157_1
+OG0000009	L_gigantea|XP_009044627.1	A_granulata|evm.model.Super-Scaffold_100013.618_1
+OG0000009	L_gigantea|XP_009057810.1	A_granulata|evm.model.Super-Scaffold_505.825_1
+OG0000009	L_gigantea|XP_009064159.1	A_granulata|evm.model.Super-Scaffold_100010.662_1
+OG0000009	L_gigantea|XP_009053527.1	A_granulata|evm.model.Super-Scaffold_505.1121_1, A_granulata|evm.model.Super-Scaffold_100006.676_1, A_granulata|evm.model.Super-Scaffold_505.1606_1
+OG0000009	L_gigantea|XP_009053915.1	A_granulata|model.g14108.t1_1
+OG0000011	L_gigantea|XP_009053022.1	A_granulata|model.g14860.t1_1
+OG0000015	L_gigantea|XP_009047434.1	A_granulata|model.g11415.t1_1
+OG0000015	L_gigantea|XP_009049765.1	A_granulata|evm.model.Super-Scaffold_100057.39_1, A_granulata|model.g20494.t1_1
+OG0000015	L_gigantea|XP_009052518.1	A_granulata|evm.model.Super-Scaffold_100002.249_1
+OG0000016	L_gigantea|XP_009066031.1	A_granulata|evm.model.Super-Scaffold_100019.314_1, A_granulata|model.g20194.t1_1, A_granulata|evm.model.Super-Scaffold_100016.112_1, A_granulata|model.g19855.t1_1, A_granulata|evm.model.Super-Scaffold_505.1528_1, A_granulata|model.g26165.t1_1, A_granulata|evm.model.Super-Scaffold_100005.476_1, A_granulata|evm.model.Super-Scaffold_100037.2_1, A_granulata|model.g8906.t1_1
+OG0000017	L_gigantea|XP_009054246.1	A_granulata|model.g4966.t1_1, A_granulata|model.g706.t1_1, A_granulata|model.g4965.t1_1, A_granulata|evm.model.Super-Scaffold_100003.1034_1
+OG0000019	L_gigantea|XP_009059734.1	A_granulata|model.g7414.t1_1
+OG0000019	L_gigantea|XP_009062371.1	A_granulata|model.g14035.t1_1
+OG0000019	L_gigantea|XP_009054782.1	A_granulata|model.g11695.t1_1
+OG0000019	L_gigantea|XP_009057899.1	A_granulata|model.g7451.t1_1
+OG0000019	L_gigantea|XP_009056958.1	A_granulata|model.g11738.t1.5.5d3b86a4_1
+OG0000019	L_gigantea|XP_009047890.1	A_granulata|model.g8205.t1_1
+OG0000020	L_gigantea|XP_009057758.1	A_granulata|model.g12028.t1_1, A_granulata|model.g12671.t1_1
+OG0000021	L_gigantea|XP_009056174.1, L_gigantea|XP_009061998.1, L_gigantea|XP_009045657.1, L_gigantea|XP_009053740.1	A_granulata|model.g31071.t1_1, A_granulata|evm.model.Super-Scaffold_100012.51_1
+OG0000023	L_gigantea|XP_009044903.1	A_granulata|evm.model.Super-Scaffold_100002.117_1
+OG0000024	L_gigantea|XP_009056746.1	A_granulata|evm.model.Super-Scaffold_100005.884_1
+OG0000025	L_gigantea|XP_009048639.1	A_granulata|evm.model.Super-Scaffold_100008.679_1
+OG0000026	L_gigantea|XP_009051788.1	A_granulata|evm.model.Super-Scaffold_100010.607_1
+OG0000027	L_gigantea|XP_009058327.1	A_granulata|evm.model.Super-Scaffold_100013.373_1
+OG0000028	L_gigantea|XP_009050366.1	A_granulata|evm.model.Super-Scaffold_100025.188_1
+OG0000029	L_gigantea|XP_009051479.1	A_granulata|model.g2134.t1_1
+OG0000030	L_gigantea|XP_009051490.1	A_granulata|model.g1298.t1_1
+OG0000031	L_gigantea|XP_009055442.1	A_granulata|model.g100.t1_1
+OG0000032	L_gigantea|XP_009048498.1	A_granulata|model.g501.t1_1
+OG0000033	L_gigantea|XP_009056300.1	A_granulata|model.g1883.t1_1
+OG0000034	L_gigantea|XP_009054295.1	A_granulata|model.g1662.t1_1
+OG0000035	L_gigantea|XP_009063552.1	A_granulata|model.g3215.t1_1
+OG0000036	L_gigantea|XP_009048015.1	A_granulata|model.g3997.t1_1
+OG0000037	L_gigantea|XP_009045422.1	A_granulata|model.g4135.t1_1
+OG0000038	L_gigantea|XP_009067307.1	A_granulata|model.g3909.t1_1
+OG0000039	L_gigantea|XP_009046521.1	A_granulata|model.g5912.t1_1
+OG0000040	L_gigantea|XP_009047712.1	A_granulata|model.g6072.t1_1
+OG0000041	L_gigantea|XP_009050006.1	A_granulata|model.g8800.t1_1
+OG0000042	L_gigantea|XP_009062528.1	A_granulata|model.g8671.t1_1
+OG0000043	L_gigantea|XP_009045632.1	A_granulata|model.g9992.t1_1
+OG0000044	L_gigantea|XP_009057767.1	A_granulata|model.g9597.t1_1
+OG0000045	L_gigantea|XP_009043858.1	A_granulata|model.g11944.t1_1
+OG0000046	L_gigantea|XP_009060904.1	A_granulata|model.g13152.t1_1
+OG0000047	L_gigantea|XP_009059115.1	A_granulata|model.g15250.t1_1
+OG0000048	L_gigantea|XP_009064850.1	A_granulata|model.g15596.t1_1
+OG0000049	L_gigantea|XP_009043632.1	A_granulata|model.g17957.t1_1
+OG0000050	L_gigantea|XP_009053420.1	A_granulata|model.g30402.t1_1
+OG0000051	L_gigantea|XP_009050923.1	A_granulata|model.g29359.t1_1
+OG0000052	L_gigantea|XP_009054282.1	A_granulata|model.g28777.t1_1
+OG0000053	L_gigantea|XP_009066668.1	A_granulata|model.g29911.t1_1
+OG0000054	L_gigantea|XP_009044613.1	A_granulata|model.g1284.t1.1.5d3b82d5_1
+OG0000055	L_gigantea|XP_009066700.1	A_granulata|model.g2097.t1_1
+OG0000056	L_gigantea|XP_009054866.1	A_granulata|model.g89.t1.1.5d3b81fd_1
+OG0000057	L_gigantea|XP_009047623.1	A_granulata|model.g763.t1_model.g765.t1_1
+OG0000058	L_gigantea|XP_009060107.1	A_granulata|model.g4291.t1_1
+OG0000059	L_gigantea|XP_009060271.1	A_granulata|model.g6491.t1.1.5d3b8503_1
+OG0000060	L_gigantea|XP_009056650.1	A_granulata|model.g7388.t1_1
+OG0000061	L_gigantea|XP_009053673.1	A_granulata|model.g7604.t1.1.5d3b84b3_1
+OG0000062	L_gigantea|XP_009059459.1	A_granulata|model.g8718.t1.1.5d3b85ae_1
+OG0000063	L_gigantea|XP_009053421.1	A_granulata|model.g7299.t1_1
+OG0000064	L_gigantea|XP_009051192.1	A_granulata|model.g13274.t1_1
+OG0000065	L_gigantea|XP_009050443.1	A_granulata|model.g17523.t1_1
+OG0000066	L_gigantea|XP_009046288.1	A_granulata|model.g17660.t1_1
+OG0000067	L_gigantea|XP_009050729.1	A_granulata|model.g20823.t1_1
+OG0000068	L_gigantea|XP_009064827.1	A_granulata|model.g29179.t1_1
+OG0000069	L_gigantea|XP_009048448.1	A_granulata|model.g31682.t1_1
+OG0000070	L_gigantea|XP_009063619.1	A_granulata|model.g32000.t1_1

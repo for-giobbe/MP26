@@ -1,0 +1,9 @@
+	A_granulata_2	B_glabrata_2	C_virginica_2	H_robusta_2	L_gigantea_2	O_bimaculoides_2	P_fucata_2	S_constricta_2
+A_granulata_2	0.0	2.0	5.0	4.0	5.0	1.0	7.0	8.0
+B_glabrata_2	5.0	0.0	6.0	4.0	3.0	1.0	7.0	5.0
+C_virginica_2	1.0	5.0	0.0	4.0	5.0	1.0	11.0	7.0
+H_robusta_2	4.0	6.0	6.0	0.0	5.0	2.0	5.0	7.0
+L_gigantea_2	5.0	5.0	8.0	4.0	0.0	2.0	12.0	8.0
+O_bimaculoides_2	1.0	3.0	4.0	2.0	3.0	0.0	5.0	5.0
+P_fucata_2	5.0	6.0	8.0	3.0	6.0	1.0	0.0	9.0
+S_constricta_2	4.0	4.0	10.0	4.0	3.0	2.0	12.0	0.0

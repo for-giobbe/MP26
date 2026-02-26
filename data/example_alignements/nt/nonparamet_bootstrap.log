@@ -1,0 +1,2488 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    MacBook-Air.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s data/example_alignements/nt/Rhabdomeric1.nt.aln -m GTR -b 100 --prefix data/example_alignements/nt/nonparamet_bootstrap -t data/example_alignements/nt/Rhabdomeric1.nt.treefile --tree-fix
+Seed:    869513 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Mar 27 10:19:26 2025
+Kernel:  SSE2 - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file data/example_alignements/nt/Rhabdomeric1.nt.aln ... Fasta format detected
+Reading fasta file: done in 0.00120902 secs using 93.79% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 8 sequences with 1404 columns, 263 distinct patterns
+189 parsimony-informative, 304 singleton sites, 910 constant sites
+                Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.09673e-05 secs using 82.06% CPU
+   1  Ovulgaris         2.78%    passed     97.43%
+   2  Emoschata         2.78%    passed     94.49%
+   3  Cmacropus         2.35%    passed     99.11%
+   4  Ecirrhosa         2.56%    passed     99.24%
+   5  Ptetracitrrhus    2.78%    passed     82.26%
+   6  Sunicirrhus       7.05%    passed     95.95%
+   7  Aargo             2.35%    passed     91.85%
+   8  Sofficinalis      0.85%    passed     51.67%
+****  TOTAL             2.94%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+===> START BOOTSTRAP REPLICATE NUMBER 1
+
+Creating bootstrap alignment (seed: 869513)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5296.916
+2. Current log-likelihood: -5199.904
+3. Current log-likelihood: -5199.502
+Optimal log-likelihood: -5199.500
+Rate parameters:  A-C: 2.42125  A-G: 3.97256  A-T: 1.97502  C-G: 1.70143  C-T: 5.71860  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.267  G: 0.197  T: 0.262
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5199.500
+Total tree length: 0.638
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.013 sec (0h:0m:0s)
+Total wall-clock time used: 0.014 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 2
+
+Creating bootstrap alignment (seed: 869514)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5245.287
+2. Current log-likelihood: -5166.892
+3. Current log-likelihood: -5166.641
+Optimal log-likelihood: -5166.641
+Rate parameters:  A-C: 2.96934  A-G: 3.66462  A-T: 2.22057  C-G: 2.00104  C-T: 5.51956  G-T: 1.00000
+Base frequencies:  A: 0.257  C: 0.249  G: 0.208  T: 0.286
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5166.641
+Total tree length: 0.634
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.026 sec (0h:0m:0s)
+Total wall-clock time used: 0.027 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 3
+
+Creating bootstrap alignment (seed: 869515)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5389.995
+2. Current log-likelihood: -5332.390
+3. Current log-likelihood: -5332.145
+Optimal log-likelihood: -5332.145
+Rate parameters:  A-C: 1.59260  A-G: 2.38792  A-T: 1.71749  C-G: 1.23784  C-T: 3.44430  G-T: 1.00000
+Base frequencies:  A: 0.283  C: 0.263  G: 0.200  T: 0.254
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5332.145
+Total tree length: 0.635
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.039 sec (0h:0m:0s)
+Total wall-clock time used: 0.041 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 4
+
+Creating bootstrap alignment (seed: 869516)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5122.743
+2. Current log-likelihood: -5029.251
+3. Current log-likelihood: -5029.000
+Optimal log-likelihood: -5029.000
+Rate parameters:  A-C: 2.63674  A-G: 4.16289  A-T: 1.99054  C-G: 2.42756  C-T: 6.43590  G-T: 1.00000
+Base frequencies:  A: 0.252  C: 0.274  G: 0.220  T: 0.254
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5029.000
+Total tree length: 0.582
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.052 sec (0h:0m:0s)
+Total wall-clock time used: 0.055 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 5
+
+Creating bootstrap alignment (seed: 869517)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5174.429
+2. Current log-likelihood: -5108.840
+3. Current log-likelihood: -5108.706
+Optimal log-likelihood: -5108.706
+Rate parameters:  A-C: 1.95535  A-G: 2.94565  A-T: 1.61642  C-G: 1.47730  C-T: 4.03095  G-T: 1.00000
+Base frequencies:  A: 0.274  C: 0.275  G: 0.207  T: 0.244
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5108.706
+Total tree length: 0.595
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.064 sec (0h:0m:0s)
+Total wall-clock time used: 0.068 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 6
+
+Creating bootstrap alignment (seed: 869518)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5279.475
+2. Current log-likelihood: -5189.092
+3. Current log-likelihood: -5188.813
+Optimal log-likelihood: -5188.813
+Rate parameters:  A-C: 1.72048  A-G: 3.81646  A-T: 1.71984  C-G: 1.65967  C-T: 4.64734  G-T: 1.00000
+Base frequencies:  A: 0.258  C: 0.272  G: 0.206  T: 0.264
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5188.813
+Total tree length: 0.604
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.077 sec (0h:0m:0s)
+Total wall-clock time used: 0.081 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 7
+
+Creating bootstrap alignment (seed: 869519)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5164.525
+2. Current log-likelihood: -5080.987
+3. Current log-likelihood: -5080.658
+Optimal log-likelihood: -5080.657
+Rate parameters:  A-C: 1.79948  A-G: 3.07838  A-T: 1.27001  C-G: 1.31031  C-T: 4.06371  G-T: 1.00000
+Base frequencies:  A: 0.243  C: 0.281  G: 0.214  T: 0.262
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5080.657
+Total tree length: 0.592
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.089 sec (0h:0m:0s)
+Total wall-clock time used: 0.093 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 8
+
+Creating bootstrap alignment (seed: 869520)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5239.133
+2. Current log-likelihood: -5166.451
+3. Current log-likelihood: -5166.351
+Optimal log-likelihood: -5166.351
+Rate parameters:  A-C: 2.70201  A-G: 3.81654  A-T: 2.37116  C-G: 2.44010  C-T: 5.21019  G-T: 1.00000
+Base frequencies:  A: 0.258  C: 0.270  G: 0.205  T: 0.266
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5166.351
+Total tree length: 0.595
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.102 sec (0h:0m:0s)
+Total wall-clock time used: 0.107 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 9
+
+Creating bootstrap alignment (seed: 869521)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5256.606
+2. Current log-likelihood: -5158.125
+3. Current log-likelihood: -5157.837
+Optimal log-likelihood: -5157.837
+Rate parameters:  A-C: 1.65905  A-G: 2.68922  A-T: 1.37138  C-G: 1.48364  C-T: 4.85845  G-T: 1.00000
+Base frequencies:  A: 0.282  C: 0.272  G: 0.204  T: 0.242
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5157.837
+Total tree length: 0.607
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.114 sec (0h:0m:0s)
+Total wall-clock time used: 0.121 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 10
+
+Creating bootstrap alignment (seed: 869522)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5446.210
+2. Current log-likelihood: -5374.628
+3. Current log-likelihood: -5374.291
+Optimal log-likelihood: -5374.291
+Rate parameters:  A-C: 1.56253  A-G: 2.77046  A-T: 1.20126  C-G: 1.32005  C-T: 3.29653  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.273  G: 0.190  T: 0.273
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5374.291
+Total tree length: 0.649
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.127 sec (0h:0m:0s)
+Total wall-clock time used: 0.134 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 11
+
+Creating bootstrap alignment (seed: 869523)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5205.123
+2. Current log-likelihood: -5128.477
+3. Current log-likelihood: -5128.159
+Optimal log-likelihood: -5128.159
+Rate parameters:  A-C: 2.45775  A-G: 3.62759  A-T: 2.06750  C-G: 2.08038  C-T: 5.33399  G-T: 1.00000
+Base frequencies:  A: 0.271  C: 0.252  G: 0.220  T: 0.258
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5128.159
+Total tree length: 0.608
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.139 sec (0h:0m:0s)
+Total wall-clock time used: 0.147 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 12
+
+Creating bootstrap alignment (seed: 869524)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5264.575
+2. Current log-likelihood: -5174.002
+3. Current log-likelihood: -5173.776
+Optimal log-likelihood: -5173.774
+Rate parameters:  A-C: 2.58969  A-G: 3.96657  A-T: 1.44378  C-G: 1.83666  C-T: 5.21276  G-T: 1.00000
+Base frequencies:  A: 0.267  C: 0.265  G: 0.211  T: 0.257
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5173.774
+Total tree length: 0.613
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.152 sec (0h:0m:0s)
+Total wall-clock time used: 0.161 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 13
+
+Creating bootstrap alignment (seed: 869525)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5304.677
+2. Current log-likelihood: -5207.535
+3. Current log-likelihood: -5207.175
+Optimal log-likelihood: -5207.173
+Rate parameters:  A-C: 1.84835  A-G: 3.11616  A-T: 1.47401  C-G: 1.64391  C-T: 4.96199  G-T: 1.00000
+Base frequencies:  A: 0.251  C: 0.267  G: 0.219  T: 0.263
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5207.173
+Total tree length: 0.606
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.165 sec (0h:0m:0s)
+Total wall-clock time used: 0.174 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 14
+
+Creating bootstrap alignment (seed: 869526)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5426.737
+2. Current log-likelihood: -5336.899
+3. Current log-likelihood: -5336.628
+Optimal log-likelihood: -5336.628
+Rate parameters:  A-C: 1.70193  A-G: 3.52722  A-T: 1.61217  C-G: 1.40264  C-T: 4.12973  G-T: 1.00000
+Base frequencies:  A: 0.273  C: 0.274  G: 0.196  T: 0.257
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5336.628
+Total tree length: 0.633
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.177 sec (0h:0m:0s)
+Total wall-clock time used: 0.187 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 15
+
+Creating bootstrap alignment (seed: 869527)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5176.510
+2. Current log-likelihood: -5079.401
+3. Current log-likelihood: -5078.685
+Optimal log-likelihood: -5078.684
+Rate parameters:  A-C: 2.73753  A-G: 4.34117  A-T: 2.57489  C-G: 1.95932  C-T: 6.56150  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.274  G: 0.217  T: 0.259
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5078.684
+Total tree length: 0.597
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.190 sec (0h:0m:0s)
+Total wall-clock time used: 0.200 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 16
+
+Creating bootstrap alignment (seed: 869528)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5319.324
+2. Current log-likelihood: -5246.908
+3. Current log-likelihood: -5246.654
+Optimal log-likelihood: -5246.652
+Rate parameters:  A-C: 2.71027  A-G: 3.72924  A-T: 1.80676  C-G: 1.54181  C-T: 3.95262  G-T: 1.00000
+Base frequencies:  A: 0.242  C: 0.271  G: 0.219  T: 0.267
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5246.652
+Total tree length: 0.645
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.203 sec (0h:0m:0s)
+Total wall-clock time used: 0.214 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 17
+
+Creating bootstrap alignment (seed: 869529)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5216.960
+2. Current log-likelihood: -5136.514
+3. Current log-likelihood: -5136.181
+Optimal log-likelihood: -5136.181
+Rate parameters:  A-C: 3.06674  A-G: 4.62556  A-T: 2.79005  C-G: 2.36817  C-T: 6.23280  G-T: 1.00000
+Base frequencies:  A: 0.264  C: 0.256  G: 0.207  T: 0.273
+Parameters optimization took 3 rounds (0.007 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5136.181
+Total tree length: 0.600
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.218 sec (0h:0m:0s)
+Total wall-clock time used: 0.230 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 18
+
+Creating bootstrap alignment (seed: 869530)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5357.255
+2. Current log-likelihood: -5277.848
+3. Current log-likelihood: -5277.712
+Optimal log-likelihood: -5277.712
+Rate parameters:  A-C: 2.20346  A-G: 2.65385  A-T: 1.89387  C-G: 1.52468  C-T: 4.75814  G-T: 1.00000
+Base frequencies:  A: 0.274  C: 0.253  G: 0.210  T: 0.263
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5277.712
+Total tree length: 0.614
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.231 sec (0h:0m:0s)
+Total wall-clock time used: 0.243 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 19
+
+Creating bootstrap alignment (seed: 869531)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5573.806
+2. Current log-likelihood: -5468.763
+3. Current log-likelihood: -5468.294
+Optimal log-likelihood: -5468.293
+Rate parameters:  A-C: 3.10243  A-G: 4.29099  A-T: 2.08125  C-G: 2.11188  C-T: 6.15812  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.269  G: 0.224  T: 0.242
+Parameters optimization took 3 rounds (0.007 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5468.293
+Total tree length: 0.688
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.245 sec (0h:0m:0s)
+Total wall-clock time used: 0.259 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 20
+
+Creating bootstrap alignment (seed: 869532)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5174.323
+2. Current log-likelihood: -5080.200
+3. Current log-likelihood: -5079.906
+Optimal log-likelihood: -5079.905
+Rate parameters:  A-C: 1.87306  A-G: 2.58717  A-T: 1.21490  C-G: 1.17210  C-T: 4.19841  G-T: 1.00000
+Base frequencies:  A: 0.255  C: 0.278  G: 0.219  T: 0.249
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5079.905
+Total tree length: 0.583
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.258 sec (0h:0m:0s)
+Total wall-clock time used: 0.272 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 21
+
+Creating bootstrap alignment (seed: 869533)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5217.347
+2. Current log-likelihood: -5156.809
+3. Current log-likelihood: -5156.601
+Optimal log-likelihood: -5156.600
+Rate parameters:  A-C: 1.80729  A-G: 2.33372  A-T: 1.87861  C-G: 1.21621  C-T: 3.77690  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.269  G: 0.201  T: 0.263
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5156.600
+Total tree length: 0.599
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.269 sec (0h:0m:0s)
+Total wall-clock time used: 0.285 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 22
+
+Creating bootstrap alignment (seed: 869534)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5297.555
+2. Current log-likelihood: -5222.121
+3. Current log-likelihood: -5221.959
+Optimal log-likelihood: -5221.958
+Rate parameters:  A-C: 1.75159  A-G: 2.75072  A-T: 1.45225  C-G: 1.26453  C-T: 3.88851  G-T: 1.00000
+Base frequencies:  A: 0.254  C: 0.265  G: 0.230  T: 0.251
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5221.958
+Total tree length: 0.614
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.282 sec (0h:0m:0s)
+Total wall-clock time used: 0.297 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 23
+
+Creating bootstrap alignment (seed: 869535)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5064.637
+2. Current log-likelihood: -5004.259
+3. Current log-likelihood: -5003.985
+Optimal log-likelihood: -5003.983
+Rate parameters:  A-C: 1.82195  A-G: 3.10796  A-T: 1.71865  C-G: 1.57094  C-T: 3.81173  G-T: 1.00000
+Base frequencies:  A: 0.257  C: 0.270  G: 0.213  T: 0.260
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5003.983
+Total tree length: 0.564
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.295 sec (0h:0m:0s)
+Total wall-clock time used: 0.311 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 24
+
+Creating bootstrap alignment (seed: 869536)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5214.846
+2. Current log-likelihood: -5150.212
+3. Current log-likelihood: -5150.033
+Optimal log-likelihood: -5150.032
+Rate parameters:  A-C: 1.85490  A-G: 3.08073  A-T: 1.94003  C-G: 1.77839  C-T: 4.02978  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.274  G: 0.207  T: 0.269
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5150.032
+Total tree length: 0.606
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.309 sec (0h:0m:0s)
+Total wall-clock time used: 0.325 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 25
+
+Creating bootstrap alignment (seed: 869537)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5137.386
+2. Current log-likelihood: -5076.013
+3. Current log-likelihood: -5075.886
+Optimal log-likelihood: -5075.886
+Rate parameters:  A-C: 2.21298  A-G: 3.02746  A-T: 1.80548  C-G: 1.46581  C-T: 3.94776  G-T: 1.00000
+Base frequencies:  A: 0.255  C: 0.270  G: 0.221  T: 0.255
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5075.886
+Total tree length: 0.572
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.321 sec (0h:0m:0s)
+Total wall-clock time used: 0.338 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 26
+
+Creating bootstrap alignment (seed: 869538)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5234.188
+2. Current log-likelihood: -5152.478
+3. Current log-likelihood: -5152.358
+Optimal log-likelihood: -5152.358
+Rate parameters:  A-C: 2.25558  A-G: 4.71654  A-T: 1.92753  C-G: 2.15094  C-T: 4.92449  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.274  G: 0.194  T: 0.270
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5152.358
+Total tree length: 0.589
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.333 sec (0h:0m:0s)
+Total wall-clock time used: 0.351 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 27
+
+Creating bootstrap alignment (seed: 869539)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5294.430
+2. Current log-likelihood: -5188.779
+3. Current log-likelihood: -5188.510
+Optimal log-likelihood: -5188.508
+Rate parameters:  A-C: 2.95950  A-G: 4.69106  A-T: 1.71447  C-G: 2.26357  C-T: 6.33093  G-T: 1.00000
+Base frequencies:  A: 0.274  C: 0.253  G: 0.189  T: 0.284
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5188.508
+Total tree length: 0.640
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.347 sec (0h:0m:0s)
+Total wall-clock time used: 0.365 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 28
+
+Creating bootstrap alignment (seed: 869540)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5230.179
+2. Current log-likelihood: -5147.800
+3. Current log-likelihood: -5147.570
+Optimal log-likelihood: -5147.568
+Rate parameters:  A-C: 2.91818  A-G: 3.59550  A-T: 1.80943  C-G: 1.52290  C-T: 4.79963  G-T: 1.00000
+Base frequencies:  A: 0.253  C: 0.262  G: 0.216  T: 0.269
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5147.568
+Total tree length: 0.573
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.359 sec (0h:0m:0s)
+Total wall-clock time used: 0.378 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 29
+
+Creating bootstrap alignment (seed: 869541)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5238.022
+2. Current log-likelihood: -5131.241
+3. Current log-likelihood: -5130.831
+Optimal log-likelihood: -5130.830
+Rate parameters:  A-C: 3.34062  A-G: 6.04275  A-T: 3.51792  C-G: 2.65654  C-T: 8.20207  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.267  G: 0.194  T: 0.278
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5130.830
+Total tree length: 0.620
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.372 sec (0h:0m:0s)
+Total wall-clock time used: 0.391 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 30
+
+Creating bootstrap alignment (seed: 869542)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5466.717
+2. Current log-likelihood: -5339.429
+3. Current log-likelihood: -5338.807
+Optimal log-likelihood: -5338.805
+Rate parameters:  A-C: 1.49317  A-G: 3.04710  A-T: 1.51779  C-G: 1.44572  C-T: 5.21899  G-T: 1.00000
+Base frequencies:  A: 0.274  C: 0.260  G: 0.206  T: 0.259
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5338.805
+Total tree length: 0.657
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.385 sec (0h:0m:0s)
+Total wall-clock time used: 0.405 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 31
+
+Creating bootstrap alignment (seed: 869543)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5087.216
+2. Current log-likelihood: -4987.222
+3. Current log-likelihood: -4986.962
+Optimal log-likelihood: -4986.962
+Rate parameters:  A-C: 1.26734  A-G: 3.15336  A-T: 1.52437  C-G: 1.27096  C-T: 4.45729  G-T: 1.00000
+Base frequencies:  A: 0.287  C: 0.246  G: 0.201  T: 0.267
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -4986.962
+Total tree length: 0.565
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.397 sec (0h:0m:0s)
+Total wall-clock time used: 0.417 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 32
+
+Creating bootstrap alignment (seed: 869544)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5218.777
+2. Current log-likelihood: -5151.774
+3. Current log-likelihood: -5151.641
+Optimal log-likelihood: -5151.641
+Rate parameters:  A-C: 1.33211  A-G: 2.78599  A-T: 1.17206  C-G: 1.24825  C-T: 3.05365  G-T: 1.00000
+Base frequencies:  A: 0.272  C: 0.266  G: 0.197  T: 0.265
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5151.641
+Total tree length: 0.588
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.409 sec (0h:0m:0s)
+Total wall-clock time used: 0.430 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 33
+
+Creating bootstrap alignment (seed: 869545)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5354.485
+2. Current log-likelihood: -5306.206
+3. Current log-likelihood: -5290.803
+4. Current log-likelihood: -5290.714
+Optimal log-likelihood: -5290.713
+Rate parameters:  A-C: 1.92124  A-G: 3.61394  A-T: 1.83957  C-G: 1.62913  C-T: 3.78634  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.266  G: 0.203  T: 0.271
+Parameters optimization took 4 rounds (0.009 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5290.713
+Total tree length: 0.636
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.426 sec (0h:0m:0s)
+Total wall-clock time used: 0.447 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 34
+
+Creating bootstrap alignment (seed: 869546)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5211.976
+2. Current log-likelihood: -5116.065
+3. Current log-likelihood: -5115.708
+Optimal log-likelihood: -5115.707
+Rate parameters:  A-C: 1.94257  A-G: 3.53861  A-T: 1.87156  C-G: 1.69068  C-T: 5.46189  G-T: 1.00000
+Base frequencies:  A: 0.254  C: 0.274  G: 0.214  T: 0.258
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5115.707
+Total tree length: 0.601
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.438 sec (0h:0m:0s)
+Total wall-clock time used: 0.460 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 35
+
+Creating bootstrap alignment (seed: 869547)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5199.581
+2. Current log-likelihood: -5106.253
+3. Current log-likelihood: -5105.760
+Optimal log-likelihood: -5105.760
+Rate parameters:  A-C: 2.11532  A-G: 3.01758  A-T: 1.29124  C-G: 1.68748  C-T: 5.09184  G-T: 1.00000
+Base frequencies:  A: 0.280  C: 0.259  G: 0.202  T: 0.259
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5105.760
+Total tree length: 0.606
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.452 sec (0h:0m:0s)
+Total wall-clock time used: 0.474 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 36
+
+Creating bootstrap alignment (seed: 869548)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5330.849
+2. Current log-likelihood: -5245.372
+3. Current log-likelihood: -5244.969
+Optimal log-likelihood: -5244.967
+Rate parameters:  A-C: 2.18411  A-G: 3.13084  A-T: 2.18895  C-G: 1.36886  C-T: 5.09054  G-T: 1.00000
+Base frequencies:  A: 0.263  C: 0.269  G: 0.209  T: 0.259
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5244.967
+Total tree length: 0.618
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.464 sec (0h:0m:0s)
+Total wall-clock time used: 0.487 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 37
+
+Creating bootstrap alignment (seed: 869549)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5292.426
+2. Current log-likelihood: -5207.393
+3. Current log-likelihood: -5207.230
+Optimal log-likelihood: -5207.227
+Rate parameters:  A-C: 2.53475  A-G: 3.34898  A-T: 2.13881  C-G: 1.53175  C-T: 5.26622  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.262  G: 0.219  T: 0.253
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5207.227
+Total tree length: 0.604
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.477 sec (0h:0m:0s)
+Total wall-clock time used: 0.500 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 38
+
+Creating bootstrap alignment (seed: 869550)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5396.438
+2. Current log-likelihood: -5304.996
+3. Current log-likelihood: -5304.699
+Optimal log-likelihood: -5304.698
+Rate parameters:  A-C: 1.69897  A-G: 2.69169  A-T: 0.96826  C-G: 1.26054  C-T: 3.76464  G-T: 1.00000
+Base frequencies:  A: 0.282  C: 0.265  G: 0.195  T: 0.258
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5304.698
+Total tree length: 0.627
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.489 sec (0h:0m:0s)
+Total wall-clock time used: 0.513 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 39
+
+Creating bootstrap alignment (seed: 869551)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5141.971
+2. Current log-likelihood: -5071.588
+3. Current log-likelihood: -5071.374
+Optimal log-likelihood: -5071.372
+Rate parameters:  A-C: 1.57397  A-G: 3.15483  A-T: 1.71537  C-G: 2.09401  C-T: 4.14994  G-T: 1.00000
+Base frequencies:  A: 0.249  C: 0.274  G: 0.209  T: 0.268
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5071.372
+Total tree length: 0.607
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.501 sec (0h:0m:0s)
+Total wall-clock time used: 0.526 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 40
+
+Creating bootstrap alignment (seed: 869552)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5260.564
+2. Current log-likelihood: -5181.308
+3. Current log-likelihood: -5181.140
+Optimal log-likelihood: -5181.140
+Rate parameters:  A-C: 1.79030  A-G: 4.21711  A-T: 2.08879  C-G: 2.22485  C-T: 4.93365  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.277  G: 0.190  T: 0.267
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5181.140
+Total tree length: 0.596
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.514 sec (0h:0m:0s)
+Total wall-clock time used: 0.539 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 41
+
+Creating bootstrap alignment (seed: 869553)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5322.345
+2. Current log-likelihood: -5243.964
+3. Current log-likelihood: -5243.639
+Optimal log-likelihood: -5243.639
+Rate parameters:  A-C: 1.85622  A-G: 2.64933  A-T: 1.40320  C-G: 1.43684  C-T: 4.20081  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.256  G: 0.212  T: 0.272
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5243.639
+Total tree length: 0.620
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.526 sec (0h:0m:0s)
+Total wall-clock time used: 0.552 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 42
+
+Creating bootstrap alignment (seed: 869554)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5326.340
+2. Current log-likelihood: -5256.681
+3. Current log-likelihood: -5256.495
+Optimal log-likelihood: -5256.495
+Rate parameters:  A-C: 1.80117  A-G: 2.60949  A-T: 1.36443  C-G: 1.27092  C-T: 3.65564  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.264  G: 0.203  T: 0.271
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5256.495
+Total tree length: 0.642
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.538 sec (0h:0m:0s)
+Total wall-clock time used: 0.564 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 43
+
+Creating bootstrap alignment (seed: 869555)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5364.066
+2. Current log-likelihood: -5269.432
+3. Current log-likelihood: -5269.131
+Optimal log-likelihood: -5269.130
+Rate parameters:  A-C: 2.17566  A-G: 3.95498  A-T: 2.31066  C-G: 2.12947  C-T: 5.85657  G-T: 1.00000
+Base frequencies:  A: 0.241  C: 0.283  G: 0.200  T: 0.276
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5269.130
+Total tree length: 0.635
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.551 sec (0h:0m:0s)
+Total wall-clock time used: 0.577 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 44
+
+Creating bootstrap alignment (seed: 869556)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5065.084
+2. Current log-likelihood: -4977.713
+3. Current log-likelihood: -4977.435
+Optimal log-likelihood: -4977.434
+Rate parameters:  A-C: 1.78159  A-G: 3.54937  A-T: 1.60306  C-G: 2.27405  C-T: 5.22523  G-T: 1.00000
+Base frequencies:  A: 0.267  C: 0.273  G: 0.206  T: 0.254
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -4977.434
+Total tree length: 0.576
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.563 sec (0h:0m:0s)
+Total wall-clock time used: 0.590 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 45
+
+Creating bootstrap alignment (seed: 869557)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5192.518
+2. Current log-likelihood: -5072.827
+3. Current log-likelihood: -5072.350
+Optimal log-likelihood: -5072.349
+Rate parameters:  A-C: 1.17313  A-G: 2.86239  A-T: 1.21194  C-G: 1.26200  C-T: 4.45220  G-T: 1.00000
+Base frequencies:  A: 0.254  C: 0.274  G: 0.220  T: 0.252
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5072.349
+Total tree length: 0.595
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.576 sec (0h:0m:0s)
+Total wall-clock time used: 0.604 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 46
+
+Creating bootstrap alignment (seed: 869558)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -4973.627
+2. Current log-likelihood: -4865.379
+3. Current log-likelihood: -4865.120
+Optimal log-likelihood: -4865.119
+Rate parameters:  A-C: 1.62583  A-G: 4.64896  A-T: 2.33831  C-G: 2.23736  C-T: 6.12373  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.261  G: 0.204  T: 0.269
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -4865.119
+Total tree length: 0.529
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.589 sec (0h:0m:0s)
+Total wall-clock time used: 0.618 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 47
+
+Creating bootstrap alignment (seed: 869559)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5269.924
+2. Current log-likelihood: -5196.944
+3. Current log-likelihood: -5196.849
+Optimal log-likelihood: -5196.849
+Rate parameters:  A-C: 2.06698  A-G: 3.97461  A-T: 2.07410  C-G: 2.52267  C-T: 4.84562  G-T: 1.00000
+Base frequencies:  A: 0.247  C: 0.293  G: 0.199  T: 0.261
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5196.849
+Total tree length: 0.606
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.601 sec (0h:0m:0s)
+Total wall-clock time used: 0.630 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 48
+
+Creating bootstrap alignment (seed: 869560)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5422.881
+2. Current log-likelihood: -5335.945
+3. Current log-likelihood: -5335.635
+Optimal log-likelihood: -5335.632
+Rate parameters:  A-C: 1.40051  A-G: 2.54922  A-T: 1.17324  C-G: 1.13757  C-T: 3.59313  G-T: 1.00000
+Base frequencies:  A: 0.277  C: 0.266  G: 0.207  T: 0.250
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5335.632
+Total tree length: 0.664
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.613 sec (0h:0m:0s)
+Total wall-clock time used: 0.643 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 49
+
+Creating bootstrap alignment (seed: 869561)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5232.238
+2. Current log-likelihood: -5159.416
+3. Current log-likelihood: -5159.016
+Optimal log-likelihood: -5159.015
+Rate parameters:  A-C: 2.13191  A-G: 3.74365  A-T: 1.82124  C-G: 1.92891  C-T: 4.73453  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.279  G: 0.204  T: 0.256
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5159.015
+Total tree length: 0.610
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.626 sec (0h:0m:0s)
+Total wall-clock time used: 0.656 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 50
+
+Creating bootstrap alignment (seed: 869562)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5344.127
+2. Current log-likelihood: -5225.892
+3. Current log-likelihood: -5225.390
+Optimal log-likelihood: -5225.388
+Rate parameters:  A-C: 2.00596  A-G: 3.51472  A-T: 1.51196  C-G: 1.82437  C-T: 5.87681  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.258  G: 0.209  T: 0.271
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5225.388
+Total tree length: 0.627
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.639 sec (0h:0m:0s)
+Total wall-clock time used: 0.670 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 51
+
+Creating bootstrap alignment (seed: 869563)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5343.247
+2. Current log-likelihood: -5262.997
+3. Current log-likelihood: -5262.761
+Optimal log-likelihood: -5262.761
+Rate parameters:  A-C: 1.64593  A-G: 3.31511  A-T: 1.51406  C-G: 1.52308  C-T: 3.92777  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.259  G: 0.191  T: 0.289
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5262.761
+Total tree length: 0.616
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.651 sec (0h:0m:0s)
+Total wall-clock time used: 0.683 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 52
+
+Creating bootstrap alignment (seed: 869564)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5323.137
+2. Current log-likelihood: -5246.901
+3. Current log-likelihood: -5246.686
+Optimal log-likelihood: -5246.686
+Rate parameters:  A-C: 2.43824  A-G: 3.35978  A-T: 1.88827  C-G: 1.31904  C-T: 4.12156  G-T: 1.00000
+Base frequencies:  A: 0.249  C: 0.255  G: 0.233  T: 0.263
+Parameters optimization took 3 rounds (0.006 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5246.686
+Total tree length: 0.596
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.665 sec (0h:0m:0s)
+Total wall-clock time used: 0.697 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 53
+
+Creating bootstrap alignment (seed: 869565)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5305.687
+2. Current log-likelihood: -5226.735
+3. Current log-likelihood: -5226.534
+Optimal log-likelihood: -5226.534
+Rate parameters:  A-C: 1.56245  A-G: 2.46393  A-T: 1.63558  C-G: 1.65389  C-T: 4.34594  G-T: 1.00000
+Base frequencies:  A: 0.258  C: 0.269  G: 0.202  T: 0.271
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5226.534
+Total tree length: 0.626
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.678 sec (0h:0m:0s)
+Total wall-clock time used: 0.710 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 54
+
+Creating bootstrap alignment (seed: 869566)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5273.822
+2. Current log-likelihood: -5202.859
+3. Current log-likelihood: -5202.742
+Optimal log-likelihood: -5202.742
+Rate parameters:  A-C: 1.72821  A-G: 2.61167  A-T: 1.70241  C-G: 1.34339  C-T: 3.79944  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.271  G: 0.211  T: 0.258
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5202.742
+Total tree length: 0.597
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.690 sec (0h:0m:0s)
+Total wall-clock time used: 0.723 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 55
+
+Creating bootstrap alignment (seed: 869567)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5231.940
+2. Current log-likelihood: -5158.517
+3. Current log-likelihood: -5158.303
+Optimal log-likelihood: -5158.303
+Rate parameters:  A-C: 1.95676  A-G: 2.90198  A-T: 1.25669  C-G: 1.73775  C-T: 4.14605  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.265  G: 0.208  T: 0.267
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5158.303
+Total tree length: 0.610
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.702 sec (0h:0m:0s)
+Total wall-clock time used: 0.736 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 56
+
+Creating bootstrap alignment (seed: 869568)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5200.623
+2. Current log-likelihood: -5121.336
+3. Current log-likelihood: -5121.122
+Optimal log-likelihood: -5121.122
+Rate parameters:  A-C: 2.20951  A-G: 3.36410  A-T: 1.39900  C-G: 1.14726  C-T: 3.69170  G-T: 1.00000
+Base frequencies:  A: 0.254  C: 0.282  G: 0.206  T: 0.258
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5121.122
+Total tree length: 0.588
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.715 sec (0h:0m:0s)
+Total wall-clock time used: 0.750 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 57
+
+Creating bootstrap alignment (seed: 869569)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5213.727
+2. Current log-likelihood: -5115.962
+3. Current log-likelihood: -5115.503
+Optimal log-likelihood: -5115.502
+Rate parameters:  A-C: 2.11297  A-G: 3.34889  A-T: 1.59444  C-G: 1.88178  C-T: 5.34237  G-T: 1.00000
+Base frequencies:  A: 0.241  C: 0.267  G: 0.206  T: 0.286
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5115.502
+Total tree length: 0.601
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.728 sec (0h:0m:0s)
+Total wall-clock time used: 0.763 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 58
+
+Creating bootstrap alignment (seed: 869570)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5253.893
+2. Current log-likelihood: -5172.858
+3. Current log-likelihood: -5172.602
+Optimal log-likelihood: -5172.601
+Rate parameters:  A-C: 1.90645  A-G: 2.95934  A-T: 1.57522  C-G: 1.34866  C-T: 4.27070  G-T: 1.00000
+Base frequencies:  A: 0.251  C: 0.275  G: 0.210  T: 0.263
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5172.601
+Total tree length: 0.595
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.741 sec (0h:0m:0s)
+Total wall-clock time used: 0.776 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 59
+
+Creating bootstrap alignment (seed: 869571)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5321.732
+2. Current log-likelihood: -5240.426
+3. Current log-likelihood: -5240.250
+Optimal log-likelihood: -5240.250
+Rate parameters:  A-C: 2.76837  A-G: 5.09328  A-T: 2.61368  C-G: 2.45778  C-T: 5.93736  G-T: 1.00000
+Base frequencies:  A: 0.270  C: 0.260  G: 0.211  T: 0.259
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5240.250
+Total tree length: 0.611
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.753 sec (0h:0m:0s)
+Total wall-clock time used: 0.789 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 60
+
+Creating bootstrap alignment (seed: 869572)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5014.039
+2. Current log-likelihood: -4929.244
+3. Current log-likelihood: -4929.011
+Optimal log-likelihood: -4929.011
+Rate parameters:  A-C: 4.02960  A-G: 5.15273  A-T: 3.04408  C-G: 3.48850  C-T: 7.42206  G-T: 1.00000
+Base frequencies:  A: 0.251  C: 0.256  G: 0.196  T: 0.298
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -4929.011
+Total tree length: 0.550
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.766 sec (0h:0m:0s)
+Total wall-clock time used: 0.802 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 61
+
+Creating bootstrap alignment (seed: 869573)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5444.061
+2. Current log-likelihood: -5378.257
+3. Current log-likelihood: -5377.986
+Optimal log-likelihood: -5377.985
+Rate parameters:  A-C: 2.06022  A-G: 2.80707  A-T: 1.41451  C-G: 1.46841  C-T: 3.50559  G-T: 1.00000
+Base frequencies:  A: 0.234  C: 0.258  G: 0.203  T: 0.305
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5377.985
+Total tree length: 0.648
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.778 sec (0h:0m:0s)
+Total wall-clock time used: 0.815 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 62
+
+Creating bootstrap alignment (seed: 869574)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5087.648
+2. Current log-likelihood: -4973.534
+3. Current log-likelihood: -4973.156
+Optimal log-likelihood: -4973.151
+Rate parameters:  A-C: 1.84918  A-G: 3.99073  A-T: 1.97997  C-G: 1.24947  C-T: 5.32053  G-T: 1.00000
+Base frequencies:  A: 0.236  C: 0.293  G: 0.210  T: 0.262
+Parameters optimization took 3 rounds (0.006 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -4973.151
+Total tree length: 0.574
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.791 sec (0h:0m:0s)
+Total wall-clock time used: 0.830 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 63
+
+Creating bootstrap alignment (seed: 869575)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5290.844
+2. Current log-likelihood: -5211.795
+3. Current log-likelihood: -5211.521
+Optimal log-likelihood: -5211.519
+Rate parameters:  A-C: 1.62745  A-G: 2.82979  A-T: 1.63454  C-G: 1.70757  C-T: 4.54880  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.261  G: 0.227  T: 0.247
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5211.519
+Total tree length: 0.627
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.803 sec (0h:0m:0s)
+Total wall-clock time used: 0.843 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 64
+
+Creating bootstrap alignment (seed: 869576)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5223.074
+2. Current log-likelihood: -5152.534
+3. Current log-likelihood: -5152.208
+Optimal log-likelihood: -5152.207
+Rate parameters:  A-C: 2.21856  A-G: 3.77433  A-T: 2.04897  C-G: 1.93146  C-T: 4.78728  G-T: 1.00000
+Base frequencies:  A: 0.254  C: 0.264  G: 0.208  T: 0.274
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5152.207
+Total tree length: 0.613
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.816 sec (0h:0m:0s)
+Total wall-clock time used: 0.857 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 65
+
+Creating bootstrap alignment (seed: 869577)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5122.615
+2. Current log-likelihood: -5049.958
+3. Current log-likelihood: -5049.607
+Optimal log-likelihood: -5049.606
+Rate parameters:  A-C: 1.86326  A-G: 3.44342  A-T: 1.50866  C-G: 1.39867  C-T: 3.97024  G-T: 1.00000
+Base frequencies:  A: 0.271  C: 0.280  G: 0.183  T: 0.266
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5049.606
+Total tree length: 0.581
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.828 sec (0h:0m:0s)
+Total wall-clock time used: 0.870 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 66
+
+Creating bootstrap alignment (seed: 869578)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5348.705
+2. Current log-likelihood: -5271.063
+3. Current log-likelihood: -5270.918
+Optimal log-likelihood: -5270.918
+Rate parameters:  A-C: 2.30495  A-G: 4.93506  A-T: 2.61398  C-G: 2.50432  C-T: 5.14929  G-T: 1.00000
+Base frequencies:  A: 0.256  C: 0.258  G: 0.220  T: 0.266
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5270.918
+Total tree length: 0.628
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.840 sec (0h:0m:0s)
+Total wall-clock time used: 0.882 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 67
+
+Creating bootstrap alignment (seed: 869579)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5131.852
+2. Current log-likelihood: -5029.424
+3. Current log-likelihood: -5029.216
+Optimal log-likelihood: -5029.216
+Rate parameters:  A-C: 3.15953  A-G: 5.70344  A-T: 1.86793  C-G: 3.02707  C-T: 6.94862  G-T: 1.00000
+Base frequencies:  A: 0.247  C: 0.275  G: 0.204  T: 0.275
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5029.216
+Total tree length: 0.574
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.853 sec (0h:0m:0s)
+Total wall-clock time used: 0.896 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 68
+
+Creating bootstrap alignment (seed: 869580)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5471.724
+2. Current log-likelihood: -5350.772
+3. Current log-likelihood: -5350.391
+Optimal log-likelihood: -5350.390
+Rate parameters:  A-C: 2.25167  A-G: 5.09751  A-T: 1.84494  C-G: 1.72168  C-T: 5.22302  G-T: 1.00000
+Base frequencies:  A: 0.236  C: 0.255  G: 0.226  T: 0.283
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5350.390
+Total tree length: 0.650
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.866 sec (0h:0m:0s)
+Total wall-clock time used: 0.909 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 69
+
+Creating bootstrap alignment (seed: 869581)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5210.192
+2. Current log-likelihood: -5115.079
+3. Current log-likelihood: -5114.749
+Optimal log-likelihood: -5114.749
+Rate parameters:  A-C: 2.61430  A-G: 3.38460  A-T: 2.82052  C-G: 1.87858  C-T: 6.54379  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.258  G: 0.208  T: 0.269
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5114.749
+Total tree length: 0.597
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.878 sec (0h:0m:0s)
+Total wall-clock time used: 0.922 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 70
+
+Creating bootstrap alignment (seed: 869582)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5225.070
+2. Current log-likelihood: -5159.938
+3. Current log-likelihood: -5159.709
+Optimal log-likelihood: -5159.709
+Rate parameters:  A-C: 1.63951  A-G: 3.21459  A-T: 1.64019  C-G: 1.70493  C-T: 3.75095  G-T: 1.00000
+Base frequencies:  A: 0.237  C: 0.290  G: 0.210  T: 0.263
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5159.709
+Total tree length: 0.605
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.890 sec (0h:0m:0s)
+Total wall-clock time used: 0.934 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 71
+
+Creating bootstrap alignment (seed: 869583)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5158.775
+2. Current log-likelihood: -5096.027
+3. Current log-likelihood: -5095.882
+Optimal log-likelihood: -5095.882
+Rate parameters:  A-C: 1.99791  A-G: 3.93717  A-T: 2.49308  C-G: 1.84128  C-T: 4.26279  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.274  G: 0.202  T: 0.274
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5095.882
+Total tree length: 0.592
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.903 sec (0h:0m:0s)
+Total wall-clock time used: 0.947 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 72
+
+Creating bootstrap alignment (seed: 869584)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5245.827
+2. Current log-likelihood: -5133.224
+3. Current log-likelihood: -5132.676
+Optimal log-likelihood: -5132.675
+Rate parameters:  A-C: 3.05641  A-G: 4.55422  A-T: 2.54442  C-G: 2.36403  C-T: 7.96258  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.262  G: 0.216  T: 0.261
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5132.675
+Total tree length: 0.626
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.916 sec (0h:0m:0s)
+Total wall-clock time used: 0.961 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 73
+
+Creating bootstrap alignment (seed: 869585)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5367.085
+2. Current log-likelihood: -5272.195
+3. Current log-likelihood: -5271.916
+Optimal log-likelihood: -5271.916
+Rate parameters:  A-C: 1.88100  A-G: 4.22064  A-T: 1.86355  C-G: 1.50976  C-T: 4.39821  G-T: 1.00000
+Base frequencies:  A: 0.270  C: 0.257  G: 0.200  T: 0.273
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5271.916
+Total tree length: 0.649
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.928 sec (0h:0m:0s)
+Total wall-clock time used: 0.974 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 74
+
+Creating bootstrap alignment (seed: 869586)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5172.844
+2. Current log-likelihood: -5107.810
+3. Current log-likelihood: -5107.642
+Optimal log-likelihood: -5107.641
+Rate parameters:  A-C: 2.10423  A-G: 2.52826  A-T: 1.34318  C-G: 1.43841  C-T: 3.71842  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.263  G: 0.203  T: 0.273
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5107.641
+Total tree length: 0.576
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.940 sec (0h:0m:0s)
+Total wall-clock time used: 0.986 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 75
+
+Creating bootstrap alignment (seed: 869587)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5285.450
+2. Current log-likelihood: -5215.368
+3. Current log-likelihood: -5215.218
+Optimal log-likelihood: -5215.218
+Rate parameters:  A-C: 1.48235  A-G: 2.27107  A-T: 1.15127  C-G: 1.04750  C-T: 3.15067  G-T: 1.00000
+Base frequencies:  A: 0.248  C: 0.265  G: 0.214  T: 0.273
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5215.218
+Total tree length: 0.604
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.952 sec (0h:0m:0s)
+Total wall-clock time used: 0.999 sec (0h:0m:0s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 76
+
+Creating bootstrap alignment (seed: 869588)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5149.183
+2. Current log-likelihood: -5068.250
+3. Current log-likelihood: -5068.072
+Optimal log-likelihood: -5068.071
+Rate parameters:  A-C: 1.92542  A-G: 3.26141  A-T: 1.73650  C-G: 1.69948  C-T: 4.67219  G-T: 1.00000
+Base frequencies:  A: 0.246  C: 0.263  G: 0.222  T: 0.270
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5068.071
+Total tree length: 0.574
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.964 sec (0h:0m:0s)
+Total wall-clock time used: 1.011 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 77
+
+Creating bootstrap alignment (seed: 869589)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5309.636
+2. Current log-likelihood: -5217.933
+3. Current log-likelihood: -5217.582
+Optimal log-likelihood: -5217.577
+Rate parameters:  A-C: 1.70334  A-G: 3.30141  A-T: 1.78524  C-G: 1.42253  C-T: 4.79068  G-T: 1.00000
+Base frequencies:  A: 0.277  C: 0.270  G: 0.190  T: 0.264
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5217.577
+Total tree length: 0.608
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.977 sec (0h:0m:0s)
+Total wall-clock time used: 1.025 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 78
+
+Creating bootstrap alignment (seed: 869590)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5307.697
+2. Current log-likelihood: -5220.555
+3. Current log-likelihood: -5220.236
+Optimal log-likelihood: -5220.235
+Rate parameters:  A-C: 2.19994  A-G: 3.67235  A-T: 2.16039  C-G: 1.68691  C-T: 5.24558  G-T: 1.00000
+Base frequencies:  A: 0.257  C: 0.274  G: 0.211  T: 0.257
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5220.235
+Total tree length: 0.615
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 0.989 sec (0h:0m:0s)
+Total wall-clock time used: 1.038 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 79
+
+Creating bootstrap alignment (seed: 869591)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5339.210
+2. Current log-likelihood: -5254.035
+3. Current log-likelihood: -5253.784
+Optimal log-likelihood: -5253.783
+Rate parameters:  A-C: 2.30632  A-G: 3.55826  A-T: 1.95092  C-G: 1.48744  C-T: 4.98695  G-T: 1.00000
+Base frequencies:  A: 0.272  C: 0.269  G: 0.212  T: 0.247
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5253.783
+Total tree length: 0.615
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.002 sec (0h:0m:1s)
+Total wall-clock time used: 1.051 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 80
+
+Creating bootstrap alignment (seed: 869592)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5382.732
+2. Current log-likelihood: -5284.916
+3. Current log-likelihood: -5284.651
+Optimal log-likelihood: -5284.651
+Rate parameters:  A-C: 3.17412  A-G: 4.51638  A-T: 1.85479  C-G: 2.06719  C-T: 5.87275  G-T: 1.00000
+Base frequencies:  A: 0.279  C: 0.238  G: 0.212  T: 0.272
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5284.651
+Total tree length: 0.653
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.015 sec (0h:0m:1s)
+Total wall-clock time used: 1.064 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 81
+
+Creating bootstrap alignment (seed: 869593)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5354.380
+2. Current log-likelihood: -5261.438
+3. Current log-likelihood: -5260.985
+Optimal log-likelihood: -5260.984
+Rate parameters:  A-C: 2.67972  A-G: 4.39928  A-T: 2.24198  C-G: 1.77279  C-T: 5.59798  G-T: 1.00000
+Base frequencies:  A: 0.271  C: 0.256  G: 0.208  T: 0.264
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5260.984
+Total tree length: 0.659
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.028 sec (0h:0m:1s)
+Total wall-clock time used: 1.078 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 82
+
+Creating bootstrap alignment (seed: 869594)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5282.568
+2. Current log-likelihood: -5195.302
+3. Current log-likelihood: -5194.950
+Optimal log-likelihood: -5194.950
+Rate parameters:  A-C: 2.16628  A-G: 3.22034  A-T: 1.82901  C-G: 1.55596  C-T: 4.92059  G-T: 1.00000
+Base frequencies:  A: 0.256  C: 0.280  G: 0.200  T: 0.265
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5194.950
+Total tree length: 0.629
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.040 sec (0h:0m:1s)
+Total wall-clock time used: 1.091 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 83
+
+Creating bootstrap alignment (seed: 869595)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5366.359
+2. Current log-likelihood: -5256.809
+3. Current log-likelihood: -5256.077
+Optimal log-likelihood: -5256.077
+Rate parameters:  A-C: 2.92390  A-G: 3.94350  A-T: 2.13400  C-G: 2.07328  C-T: 6.83336  G-T: 1.00000
+Base frequencies:  A: 0.241  C: 0.273  G: 0.219  T: 0.267
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5256.077
+Total tree length: 0.631
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.053 sec (0h:0m:1s)
+Total wall-clock time used: 1.104 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 84
+
+Creating bootstrap alignment (seed: 869596)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5368.516
+2. Current log-likelihood: -5265.017
+3. Current log-likelihood: -5264.678
+Optimal log-likelihood: -5264.678
+Rate parameters:  A-C: 1.87393  A-G: 3.46633  A-T: 1.54151  C-G: 1.36962  C-T: 4.82855  G-T: 1.00000
+Base frequencies:  A: 0.250  C: 0.270  G: 0.222  T: 0.258
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5264.678
+Total tree length: 0.647
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.065 sec (0h:0m:1s)
+Total wall-clock time used: 1.116 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 85
+
+Creating bootstrap alignment (seed: 869597)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5199.368
+2. Current log-likelihood: -5100.702
+3. Current log-likelihood: -5100.433
+Optimal log-likelihood: -5100.433
+Rate parameters:  A-C: 2.29900  A-G: 5.66542  A-T: 2.20171  C-G: 2.65127  C-T: 6.27883  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.262  G: 0.199  T: 0.273
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5100.433
+Total tree length: 0.600
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.078 sec (0h:0m:1s)
+Total wall-clock time used: 1.130 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 86
+
+Creating bootstrap alignment (seed: 869598)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5211.285
+2. Current log-likelihood: -5123.628
+3. Current log-likelihood: -5123.294
+Optimal log-likelihood: -5123.294
+Rate parameters:  A-C: 1.47952  A-G: 2.91887  A-T: 1.49080  C-G: 1.82439  C-T: 4.67920  G-T: 1.00000
+Base frequencies:  A: 0.264  C: 0.285  G: 0.201  T: 0.250
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5123.294
+Total tree length: 0.607
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.090 sec (0h:0m:1s)
+Total wall-clock time used: 1.143 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 87
+
+Creating bootstrap alignment (seed: 869599)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5262.722
+2. Current log-likelihood: -5203.001
+3. Current log-likelihood: -5202.909
+Optimal log-likelihood: -5202.909
+Rate parameters:  A-C: 2.41931  A-G: 3.16616  A-T: 1.64665  C-G: 1.94974  C-T: 4.19409  G-T: 1.00000
+Base frequencies:  A: 0.277  C: 0.264  G: 0.196  T: 0.263
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5202.909
+Total tree length: 0.597
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.103 sec (0h:0m:1s)
+Total wall-clock time used: 1.156 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 88
+
+Creating bootstrap alignment (seed: 869600)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5279.615
+2. Current log-likelihood: -5207.844
+3. Current log-likelihood: -5207.636
+Optimal log-likelihood: -5207.635
+Rate parameters:  A-C: 1.64492  A-G: 3.00061  A-T: 1.39767  C-G: 1.81965  C-T: 4.04306  G-T: 1.00000
+Base frequencies:  A: 0.275  C: 0.257  G: 0.204  T: 0.264
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5207.635
+Total tree length: 0.619
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.114 sec (0h:0m:1s)
+Total wall-clock time used: 1.168 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 89
+
+Creating bootstrap alignment (seed: 869601)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5318.932
+2. Current log-likelihood: -5227.065
+3. Current log-likelihood: -5226.752
+Optimal log-likelihood: -5226.749
+Rate parameters:  A-C: 1.85982  A-G: 2.85959  A-T: 1.33454  C-G: 1.76510  C-T: 4.70455  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.258  G: 0.219  T: 0.258
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5226.749
+Total tree length: 0.624
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.127 sec (0h:0m:1s)
+Total wall-clock time used: 1.181 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 90
+
+Creating bootstrap alignment (seed: 869602)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5531.406
+2. Current log-likelihood: -5433.422
+3. Current log-likelihood: -5432.996
+Optimal log-likelihood: -5432.996
+Rate parameters:  A-C: 1.76461  A-G: 3.75268  A-T: 1.92462  C-G: 1.34460  C-T: 4.49136  G-T: 1.00000
+Base frequencies:  A: 0.260  C: 0.284  G: 0.197  T: 0.259
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5432.996
+Total tree length: 0.655
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.139 sec (0h:0m:1s)
+Total wall-clock time used: 1.193 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 91
+
+Creating bootstrap alignment (seed: 869603)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5333.277
+2. Current log-likelihood: -5214.335
+3. Current log-likelihood: -5213.855
+Optimal log-likelihood: -5213.855
+Rate parameters:  A-C: 1.94572  A-G: 3.53226  A-T: 1.28535  C-G: 1.33027  C-T: 5.00713  G-T: 1.00000
+Base frequencies:  A: 0.258  C: 0.281  G: 0.196  T: 0.265
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5213.855
+Total tree length: 0.616
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.151 sec (0h:0m:1s)
+Total wall-clock time used: 1.206 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 92
+
+Creating bootstrap alignment (seed: 869604)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5130.728
+2. Current log-likelihood: -5052.091
+3. Current log-likelihood: -5051.952
+Optimal log-likelihood: -5051.951
+Rate parameters:  A-C: 2.81819  A-G: 3.69132  A-T: 2.22379  C-G: 1.96284  C-T: 5.53552  G-T: 1.00000
+Base frequencies:  A: 0.266  C: 0.265  G: 0.213  T: 0.256
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5051.951
+Total tree length: 0.567
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.163 sec (0h:0m:1s)
+Total wall-clock time used: 1.219 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 93
+
+Creating bootstrap alignment (seed: 869605)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5483.199
+2. Current log-likelihood: -5365.455
+3. Current log-likelihood: -5365.026
+Optimal log-likelihood: -5365.025
+Rate parameters:  A-C: 2.32969  A-G: 2.84357  A-T: 1.59860  C-G: 1.26430  C-T: 5.40320  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.260  G: 0.214  T: 0.260
+Parameters optimization took 3 rounds (0.007 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5365.025
+Total tree length: 0.649
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.177 sec (0h:0m:1s)
+Total wall-clock time used: 1.235 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 94
+
+Creating bootstrap alignment (seed: 869606)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5220.083
+2. Current log-likelihood: -5150.251
+3. Current log-likelihood: -5150.063
+Optimal log-likelihood: -5150.062
+Rate parameters:  A-C: 1.65190  A-G: 2.31099  A-T: 1.33072  C-G: 1.52020  C-T: 3.88370  G-T: 1.00000
+Base frequencies:  A: 0.282  C: 0.259  G: 0.199  T: 0.260
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5150.062
+Total tree length: 0.582
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.189 sec (0h:0m:1s)
+Total wall-clock time used: 1.248 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 95
+
+Creating bootstrap alignment (seed: 869607)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5255.280
+2. Current log-likelihood: -5158.232
+3. Current log-likelihood: -5157.963
+Optimal log-likelihood: -5157.963
+Rate parameters:  A-C: 2.92777  A-G: 4.97008  A-T: 2.23590  C-G: 2.37135  C-T: 6.57511  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.252  G: 0.194  T: 0.290
+Parameters optimization took 3 rounds (0.005 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5157.963
+Total tree length: 0.598
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.202 sec (0h:0m:1s)
+Total wall-clock time used: 1.262 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 96
+
+Creating bootstrap alignment (seed: 869608)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5303.565
+2. Current log-likelihood: -5211.203
+3. Current log-likelihood: -5210.852
+Optimal log-likelihood: -5210.851
+Rate parameters:  A-C: 3.45516  A-G: 4.23914  A-T: 2.53841  C-G: 2.06036  C-T: 6.61970  G-T: 1.00000
+Base frequencies:  A: 0.249  C: 0.271  G: 0.213  T: 0.268
+Parameters optimization took 3 rounds (0.006 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5210.851
+Total tree length: 0.615
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.216 sec (0h:0m:1s)
+Total wall-clock time used: 1.276 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 97
+
+Creating bootstrap alignment (seed: 869609)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5301.375
+2. Current log-likelihood: -5205.175
+3. Current log-likelihood: -5204.843
+Optimal log-likelihood: -5204.843
+Rate parameters:  A-C: 2.32047  A-G: 3.70083  A-T: 2.00388  C-G: 2.67540  C-T: 5.97785  G-T: 1.00000
+Base frequencies:  A: 0.242  C: 0.270  G: 0.204  T: 0.284
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5204.843
+Total tree length: 0.625
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.228 sec (0h:0m:1s)
+Total wall-clock time used: 1.289 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 98
+
+Creating bootstrap alignment (seed: 869610)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5218.530
+2. Current log-likelihood: -5129.172
+3. Current log-likelihood: -5128.859
+Optimal log-likelihood: -5128.850
+Rate parameters:  A-C: 2.32138  A-G: 2.97049  A-T: 1.73287  C-G: 1.46426  C-T: 5.11455  G-T: 1.00000
+Base frequencies:  A: 0.265  C: 0.247  G: 0.225  T: 0.263
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5128.850
+Total tree length: 0.580
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.241 sec (0h:0m:1s)
+Total wall-clock time used: 1.302 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 99
+
+Creating bootstrap alignment (seed: 869611)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5234.417
+2. Current log-likelihood: -5164.801
+3. Current log-likelihood: -5164.630
+Optimal log-likelihood: -5164.630
+Rate parameters:  A-C: 1.34707  A-G: 2.59233  A-T: 1.52763  C-G: 1.10483  C-T: 3.41762  G-T: 1.00000
+Base frequencies:  A: 0.269  C: 0.278  G: 0.217  T: 0.236
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5164.630
+Total tree length: 0.602
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.253 sec (0h:0m:1s)
+Total wall-clock time used: 1.314 sec (0h:0m:1s)
+
+===> START BOOTSTRAP REPLICATE NUMBER 100
+
+Creating bootstrap alignment (seed: 869612)...
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5212.203
+2. Current log-likelihood: -5132.580
+3. Current log-likelihood: -5132.401
+Optimal log-likelihood: -5132.400
+Rate parameters:  A-C: 1.95761  A-G: 3.04774  A-T: 1.38300  C-G: 2.17272  C-T: 4.65904  G-T: 1.00000
+Base frequencies:  A: 0.261  C: 0.258  G: 0.200  T: 0.281
+Parameters optimization took 3 rounds (0.004 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5132.400
+Total tree length: 0.597
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.265 sec (0h:0m:1s)
+Total wall-clock time used: 1.327 sec (0h:0m:1s)
+
+===> COMPUTE CONSENSUS TREE FROM 100 BOOTSTRAP TREES
+
+Reading tree(s) file data/example_alignements/nt/nonparamet_bootstrap.boottrees ...
+100 tree(s) loaded (0 rooted and 100 unrooted)
+0 split(s) discarded because frequency <= -1.000
+13 splits found
+Consensus tree written to data/example_alignements/nt/nonparamet_bootstrap.contree
+
+===> START ANALYSIS ON THE ORIGINAL ALIGNMENT
+
+Reading input tree file data/example_alignements/nt/Rhabdomeric1.nt.treefile ...
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5260.416
+2. Current log-likelihood: -5182.627
+3. Current log-likelihood: -5182.408
+Optimal log-likelihood: -5182.405
+Rate parameters:  A-C: 2.03344  A-G: 3.46014  A-T: 1.72547  C-G: 1.68494  C-T: 4.77568  G-T: 1.00000
+Base frequencies:  A: 0.262  C: 0.265  G: 0.208  T: 0.265
+Parameters optimization took 3 rounds (0.006 sec)
+Wrote distance file to... 
+BEST SCORE FOUND : -5182.405
+Total tree length: 0.607
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 1.280 sec (0h:0m:1s)
+Total wall-clock time used: 1.344 sec (0h:0m:1s)
+Reading input trees file data/example_alignements/nt/nonparamet_bootstrap.contree
+Log-likelihood of consensus tree: -5182.405
+
+===> ASSIGN BOOTSTRAP SUPPORTS TO THE TREE FROM ORIGINAL ALIGNMENT
+
+Reading tree data/example_alignements/nt/nonparamet_bootstrap.treefile ...
+unrooted tree detected
+Reading tree(s) file data/example_alignements/nt/nonparamet_bootstrap.boottrees ...
+100 tree(s) loaded (0 rooted and 100 unrooted)
+Rescaling split weights by 1.000
+13 splits found
+Creating bootstrap support values...
+Tree with assigned support written to data/example_alignements/nt/nonparamet_bootstrap.treefile
+
+Analysis results written to: 
+  IQ-TREE report:                data/example_alignements/nt/nonparamet_bootstrap.iqtree
+  Maximum-likelihood tree:       data/example_alignements/nt/nonparamet_bootstrap.treefile
+  Screen log file:               data/example_alignements/nt/nonparamet_bootstrap.log
+
+Total CPU time for bootstrap: 1.283 seconds.
+Total wall-clock time for bootstrap: 1.349 seconds.
+
+Non-parametric bootstrap results written to:
+  Bootstrap trees:          data/example_alignements/nt/nonparamet_bootstrap.boottrees
+  Consensus tree:           data/example_alignements/nt/nonparamet_bootstrap.contree
+
+Date and Time: Thu Mar 27 10:19:28 2025

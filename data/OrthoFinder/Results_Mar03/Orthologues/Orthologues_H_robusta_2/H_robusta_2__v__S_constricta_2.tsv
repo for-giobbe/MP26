@@ -1,0 +1,73 @@
+Orthogroup	H_robusta_2	S_constricta_2
+OG0000000	H_robusta|ESO10944.1	S_constricta|evm.model.ctg599.11
+OG0000003	H_robusta|ESO09122.1	S_constricta|evm.model.ctg805.3, S_constricta|evm.model.ctg189.102, S_constricta|evm.model.ctg1215.4, S_constricta|evm.model.ctg360.4, S_constricta|evm.model.ctg171.2, S_constricta|evm.model.ctg125.7, S_constricta|evm.model.ctg367.17, S_constricta|evm.model.ctg367.16, S_constricta|evm.model.ctg6522.1, S_constricta|evm.model.ctg377.32_evm.model.ctg377.31, S_constricta|evm.model.ctg377.30, S_constricta|evm.model.ctg1004.8, S_constricta|evm.model.ctg2331.1, S_constricta|evm.model.ctg55.55, S_constricta|evm.model.ctg2331.2, S_constricta|evm.model.ctg2230.1, S_constricta|evm.model.ctg101.5, S_constricta|evm.model.ctg416.3, S_constricta|evm.model.ctg88.8, S_constricta|evm.model.ctg642.12, S_constricta|evm.model.ctg401.21, S_constricta|evm.model.ctg859.5, S_constricta|evm.model.ctg1045.8, S_constricta|evm.model.ctg263.18, S_constricta|evm.model.ctg30.44, S_constricta|evm.model.ctg370.15, S_constricta|evm.model.ctg370.16.1, S_constricta|evm.model.ctg370.17.1, S_constricta|evm.model.ctg52.31, S_constricta|evm.model.ctg791.11, S_constricta|evm.model.ctg1599.1, S_constricta|evm.model.ctg791.12, S_constricta|evm.model.ctg3910.2, S_constricta|evm.model.ctg46.3, S_constricta|evm.model.ctg140.28, S_constricta|evm.model.ctg140.29, S_constricta|evm.model.ctg2046.12, S_constricta|evm.model.ctg5546.1, S_constricta|evm.model.ctg2046.11, S_constricta|evm.model.ctg2046.13, S_constricta|evm.model.ctg1840.1, S_constricta|evm.model.ctg140.26, S_constricta|evm.model.ctg2046.10, S_constricta|evm.model.ctg1771.1, S_constricta|evm.model.ctg1977.1, S_constricta|evm.model.ctg1708.1, S_constricta|evm.model.ctg1755.1, S_constricta|evm.model.ctg125.83, S_constricta|evm.model.ctg142.51.1, S_constricta|evm.model.ctg4263.1, S_constricta|evm.model.ctg1804.2
+OG0000007	H_robusta|ESN93723.1	S_constricta|evm.model.ctg436.5
+OG0000007	H_robusta|ESO04500.1	S_constricta|evm.model.ctg412.18
+OG0000007	H_robusta|ESO09755.1	S_constricta|evm.model.ctg76.75, S_constricta|evm.model.ctg380.19
+OG0000007	H_robusta|ESO05584.1	S_constricta|evm.model.ctg2181.2
+OG0000007	H_robusta|ESN90265.1, H_robusta|ESO07168.1	S_constricta|evm.model.ctg412.15
+OG0000007	H_robusta|ESO01742.1	S_constricta|evm.model.ctg306.3
+OG0000007	H_robusta|ESN95559.1	S_constricta|evm.model.ctg306.4
+OG0000007	H_robusta|ESN99512.1	S_constricta|evm.model.ctg562.15
+OG0000007	H_robusta|ESO07165.1	S_constricta|evm.model.ctg436.1, S_constricta|evm.model.ctg436.4
+OG0000009	H_robusta|ESN95234.1	S_constricta|evm.model.ctg1628.1, S_constricta|evm.model.ctg6192.1, S_constricta|evm.model.ctg1696.4
+OG0000009	H_robusta|ESN95530.1, H_robusta|ESO00696.1	S_constricta|evm.model.ctg6778.1
+OG0000009	H_robusta|ESO05234.1, H_robusta|ESN99757.1	S_constricta|evm.model.ctg923.6
+OG0000009	H_robusta|ESO00154.1, H_robusta|ESO04934.1	S_constricta|evm.model.ctg1144.9
+OG0000011	H_robusta|ESN93667.1	S_constricta|evm.model.ctg366.24
+OG0000011	H_robusta|ESO04681.1	S_constricta|evm.model.ctg748.4, S_constricta|evm.model.ctg3437.4, S_constricta|evm.model.ctg748.3, S_constricta|evm.model.ctg2148.3, S_constricta|evm.model.ctg2148.4, S_constricta|evm.model.ctg1814.1, S_constricta|evm.model.ctg2243.4, S_constricta|evm.model.ctg3389.3, S_constricta|evm.model.ctg2037.2, S_constricta|evm.model.ctg4062.2.1, S_constricta|evm.model.ctg1280.10, S_constricta|evm.model.ctg1280.6, S_constricta|evm.model.ctg1280.8, S_constricta|evm.model.ctg1197.1, S_constricta|evm.model.ctg1204.8, S_constricta|evm.model.ctg1157.14, S_constricta|evm.model.ctg3160.1, S_constricta|evm.model.ctg3075.1, S_constricta|evm.model.ctg2608.3.1, S_constricta|evm.model.ctg8738.1, S_constricta|evm.model.ctg1189.6, S_constricta|evm.model.ctg2960.1, S_constricta|evm.model.ctg1189.4, S_constricta|evm.model.ctg1950.1, S_constricta|evm.model.ctg2747.1, S_constricta|evm.model.ctg2716.3, S_constricta|evm.model.ctg1905.6, S_constricta|evm.model.ctg3105.3, S_constricta|evm.model.ctg2900.1, S_constricta|evm.model.ctg9031.1, S_constricta|evm.model.ctg1163.3, S_constricta|evm.model.ctg1163.2, S_constricta|evm.model.ctg5056.3, S_constricta|evm.model.ctg1905.4, S_constricta|evm.model.ctg2900.2, S_constricta|evm.model.ctg2935.2, S_constricta|evm.model.ctg1414.8.1, S_constricta|evm.model.ctg1163.4, S_constricta|evm.model.ctg2250.2, S_constricta|evm.model.ctg1728.1.5, S_constricta|evm.model.ctg1031.2, S_constricta|evm.model.ctg1031.5, S_constricta|evm.model.ctg1031.1, S_constricta|evm.model.ctg3583.1, S_constricta|evm.model.ctg1163.1, S_constricta|evm.model.ctg3583.2, S_constricta|evm.model.ctg1905.5, S_constricta|evm.model.ctg3234.1, S_constricta|evm.model.ctg1173.5, S_constricta|evm.model.ctg1892.2, S_constricta|evm.model.ctg1801.2, S_constricta|evm.model.ctg1611.2, S_constricta|evm.model.ctg2170.1, S_constricta|evm.model.ctg5056.2, S_constricta|evm.model.ctg3433.3, S_constricta|evm.model.ctg1905.2, S_constricta|evm.model.ctg4448.1_evm.model.ctg4448.2, S_constricta|evm.model.ctg1905.3, S_constricta|evm.model.ctg2506.2.1, S_constricta|evm.model.ctg5056.1, S_constricta|evm.model.ctg2935.4, S_constricta|evm.model.ctg3898.1, S_constricta|evm.model.ctg2170.3, S_constricta|evm.model.ctg1414.7, S_constricta|evm.model.ctg3433.1, S_constricta|evm.model.ctg3898.2, S_constricta|evm.model.ctg3433.2, S_constricta|evm.model.ctg2935.1, S_constricta|evm.model.ctg2170.2, S_constricta|evm.model.ctg1173.9, S_constricta|evm.model.ctg2716.1, S_constricta|evm.model.ctg1173.10, S_constricta|evm.model.ctg1173.2, S_constricta|evm.model.ctg1173.1, S_constricta|evm.model.ctg1173.7, S_constricta|evm.model.ctg2947.1, S_constricta|evm.model.ctg1525.1, S_constricta|evm.model.ctg1611.4, S_constricta|evm.model.ctg1892.1, S_constricta|evm.model.ctg1611.6, S_constricta|evm.model.ctg1611.3, S_constricta|evm.model.ctg1173.6, S_constricta|evm.model.ctg1611.1, S_constricta|evm.model.ctg1189.1, S_constricta|evm.model.ctg2250.1, S_constricta|evm.model.ctg3234.3, S_constricta|evm.model.ctg3234.4, S_constricta|evm.model.ctg1611.5, S_constricta|evm.model.ctg1173.8, S_constricta|evm.model.ctg2947.2
+OG0000015	H_robusta|ESN99536.1	S_constricta|evm.model.ctg6408.1, S_constricta|evm.model.ctg109.15
+OG0000015	H_robusta|ESO05631.1	S_constricta|evm.model.ctg413.13
+OG0000015	H_robusta|ESN90293.1	S_constricta|evm.model.ctg528.30
+OG0000016	H_robusta|ESO12711.1, H_robusta|ESO12860.1	S_constricta|evm.model.ctg599.25, S_constricta|evm.model.ctg769.1, S_constricta|evm.model.ctg942.2, S_constricta|evm.model.ctg658.15, S_constricta|evm.model.ctg658.14, S_constricta|evm.model.ctg496.5, S_constricta|evm.model.ctg6.81, S_constricta|evm.model.ctg174.7
+OG0000019	H_robusta|ESO05380.1	S_constricta|evm.model.ctg23.32
+OG0000019	H_robusta|ESO09462.1	S_constricta|evm.model.ctg859.12, S_constricta|evm.model.ctg139.17, S_constricta|evm.model.ctg117.11, S_constricta|evm.model.ctg510.19, S_constricta|evm.model.ctg274.25, S_constricta|evm.model.ctg84.12, S_constricta|evm.model.ctg131.23, S_constricta|evm.model.ctg131.22
+OG0000023	H_robusta|ESO00598.1	S_constricta|evm.model.ctg238.53
+OG0000024	H_robusta|ESN91305.1	S_constricta|evm.model.ctg14.39
+OG0000025	H_robusta|ESN91955.1	S_constricta|evm.model.ctg97.43
+OG0000026	H_robusta|ESN95294.1	S_constricta|evm.model.ctg1004.16
+OG0000027	H_robusta|ESO08179.1	S_constricta|evm.model.ctg660.7
+OG0000028	H_robusta|ESO08129.1	S_constricta|evm.model.ctg930.2
+OG0000029	H_robusta|ESO13052.1	S_constricta|evm.model.ctg492.4
+OG0000030	H_robusta|ESO09280.1	S_constricta|evm.model.ctg40.49
+OG0000031	H_robusta|ESO09736.1	S_constricta|evm.model.ctg142.10
+OG0000032	H_robusta|ESO02199.1	S_constricta|evm.model.ctg145.40
+OG0000033	H_robusta|ESN90052.1	S_constricta|evm.model.ctg647.9
+OG0000034	H_robusta|ESN90476.1	S_constricta|evm.model.ctg613.8
+OG0000035	H_robusta|ESO10634.1	S_constricta|evm.model.ctg392.9
+OG0000036	H_robusta|ESO10298.1	S_constricta|evm.model.ctg96.20
+OG0000037	H_robusta|ESN95204.1	S_constricta|evm.model.ctg533.29
+OG0000038	H_robusta|ESO05119.1	S_constricta|evm.model.ctg1402.5
+OG0000039	H_robusta|ESN96911.1	S_constricta|evm.model.ctg271.100
+OG0000040	H_robusta|ESO01626.1	S_constricta|evm.model.ctg76.36
+OG0000041	H_robusta|ESO00575.1	S_constricta|evm.model.ctg64.47
+OG0000042	H_robusta|ESN96167.1	S_constricta|evm.model.ctg154.29
+OG0000043	H_robusta|ESO04933.1	S_constricta|evm.model.ctg491.9
+OG0000044	H_robusta|ESO00697.1	S_constricta|evm.model.ctg340.12
+OG0000045	H_robusta|ESN99635.1	S_constricta|evm.model.ctg968.2
+OG0000046	H_robusta|ESO10083.1	S_constricta|evm.model.ctg667.12
+OG0000047	H_robusta|ESN91550.1	S_constricta|evm.model.ctg1.21
+OG0000048	H_robusta|ESO13187.1	S_constricta|evm.model.ctg1.125_evm.model.ctg1.126
+OG0000049	H_robusta|ESN98754.1	S_constricta|evm.model.ctg388.17
+OG0000050	H_robusta|ESO00076.1	S_constricta|evm.model.ctg51.64
+OG0000051	H_robusta|ESN99728.1	S_constricta|evm.model.ctg185.15
+OG0000052	H_robusta|ESN98670.1	S_constricta|evm.model.ctg101.83
+OG0000053	H_robusta|ESO03583.1	S_constricta|evm.model.ctg1651.2
+OG0000054	H_robusta|ESO10888.1	S_constricta|evm.model.ctg775.15
+OG0000055	H_robusta|ESN91162.1	S_constricta|evm.model.ctg1149.7
+OG0000056	H_robusta|ESO08731.1	S_constricta|evm.model.ctg1239.1
+OG0000057	H_robusta|ESO06944.1	S_constricta|evm.model.ctg138.11
+OG0000058	H_robusta|ESO09558.1	S_constricta|evm.model.ctg96.49
+OG0000059	H_robusta|ESN94151.1	S_constricta|evm.model.ctg639.2
+OG0000060	H_robusta|ESN99626.1	S_constricta|evm.model.ctg74.29
+OG0000061	H_robusta|ESO02346.1	S_constricta|evm.model.ctg210.6
+OG0000062	H_robusta|ESN92353.1	S_constricta|evm.model.ctg230.1
+OG0000063	H_robusta|ESN90952.1	S_constricta|evm.model.ctg131.13
+OG0000064	H_robusta|ESN94328.1	S_constricta|evm.model.ctg1020.4
+OG0000065	H_robusta|ESO10101.1	S_constricta|evm.model.ctg502.6
+OG0000066	H_robusta|ESO01061.1	S_constricta|evm.model.ctg442.45
+OG0000067	H_robusta|ESN96928.1	S_constricta|evm.model.ctg249.21
+OG0000068	H_robusta|ESN99588.1	S_constricta|evm.model.ctg1547.1
+OG0000069	H_robusta|ESO02510.1	S_constricta|evm.model.ctg381.13
+OG0000070	H_robusta|ESO13213.1	S_constricta|evm.model.ctg367.23
+OG0000075	H_robusta|ESO08907.1	S_constricta|evm.model.ctg54.34
