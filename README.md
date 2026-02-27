@@ -1,7 +1,7 @@
 ## Molecular Phylogenetics Course - Class of 2026
 
 
-Teaching material for the "Molecular Phylogenetics" classes of the MSc in Bioinformatics at the University of Bologna. Curated by *Giobbe Forni* with the contribution of the mighty *Jacopo Martelossi* and the sage *Andrea Luchetti*.
+Teaching material for the "Molecular Phylogenetics" classes of the MSc in Bioinformatics at the University of Bologna. Curated by *Giobbe Forni* with the contribution of *Jacopo Martelossi* and *Andrea Luchetti*.
 
 ![pic](https://github.com/for-giobbe/MP25/blob/main/cover.001.jpeg)
 
