@@ -28,9 +28,9 @@ The exam will take place over one hour and will focus on both practice and theor
 
 To align a gene you use:
 - A. IQTREE
-- **B. MAFFT**
-- C. Astral
-- D. Gblocks
+- B. Astral
+- C. Gblocks
+- **D. MAFFT**
 
 
 ---
@@ -60,7 +60,7 @@ another depends only on its _________________ state, not on its ________________
 - Briefly explain what an orthogroup is and how it relates to the concept of orthology. Also, what is a 1-to-1 orthogroup?
 
 
-- Explain the difference between systematic and stochastic biases in phylogenomics and provide some examples.
+- Explain what is the input for the Astral software and which software can be used to generate it.
 
 
 - Define what we mean by character-based and distance-based methods in phylogenetics.
