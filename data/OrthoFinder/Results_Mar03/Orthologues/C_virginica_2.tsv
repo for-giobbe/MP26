@@ -1,0 +1,582 @@
+Orthogroup	Species	C_virginica_2	Orthologs
+OG0000000	A_granulata_2	C_virginica|XP_022320371.1	A_granulata|model.g24978.t1_1
+OG0000000	O_bimaculoides_2	C_virginica|XP_022320371.1	O_bimaculoides|XP_014771511.1, O_bimaculoides|XP_014780432.1, O_bimaculoides|XP_014767873.1, O_bimaculoides|XP_014777119.1, O_bimaculoides|XP_014782583.1, O_bimaculoides|XP_014787392.1, O_bimaculoides|XP_014788767.1, O_bimaculoides|XP_014778851.1, O_bimaculoides|XP_014771000.1, O_bimaculoides|XP_014788766.1, O_bimaculoides|XP_014769801.1, O_bimaculoides|XP_014775061.1, O_bimaculoides|XP_014777876.1, O_bimaculoides|XP_014777878.1, O_bimaculoides|XP_014777873.1, O_bimaculoides|XP_014783006.1, O_bimaculoides|XP_014783007.1, O_bimaculoides|XP_014777880.1, O_bimaculoides|XP_014785424.1, O_bimaculoides|XP_014789954.1, O_bimaculoides|XP_014790351.1, O_bimaculoides|XP_014777875.1, O_bimaculoides|XP_014777872.1, O_bimaculoides|XP_014790859.1, O_bimaculoides|XP_014787196.1, O_bimaculoides|XP_014769713.1, O_bimaculoides|XP_014769313.1, O_bimaculoides|XP_014769791.1, O_bimaculoides|XP_014784259.1, O_bimaculoides|XP_014787344.1, O_bimaculoides|XP_014769699.1, O_bimaculoides|XP_014769719.1, O_bimaculoides|XP_014775427.1, O_bimaculoides|XP_014784290.1, O_bimaculoides|XP_014767658.1, O_bimaculoides|XP_014776277.1, O_bimaculoides|XP_014780995.1, O_bimaculoides|XP_014776271.1, O_bimaculoides|XP_014776272.1, O_bimaculoides|XP_014776276.1, O_bimaculoides|XP_014776273.1, O_bimaculoides|XP_014776278.1, O_bimaculoides|XP_014769127.1, O_bimaculoides|XP_014784179.1, O_bimaculoides|XP_014790673.1, O_bimaculoides|XP_014774826.1, O_bimaculoides|XP_014790676.1, O_bimaculoides|XP_014781180.1, O_bimaculoides|XP_014775429.1, O_bimaculoides|XP_014784292.1, O_bimaculoides|XP_014777871.1, O_bimaculoides|XP_014772601.1, O_bimaculoides|XP_014781172.1, O_bimaculoides|XP_014784939.1, O_bimaculoides|XP_014784079.1, O_bimaculoides|XP_014787517.1, O_bimaculoides|XP_014784044.1, O_bimaculoides|XP_014787654.1, O_bimaculoides|XP_014775413.1, O_bimaculoides|XP_014787207.1, O_bimaculoides|XP_014775301.1, O_bimaculoides|XP_014781177.1, O_bimaculoides|XP_014784295.1, O_bimaculoides|XP_014775062.1, O_bimaculoides|XP_014782517.1, O_bimaculoides|XP_014784859.1, O_bimaculoides|XP_014790818.1, O_bimaculoides|XP_014769707.1, O_bimaculoides|XP_014769706.1, O_bimaculoides|XP_014784798.1, O_bimaculoides|XP_014784779.1, O_bimaculoides|XP_014784631.1, O_bimaculoides|XP_014784735.1, O_bimaculoides|XP_014771284.1, O_bimaculoides|XP_014771285.1, O_bimaculoides|XP_014781185.1, O_bimaculoides|XP_014782536.1, O_bimaculoides|XP_014784643.1, O_bimaculoides|XP_014769698.1, O_bimaculoides|XP_014784867.1, O_bimaculoides|XP_014790857.1, O_bimaculoides|XP_014776402.1, O_bimaculoides|XP_014783005.1, O_bimaculoides|XP_014777874.1, O_bimaculoides|XP_014782605.1, O_bimaculoides|XP_014778210.1, O_bimaculoides|XP_014769125.1, O_bimaculoides|XP_014778209.1, O_bimaculoides|XP_014773424.1, O_bimaculoides|XP_014769712.1, O_bimaculoides|XP_014783882.1, O_bimaculoides|XP_014783883.1, O_bimaculoides|XP_014783880.1, O_bimaculoides|XP_014783896.1, O_bimaculoides|XP_014783901.1, O_bimaculoides|XP_014783020.1, O_bimaculoides|XP_014767519.1, O_bimaculoides|XP_014782913.1, O_bimaculoides|XP_014783009.1, O_bimaculoides|XP_014787198.1, O_bimaculoides|XP_014779315.1, O_bimaculoides|XP_014769786.1, O_bimaculoides|XP_014769798.1, O_bimaculoides|XP_014772736.1, O_bimaculoides|XP_014776279.1, O_bimaculoides|XP_014789947.1, O_bimaculoides|XP_014769799.1, O_bimaculoides|XP_014785854.1, O_bimaculoides|XP_014791207.1, O_bimaculoides|XP_014781812.1, O_bimaculoides|XP_014782538.1, O_bimaculoides|XP_014784289.1, O_bimaculoides|XP_014782056.1, O_bimaculoides|XP_014769720.1, O_bimaculoides|XP_014769696.1, O_bimaculoides|XP_014768189.1, O_bimaculoides|XP_014781808.1, O_bimaculoides|XP_014788029.1, O_bimaculoides|XP_014788034.1, O_bimaculoides|XP_014769714.1, O_bimaculoides|XP_014775063.1, O_bimaculoides|XP_014769794.1, O_bimaculoides|XP_014787163.1, O_bimaculoides|XP_014787399.1, O_bimaculoides|XP_014787390.1, O_bimaculoides|XP_014772592.1, O_bimaculoides|XP_014787398.1, O_bimaculoides|XP_014775419.1, O_bimaculoides|XP_014781173.1, O_bimaculoides|XP_014782048.1, O_bimaculoides|XP_014782540.1, O_bimaculoides|XP_014769124.1, O_bimaculoides|XP_014782607.1, O_bimaculoides|XP_014790840.1, O_bimaculoides|XP_014782312.1, O_bimaculoides|XP_014783584.1, O_bimaculoides|XP_014781806.1, O_bimaculoides|XP_014782917.1, O_bimaculoides|XP_014776267.1, O_bimaculoides|XP_014768941.1, O_bimaculoides|XP_014778211.1, O_bimaculoides|XP_014776137.1, O_bimaculoides|XP_014782514.1, O_bimaculoides|XP_014787659.1, O_bimaculoides|XP_014769711.1, O_bimaculoides|XP_014782912.1, O_bimaculoides|XP_014782539.1, O_bimaculoides|XP_014783888.1, O_bimaculoides|XP_014789744.1, O_bimaculoides|XP_014783885.1, O_bimaculoides|XP_014783886.1, O_bimaculoides|XP_014772722.1, O_bimaculoides|XP_014776407.1, O_bimaculoides|XP_014781193.1, O_bimaculoides|XP_014772598.1, O_bimaculoides|XP_014789992.1, O_bimaculoides|XP_014790004.1, O_bimaculoides|XP_014782311.1, O_bimaculoides|XP_014789584.1, O_bimaculoides|XP_014777354.1, O_bimaculoides|XP_014783378.1, O_bimaculoides|XP_014776274.1, O_bimaculoides|XP_014780996.1, O_bimaculoides|XP_014782665.1, O_bimaculoides|XP_014787112.1, O_bimaculoides|XP_014784249.1, O_bimaculoides|XP_014776266.1, O_bimaculoides|XP_014789951.1, O_bimaculoides|XP_014784000.1, O_bimaculoides|XP_014768971.1, O_bimaculoides|XP_014768963.1, O_bimaculoides|XP_014768968.1, O_bimaculoides|XP_014789586.1, O_bimaculoides|XP_014775066.1, O_bimaculoides|XP_014775070.1, O_bimaculoides|XP_014773915.1, O_bimaculoides|XP_014784940.1, O_bimaculoides|XP_014781807.1, O_bimaculoides|XP_014778108.1, O_bimaculoides|XP_014791211.1, O_bimaculoides|XP_014776401.1, O_bimaculoides|XP_014767660.1, O_bimaculoides|XP_014790675.1, O_bimaculoides|XP_014772749.1, O_bimaculoides|XP_014772742.1, O_bimaculoides|XP_014772735.1, O_bimaculoides|XP_014772725.1, O_bimaculoides|XP_014772750.1, O_bimaculoides|XP_014779345.1, O_bimaculoides|XP_014770951.1, O_bimaculoides|XP_014779346.1, O_bimaculoides|XP_014773561.1, O_bimaculoides|XP_014787652.1, O_bimaculoides|XP_014790263.1, O_bimaculoides|XP_014768942.1, O_bimaculoides|XP_014785719.1, O_bimaculoides|XP_014768958.1, O_bimaculoides|XP_014778878.1, O_bimaculoides|XP_014782903.1, O_bimaculoides|XP_014773808.1, O_bimaculoides|XP_014772733.1, O_bimaculoides|XP_014772726.1, O_bimaculoides|XP_014789416.1, O_bimaculoides|XP_014790423.1, O_bimaculoides|XP_014772737.1, O_bimaculoides|XP_014769285.1, O_bimaculoides|XP_014790054.1, O_bimaculoides|XP_014789411.1, O_bimaculoides|XP_014787287.1, O_bimaculoides|XP_014789417.1, O_bimaculoides|XP_014790106.1, O_bimaculoides|XP_014789624.1, O_bimaculoides|XP_014783526.1, O_bimaculoides|XP_014784589.1, O_bimaculoides|XP_014773290.1, O_bimaculoides|XP_014790103.1, O_bimaculoides|XP_014784588.1, O_bimaculoides|XP_014789625.1, O_bimaculoides|XP_014783525.1, O_bimaculoides|XP_014769315.1, O_bimaculoides|XP_014783527.1, O_bimaculoides|XP_014775067.1, O_bimaculoides|XP_014787290.1, O_bimaculoides|XP_014778890.1, O_bimaculoides|XP_014789415.1, O_bimaculoides|XP_014789991.1, O_bimaculoides|XP_014789413.1, O_bimaculoides|XP_014783523.1, O_bimaculoides|XP_014783528.1, O_bimaculoides|XP_014780227.1, O_bimaculoides|XP_014782520.1, O_bimaculoides|XP_014790002.1, O_bimaculoides|XP_014769303.1, O_bimaculoides|XP_014780707.1, O_bimaculoides|XP_014776409.1, O_bimaculoides|XP_014774829.1, O_bimaculoides|XP_014789995.1, O_bimaculoides|XP_014769282.1, O_bimaculoides|XP_014769284.1, O_bimaculoides|XP_014769283.1, O_bimaculoides|XP_014790052.1, O_bimaculoides|XP_014774681.1, O_bimaculoides|XP_014781839.1, O_bimaculoides|XP_014768174.1, O_bimaculoides|XP_014783586.1, O_bimaculoides|XP_014785720.1, O_bimaculoides|XP_014773423.1, O_bimaculoides|XP_014773947.1, O_bimaculoides|XP_014789279.1, O_bimaculoides|XP_014782315.1, O_bimaculoides|XP_014789957.1, O_bimaculoides|XP_014780703.1, O_bimaculoides|XP_014775064.1, O_bimaculoides|XP_014789278.1, O_bimaculoides|XP_014782606.1, O_bimaculoides|XP_014773809.1, O_bimaculoides|XP_014773421.1, O_bimaculoides|XP_014769796.1, O_bimaculoides|XP_014780702.1, O_bimaculoides|XP_014783017.1, O_bimaculoides|XP_014768965.1, O_bimaculoides|XP_014787653.1, O_bimaculoides|XP_014770952.1, O_bimaculoides|XP_014773416.1, O_bimaculoides|XP_014781689.1, O_bimaculoides|XP_014768456.1, O_bimaculoides|XP_014781686.1, O_bimaculoides|XP_014775415.1, O_bimaculoides|XP_014775412.1, O_bimaculoides|XP_014787157.1, O_bimaculoides|XP_014787161.1, O_bimaculoides|XP_014769471.1, O_bimaculoides|XP_014783205.1, O_bimaculoides|XP_014789499.1, O_bimaculoides|XP_014769489.1, O_bimaculoides|XP_014769469.1, O_bimaculoides|XP_014769490.1, O_bimaculoides|XP_014768457.1, O_bimaculoides|XP_014783208.1, O_bimaculoides|XP_014784100.1, O_bimaculoides|XP_014784127.1, O_bimaculoides|XP_014782268.1, O_bimaculoides|XP_014790836.1, O_bimaculoides|XP_014772715.1
+OG0000000	H_robusta_2	C_virginica|XP_022320371.1	H_robusta|ESO10944.1
+OG0000000	S_constricta_2	C_virginica|XP_022320371.1	S_constricta|evm.model.ctg599.11, S_constricta|evm.model.ctg125.4, S_constricta|evm.model.ctg227.23
+OG0000000	L_gigantea_2	C_virginica|XP_022320371.1	L_gigantea|XP_009044634.1, L_gigantea|XP_009065493.1, L_gigantea|XP_009045323.1
+OG0000000	B_glabrata_2	C_virginica|XP_022320371.1	B_glabrata|XP_013090931.1, B_glabrata|XP_013093167.1, B_glabrata|XP_013066259.1
+OG0000000	P_fucata_2	C_virginica|XP_022320371.1	P_fucata|Pma_10011348
+OG0000003	H_robusta_2	C_virginica|XP_022337452.1, C_virginica|XP_022296221.1, C_virginica|XP_022296188.1, C_virginica|XP_022301452.1, C_virginica|XP_022305689.1, C_virginica|XP_022309521.1, C_virginica|XP_022339384.1, C_virginica|XP_022328733.1, C_virginica|XP_022335146.1, C_virginica|XP_022330423.1, C_virginica|XP_022328732.1, C_virginica|XP_022335114.1, C_virginica|XP_022333687.1, C_virginica|XP_022333991.1, C_virginica|XP_022333686.1, C_virginica|XP_022333990.1, C_virginica|XP_022343542.1, C_virginica|XP_022309038.1, C_virginica|XP_022331274.1, C_virginica|XP_022337605.1, C_virginica|XP_022345326.1, C_virginica|XP_022310239.1, C_virginica|XP_022310854.1, C_virginica|XP_022310240.1, C_virginica|XP_022310856.1, C_virginica|XP_022339391.1, C_virginica|XP_022330926.1, C_virginica|XP_022330927.1, C_virginica|XP_022330928.1, C_virginica|XP_022292929.1, C_virginica|XP_022289652.1, C_virginica|XP_022287104.1, C_virginica|XP_022290415.1, C_virginica|XP_022287107.1, C_virginica|XP_022295073.1, C_virginica|XP_022297397.1, C_virginica|XP_022300762.1, C_virginica|XP_022295064.1, C_virginica|XP_022290814.1, C_virginica|XP_022290815.1, C_virginica|XP_022295028.1, C_virginica|XP_022299379.1, C_virginica|XP_022290497.1, C_virginica|XP_022293349.1, C_virginica|XP_022294732.1, C_virginica|XP_022293350.1, C_virginica|XP_022294733.1, C_virginica|XP_022294739.1, C_virginica|XP_022293077.1, C_virginica|XP_022294154.1, C_virginica|XP_022293075.1, C_virginica|XP_022294740.1, C_virginica|XP_022293080.1, C_virginica|XP_022294741.1, C_virginica|XP_022294432.1, C_virginica|XP_022294750.1, C_virginica|XP_022293578.1, C_virginica|XP_022293573.1, C_virginica|XP_022294207.1, C_virginica|XP_022294646.1, C_virginica|XP_022332278.1, C_virginica|XP_022344015.1, C_virginica|XP_022344065.1, C_virginica|XP_022335781.1, C_virginica|XP_022343659.1, C_virginica|XP_022295727.1, C_virginica|XP_022299926.1, C_virginica|XP_022295699.1, C_virginica|XP_022295728.1, C_virginica|XP_022304396.1	H_robusta|ESO09122.1
+OG0000003	S_constricta_2	C_virginica|XP_022337452.1	S_constricta|evm.model.ctg805.3
+OG0000003	A_granulata_2	C_virginica|XP_022337452.1	A_granulata|model.g26226.t1_1
+OG0000003	P_fucata_2	C_virginica|XP_022337452.1	P_fucata|Pma_10016768, P_fucata|Pma_10018667
+OG0000003	S_constricta_2	C_virginica|XP_022296221.1	S_constricta|evm.model.ctg171.2, S_constricta|evm.model.ctg125.7
+OG0000003	S_constricta_2	C_virginica|XP_022296188.1, C_virginica|XP_022301452.1	S_constricta|evm.model.ctg367.17, S_constricta|evm.model.ctg367.16
+OG0000003	P_fucata_2	C_virginica|XP_022296188.1, C_virginica|XP_022301452.1	P_fucata|Pma_10005546
+OG0000003	S_constricta_2	C_virginica|XP_022305689.1, C_virginica|XP_022309521.1, C_virginica|XP_022339384.1, C_virginica|XP_022328733.1, C_virginica|XP_022335146.1, C_virginica|XP_022330423.1, C_virginica|XP_022328732.1, C_virginica|XP_022335114.1, C_virginica|XP_022333687.1, C_virginica|XP_022333991.1, C_virginica|XP_022333686.1, C_virginica|XP_022333990.1	S_constricta|evm.model.ctg6522.1
+OG0000003	P_fucata_2	C_virginica|XP_022305689.1, C_virginica|XP_022309521.1	P_fucata|Pma_10010620, P_fucata|Pma_10029768
+OG0000003	P_fucata_2	C_virginica|XP_022339384.1, C_virginica|XP_022328733.1, C_virginica|XP_022335146.1, C_virginica|XP_022330423.1, C_virginica|XP_022328732.1, C_virginica|XP_022335114.1, C_virginica|XP_022333687.1, C_virginica|XP_022333991.1, C_virginica|XP_022333686.1, C_virginica|XP_022333990.1	P_fucata|Pma_10026467, P_fucata|Pma_10026468
+OG0000003	A_granulata_2	C_virginica|XP_022343542.1	A_granulata|model.g21540.t1_1
+OG0000003	P_fucata_2	C_virginica|XP_022343542.1	P_fucata|Pma_10003317
+OG0000003	S_constricta_2	C_virginica|XP_022343542.1	S_constricta|evm.model.ctg88.8
+OG0000003	P_fucata_2	C_virginica|XP_022309038.1, C_virginica|XP_022331274.1, C_virginica|XP_022337605.1, C_virginica|XP_022345326.1, C_virginica|XP_022310239.1, C_virginica|XP_022310854.1, C_virginica|XP_022310240.1, C_virginica|XP_022310856.1	P_fucata|Pma_231.16, P_fucata|Pma_10014369, P_fucata|Pma_10026952, P_fucata|Pma_10012847, P_fucata|Pma_10031664, P_fucata|Pma_10031663, P_fucata|Pma_10008865, P_fucata|Pma_10004263, P_fucata|Pma_10006091, P_fucata|Pma_10024776, P_fucata|Pma_10024777, P_fucata|Pma_10024778
+OG0000003	L_gigantea_2	C_virginica|XP_022339391.1, C_virginica|XP_022330926.1, C_virginica|XP_022330927.1, C_virginica|XP_022330928.1	L_gigantea|XP_009059572.1, L_gigantea|XP_009053437.1, L_gigantea|XP_009059573.1, L_gigantea|XP_009053435.1, L_gigantea|XP_009053436.1
+OG0000003	A_granulata_2	C_virginica|XP_022339391.1, C_virginica|XP_022330926.1, C_virginica|XP_022330927.1, C_virginica|XP_022330928.1	A_granulata|model.g12389.t1.1.5d3b8706_1
+OG0000003	S_constricta_2	C_virginica|XP_022339391.1	S_constricta|evm.model.ctg401.21
+OG0000003	P_fucata_2	C_virginica|XP_022339391.1	P_fucata|Pma_10.1359
+OG0000003	S_constricta_2	C_virginica|XP_022330926.1, C_virginica|XP_022330927.1, C_virginica|XP_022330928.1	S_constricta|evm.model.ctg859.5
+OG0000003	S_constricta_2	C_virginica|XP_022332278.1	S_constricta|evm.model.ctg263.18
+OG0000003	P_fucata_2	C_virginica|XP_022332278.1	P_fucata|Pma_10004519, P_fucata|Pma_10004520, P_fucata|Pma_145.761, P_fucata|Pma_10002742, P_fucata|Pma_1.232, P_fucata|Pma_201.324, P_fucata|Pma_10007192, P_fucata|Pma_10028043, P_fucata|Pma_10021077, P_fucata|Pma_10001023, P_fucata|Pma_10021076, P_fucata|Pma_453.236, P_fucata|Pma_5.1168
+OG0000003	P_fucata_2	C_virginica|XP_022344015.1, C_virginica|XP_022344065.1, C_virginica|XP_022335781.1, C_virginica|XP_022343659.1	P_fucata|Pma_10012077, P_fucata|Pma_10010621, P_fucata|Pma_10013353, P_fucata|Pma_10027183, P_fucata|Pma_10022603, P_fucata|Pma_328.141, P_fucata|Pma_10002536, P_fucata|Pma_10031633
+OG0000003	S_constricta_2	C_virginica|XP_022344015.1, C_virginica|XP_022344065.1, C_virginica|XP_022335781.1, C_virginica|XP_022343659.1	S_constricta|evm.model.ctg30.44
+OG0000003	A_granulata_2	C_virginica|XP_022295727.1, C_virginica|XP_022299926.1, C_virginica|XP_022295699.1, C_virginica|XP_022295728.1, C_virginica|XP_022304396.1	A_granulata|model.g24762.t1_1
+OG0000003	S_constricta_2	C_virginica|XP_022295727.1, C_virginica|XP_022299926.1, C_virginica|XP_022295699.1, C_virginica|XP_022295728.1, C_virginica|XP_022304396.1	S_constricta|evm.model.ctg370.15, S_constricta|evm.model.ctg370.16.1, S_constricta|evm.model.ctg370.17.1, S_constricta|evm.model.ctg52.31, S_constricta|evm.model.ctg791.11, S_constricta|evm.model.ctg1599.1, S_constricta|evm.model.ctg791.12, S_constricta|evm.model.ctg3910.2, S_constricta|evm.model.ctg46.3, S_constricta|evm.model.ctg140.28, S_constricta|evm.model.ctg140.29, S_constricta|evm.model.ctg2046.12, S_constricta|evm.model.ctg5546.1, S_constricta|evm.model.ctg2046.11, S_constricta|evm.model.ctg2046.13, S_constricta|evm.model.ctg1840.1, S_constricta|evm.model.ctg140.26, S_constricta|evm.model.ctg2046.10, S_constricta|evm.model.ctg1771.1, S_constricta|evm.model.ctg1977.1, S_constricta|evm.model.ctg1708.1, S_constricta|evm.model.ctg1755.1, S_constricta|evm.model.ctg125.83, S_constricta|evm.model.ctg142.51.1, S_constricta|evm.model.ctg4263.1, S_constricta|evm.model.ctg1804.2
+OG0000003	P_fucata_2	C_virginica|XP_022295727.1, C_virginica|XP_022299926.1, C_virginica|XP_022295699.1, C_virginica|XP_022295728.1	P_fucata|Pma_10029981, P_fucata|Pma_10029982, P_fucata|Pma_10014538, P_fucata|Pma_10030213
+OG0000003	P_fucata_2	C_virginica|XP_022304396.1	P_fucata|Pma_424.232, P_fucata|Pma_10029971, P_fucata|Pma_10018092
+OG0000003	B_glabrata_2	C_virginica|XP_022304396.1	B_glabrata|XP_013061439.1
+OG0000004	P_fucata_2	C_virginica|XP_022305030.1, C_virginica|XP_022307818.1, C_virginica|XP_022309553.1, C_virginica|XP_022305396.1, C_virginica|XP_022305401.1, C_virginica|XP_022305395.1, C_virginica|XP_022305399.1, C_virginica|XP_022309506.1, C_virginica|XP_022305402.1, C_virginica|XP_022307795.1, C_virginica|XP_022304875.1, C_virginica|XP_022304915.1, C_virginica|XP_022307845.1, C_virginica|XP_022310759.1, C_virginica|XP_022303548.1, C_virginica|XP_022303685.1, C_virginica|XP_022304882.1, C_virginica|XP_022307830.1, C_virginica|XP_022303356.1, C_virginica|XP_022303357.1, C_virginica|XP_022309674.1, C_virginica|XP_022304878.1, C_virginica|XP_022307750.1, C_virginica|XP_022307748.1, C_virginica|XP_022307793.1, C_virginica|XP_022304886.1, C_virginica|XP_022308423.1, C_virginica|XP_022338718.1, C_virginica|XP_022310878.1, C_virginica|XP_022304173.1, C_virginica|XP_022307370.1, C_virginica|XP_022306978.1, C_virginica|XP_022326735.1, C_virginica|XP_022303340.1, C_virginica|XP_022303344.1, C_virginica|XP_022307015.1, C_virginica|XP_022290176.1, C_virginica|XP_022306990.1, C_virginica|XP_022303346.1, C_virginica|XP_022303537.1, C_virginica|XP_022311697.1, C_virginica|XP_022311693.1, C_virginica|XP_022311848.1, C_virginica|XP_022312694.1, C_virginica|XP_022303619.1, C_virginica|XP_022301088.1, C_virginica|XP_022300903.1, C_virginica|XP_022310960.1, C_virginica|XP_022311843.1, C_virginica|XP_022304174.1, C_virginica|XP_022303488.1, C_virginica|XP_022306996.1, C_virginica|XP_022306937.1, C_virginica|XP_022306955.1, C_virginica|XP_022305756.1, C_virginica|XP_022307862.1, C_virginica|XP_022304367.1, C_virginica|XP_022307874.1, C_virginica|XP_022305386.1, C_virginica|XP_022305752.1, C_virginica|XP_022305387.1, C_virginica|XP_022305382.1, C_virginica|XP_022305737.1, C_virginica|XP_022305742.1, C_virginica|XP_022305748.1, C_virginica|XP_022309955.1, C_virginica|XP_022305738.1, C_virginica|XP_022306484.1, C_virginica|XP_022307879.1, C_virginica|XP_022307866.1, C_virginica|XP_022307837.1, C_virginica|XP_022305760.1, C_virginica|XP_022305088.1, C_virginica|XP_022305732.1, C_virginica|XP_022305385.1, C_virginica|XP_022309507.1, C_virginica|XP_022307841.1, C_virginica|XP_022303550.1, C_virginica|XP_022307870.1, C_virginica|XP_022307883.1, C_virginica|XP_022307844.1, C_virginica|XP_022305729.1, C_virginica|XP_022305735.1, C_virginica|XP_022304592.1, C_virginica|XP_022304600.1, C_virginica|XP_022306488.1, C_virginica|XP_022304591.1, C_virginica|XP_022304917.1, C_virginica|XP_022307884.1, C_virginica|XP_022309926.1, C_virginica|XP_022304589.1, C_virginica|XP_022310709.1, C_virginica|XP_022306485.1, C_virginica|XP_022305080.1, C_virginica|XP_022305741.1, C_virginica|XP_022305757.1, C_virginica|XP_022308373.1, C_virginica|XP_022307871.1, C_virginica|XP_022307835.1	P_fucata|Pma_10025331
+OG0000004	B_glabrata_2	C_virginica|XP_022305030.1, C_virginica|XP_022307818.1, C_virginica|XP_022309553.1, C_virginica|XP_022305396.1, C_virginica|XP_022305401.1, C_virginica|XP_022305395.1, C_virginica|XP_022305399.1, C_virginica|XP_022309506.1, C_virginica|XP_022305402.1, C_virginica|XP_022307795.1, C_virginica|XP_022304875.1, C_virginica|XP_022304915.1, C_virginica|XP_022307845.1, C_virginica|XP_022310759.1, C_virginica|XP_022303548.1, C_virginica|XP_022303685.1, C_virginica|XP_022304882.1, C_virginica|XP_022307830.1, C_virginica|XP_022303356.1, C_virginica|XP_022303357.1, C_virginica|XP_022309674.1, C_virginica|XP_022304878.1, C_virginica|XP_022307750.1, C_virginica|XP_022307748.1, C_virginica|XP_022307793.1, C_virginica|XP_022304886.1, C_virginica|XP_022308423.1, C_virginica|XP_022338718.1, C_virginica|XP_022310878.1, C_virginica|XP_022304173.1, C_virginica|XP_022307370.1, C_virginica|XP_022306978.1, C_virginica|XP_022326735.1, C_virginica|XP_022303340.1, C_virginica|XP_022303344.1, C_virginica|XP_022307015.1, C_virginica|XP_022290176.1, C_virginica|XP_022306990.1, C_virginica|XP_022303346.1, C_virginica|XP_022303537.1, C_virginica|XP_022311697.1, C_virginica|XP_022311693.1, C_virginica|XP_022311848.1, C_virginica|XP_022312694.1, C_virginica|XP_022303619.1, C_virginica|XP_022301088.1, C_virginica|XP_022300903.1, C_virginica|XP_022310960.1, C_virginica|XP_022311843.1, C_virginica|XP_022304174.1, C_virginica|XP_022303488.1, C_virginica|XP_022306996.1, C_virginica|XP_022306937.1, C_virginica|XP_022306955.1, C_virginica|XP_022305756.1, C_virginica|XP_022307862.1, C_virginica|XP_022304367.1, C_virginica|XP_022307874.1, C_virginica|XP_022305386.1, C_virginica|XP_022305752.1, C_virginica|XP_022305387.1, C_virginica|XP_022305382.1, C_virginica|XP_022305737.1, C_virginica|XP_022305742.1, C_virginica|XP_022305748.1, C_virginica|XP_022309955.1, C_virginica|XP_022305738.1, C_virginica|XP_022306484.1, C_virginica|XP_022307879.1, C_virginica|XP_022307866.1, C_virginica|XP_022307837.1, C_virginica|XP_022305760.1, C_virginica|XP_022305088.1, C_virginica|XP_022305732.1, C_virginica|XP_022305385.1, C_virginica|XP_022309507.1, C_virginica|XP_022307841.1, C_virginica|XP_022303550.1, C_virginica|XP_022307870.1, C_virginica|XP_022307883.1, C_virginica|XP_022307844.1, C_virginica|XP_022305729.1, C_virginica|XP_022305735.1, C_virginica|XP_022304592.1, C_virginica|XP_022304600.1, C_virginica|XP_022306488.1, C_virginica|XP_022304591.1, C_virginica|XP_022304917.1, C_virginica|XP_022307884.1, C_virginica|XP_022309926.1, C_virginica|XP_022304589.1, C_virginica|XP_022310709.1, C_virginica|XP_022306485.1, C_virginica|XP_022305080.1, C_virginica|XP_022305741.1, C_virginica|XP_022305757.1, C_virginica|XP_022308373.1, C_virginica|XP_022307871.1, C_virginica|XP_022307835.1	B_glabrata|XP_013091058.1
+OG0000004	P_fucata_2	C_virginica|XP_022306864.1, C_virginica|XP_022307682.1, C_virginica|XP_022309512.1, C_virginica|XP_022309842.1, C_virginica|XP_022292876.1, C_virginica|XP_022308432.1, C_virginica|XP_022306863.1, C_virginica|XP_022307426.1, C_virginica|XP_022307677.1, C_virginica|XP_022307962.1, C_virginica|XP_022290581.1, C_virginica|XP_022307702.1, C_virginica|XP_022308442.1, C_virginica|XP_022307726.1, C_virginica|XP_022305270.1, C_virginica|XP_022307760.1, C_virginica|XP_022307060.1, C_virginica|XP_022308515.1, C_virginica|XP_022309687.1, C_virginica|XP_022309653.1, C_virginica|XP_022307062.1, C_virginica|XP_022307742.1, C_virginica|XP_022306155.1, C_virginica|XP_022303399.1, C_virginica|XP_022307722.1, C_virginica|XP_022307769.1, C_virginica|XP_022310311.1, C_virginica|XP_022306746.1, C_virginica|XP_022307761.1, C_virginica|XP_022307885.1, C_virginica|XP_022309673.1, C_virginica|XP_022307756.1, C_virginica|XP_022309374.1, C_virginica|XP_022308427.1, C_virginica|XP_022306748.1, C_virginica|XP_022309678.1, C_virginica|XP_022306229.1, C_virginica|XP_022288791.1, C_virginica|XP_022309677.1, C_virginica|XP_022307728.1, C_virginica|XP_022307729.1, C_virginica|XP_022286717.1, C_virginica|XP_022290620.1, C_virginica|XP_022286479.1, C_virginica|XP_022288574.1, C_virginica|XP_022287415.1, C_virginica|XP_022289418.1, C_virginica|XP_022289654.1, C_virginica|XP_022289715.1, C_virginica|XP_022289949.1, C_virginica|XP_022289447.1, C_virginica|XP_022289967.1, C_virginica|XP_022289938.1, C_virginica|XP_022290649.1, C_virginica|XP_022289727.1, C_virginica|XP_022297668.1, C_virginica|XP_022287464.1, C_virginica|XP_022290289.1, C_virginica|XP_022289935.1, C_virginica|XP_022289706.1, C_virginica|XP_022305518.1, C_virginica|XP_022306742.1, C_virginica|XP_022309654.1, C_virginica|XP_022309655.1, C_virginica|XP_022307732.1, C_virginica|XP_022294925.1, C_virginica|XP_022307839.1, C_virginica|XP_022307877.1	P_fucata|Pma_10021546
+OG0000004	B_glabrata_2	C_virginica|XP_022306864.1, C_virginica|XP_022307682.1, C_virginica|XP_022309512.1, C_virginica|XP_022309842.1, C_virginica|XP_022292876.1, C_virginica|XP_022308432.1, C_virginica|XP_022306863.1, C_virginica|XP_022307426.1, C_virginica|XP_022307677.1, C_virginica|XP_022307962.1, C_virginica|XP_022290581.1, C_virginica|XP_022307702.1, C_virginica|XP_022308442.1, C_virginica|XP_022307726.1, C_virginica|XP_022305270.1, C_virginica|XP_022307760.1, C_virginica|XP_022307060.1, C_virginica|XP_022308515.1, C_virginica|XP_022309687.1, C_virginica|XP_022309653.1, C_virginica|XP_022307062.1, C_virginica|XP_022307742.1, C_virginica|XP_022306155.1, C_virginica|XP_022303399.1, C_virginica|XP_022307722.1, C_virginica|XP_022307769.1, C_virginica|XP_022310311.1, C_virginica|XP_022306746.1, C_virginica|XP_022307761.1, C_virginica|XP_022307885.1, C_virginica|XP_022309673.1, C_virginica|XP_022307756.1, C_virginica|XP_022309374.1, C_virginica|XP_022308427.1, C_virginica|XP_022306748.1, C_virginica|XP_022309678.1, C_virginica|XP_022306229.1, C_virginica|XP_022288791.1, C_virginica|XP_022309677.1, C_virginica|XP_022307728.1, C_virginica|XP_022307729.1, C_virginica|XP_022286717.1, C_virginica|XP_022290620.1, C_virginica|XP_022286479.1, C_virginica|XP_022288574.1, C_virginica|XP_022287415.1, C_virginica|XP_022289418.1, C_virginica|XP_022289654.1, C_virginica|XP_022289715.1, C_virginica|XP_022289949.1, C_virginica|XP_022289447.1, C_virginica|XP_022289967.1, C_virginica|XP_022289938.1, C_virginica|XP_022290649.1, C_virginica|XP_022289727.1, C_virginica|XP_022297668.1, C_virginica|XP_022287464.1, C_virginica|XP_022290289.1, C_virginica|XP_022289935.1, C_virginica|XP_022289706.1, C_virginica|XP_022305518.1, C_virginica|XP_022306742.1, C_virginica|XP_022309654.1, C_virginica|XP_022309655.1, C_virginica|XP_022307732.1, C_virginica|XP_022294925.1, C_virginica|XP_022307839.1, C_virginica|XP_022307877.1	B_glabrata|XP_013086610.1, B_glabrata|XP_013089298.1, B_glabrata|XP_013062440.1, B_glabrata|XP_013093169.1
+OG0000004	L_gigantea_2	C_virginica|XP_022306864.1, C_virginica|XP_022307682.1, C_virginica|XP_022309512.1, C_virginica|XP_022309842.1, C_virginica|XP_022292876.1, C_virginica|XP_022308432.1, C_virginica|XP_022306863.1, C_virginica|XP_022307426.1, C_virginica|XP_022307677.1, C_virginica|XP_022307962.1, C_virginica|XP_022290581.1, C_virginica|XP_022307702.1, C_virginica|XP_022308442.1, C_virginica|XP_022307726.1, C_virginica|XP_022305270.1, C_virginica|XP_022307760.1, C_virginica|XP_022307060.1, C_virginica|XP_022308515.1, C_virginica|XP_022309687.1, C_virginica|XP_022309653.1, C_virginica|XP_022307062.1, C_virginica|XP_022307742.1, C_virginica|XP_022306155.1, C_virginica|XP_022303399.1, C_virginica|XP_022307722.1, C_virginica|XP_022307769.1, C_virginica|XP_022310311.1, C_virginica|XP_022306746.1, C_virginica|XP_022307761.1, C_virginica|XP_022307885.1, C_virginica|XP_022309673.1, C_virginica|XP_022307756.1, C_virginica|XP_022309374.1, C_virginica|XP_022308427.1, C_virginica|XP_022306748.1, C_virginica|XP_022309678.1, C_virginica|XP_022306229.1, C_virginica|XP_022288791.1, C_virginica|XP_022309677.1, C_virginica|XP_022307728.1, C_virginica|XP_022307729.1, C_virginica|XP_022286717.1, C_virginica|XP_022290620.1, C_virginica|XP_022286479.1, C_virginica|XP_022288574.1, C_virginica|XP_022287415.1, C_virginica|XP_022289418.1, C_virginica|XP_022289654.1, C_virginica|XP_022289715.1, C_virginica|XP_022289949.1, C_virginica|XP_022289447.1, C_virginica|XP_022289967.1, C_virginica|XP_022289938.1, C_virginica|XP_022290649.1, C_virginica|XP_022289727.1, C_virginica|XP_022297668.1, C_virginica|XP_022287464.1, C_virginica|XP_022290289.1, C_virginica|XP_022289935.1, C_virginica|XP_022289706.1, C_virginica|XP_022305518.1, C_virginica|XP_022306742.1, C_virginica|XP_022309654.1, C_virginica|XP_022309655.1, C_virginica|XP_022307732.1, C_virginica|XP_022294925.1, C_virginica|XP_022307839.1, C_virginica|XP_022307877.1	L_gigantea|XP_009061714.1, L_gigantea|XP_009061776.1, L_gigantea|XP_009061781.1
+OG0000007	A_granulata_2	C_virginica|XP_022308431.1	A_granulata|model.g6273.t1_1, A_granulata|model.g6272.t1_1
+OG0000007	H_robusta_2	C_virginica|XP_022308431.1	H_robusta|ESN93723.1
+OG0000007	L_gigantea_2	C_virginica|XP_022308431.1	L_gigantea|XP_009046443.1, L_gigantea|XP_009046442.1
+OG0000007	S_constricta_2	C_virginica|XP_022308431.1	S_constricta|evm.model.ctg436.5
+OG0000007	P_fucata_2	C_virginica|XP_022308431.1	P_fucata|Pma_10017847
+OG0000007	H_robusta_2	C_virginica|XP_022307961.1	H_robusta|ESO04500.1
+OG0000007	S_constricta_2	C_virginica|XP_022307961.1	S_constricta|evm.model.ctg412.18
+OG0000007	A_granulata_2	C_virginica|XP_022307961.1	A_granulata|evm.model.Super-Scaffold_100004.707_1
+OG0000007	L_gigantea_2	C_virginica|XP_022307961.1	L_gigantea|XP_009046440.1
+OG0000007	B_glabrata_2	C_virginica|XP_022307961.1	B_glabrata|XP_013075772.1
+OG0000007	P_fucata_2	C_virginica|XP_022307961.1	P_fucata|Pma_10010607, P_fucata|Pma_532.177
+OG0000007	H_robusta_2	C_virginica|XP_022319262.1, C_virginica|XP_022316903.1	H_robusta|ESO09755.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022319262.1, C_virginica|XP_022316903.1	O_bimaculoides|XP_014780359.1
+OG0000007	L_gigantea_2	C_virginica|XP_022319262.1	L_gigantea|XP_009055159.1
+OG0000007	B_glabrata_2	C_virginica|XP_022316903.1	B_glabrata|XP_013079326.1
+OG0000007	A_granulata_2	C_virginica|XP_022316903.1	A_granulata|evm.model.Super-Scaffold_100004.411_1
+OG0000007	S_constricta_2	C_virginica|XP_022316903.1	S_constricta|evm.model.ctg380.19
+OG0000007	P_fucata_2	C_virginica|XP_022316903.1	P_fucata|Pma_10001157
+OG0000007	H_robusta_2	C_virginica|XP_022286090.1	H_robusta|ESO05584.1
+OG0000007	S_constricta_2	C_virginica|XP_022286090.1	S_constricta|evm.model.ctg2181.2
+OG0000007	A_granulata_2	C_virginica|XP_022286090.1	A_granulata|evm.model.Super-Scaffold_100004.301_1
+OG0000007	L_gigantea_2	C_virginica|XP_022286090.1	L_gigantea|XP_009063633.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022291943.1	O_bimaculoides|XP_014789021.1
+OG0000007	L_gigantea_2	C_virginica|XP_022291943.1	L_gigantea|XP_009046437.1
+OG0000007	A_granulata_2	C_virginica|XP_022291943.1	A_granulata|model.g6264.t1_model.g6265.t1_1
+OG0000007	H_robusta_2	C_virginica|XP_022291943.1	H_robusta|ESN90265.1, H_robusta|ESO07168.1
+OG0000007	S_constricta_2	C_virginica|XP_022291943.1	S_constricta|evm.model.ctg412.15
+OG0000007	H_robusta_2	C_virginica|XP_022326937.1	H_robusta|ESO01742.1
+OG0000007	L_gigantea_2	C_virginica|XP_022326937.1	L_gigantea|XP_009065435.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022326937.1	O_bimaculoides|XP_014780502.1
+OG0000007	A_granulata_2	C_virginica|XP_022326937.1	A_granulata|model.g13936.t1_1
+OG0000007	B_glabrata_2	C_virginica|XP_022326937.1	B_glabrata|XP_013081957.1
+OG0000007	S_constricta_2	C_virginica|XP_022326937.1	S_constricta|evm.model.ctg306.3
+OG0000007	P_fucata_2	C_virginica|XP_022326937.1	P_fucata|Pma_10023863
+OG0000007	L_gigantea_2	C_virginica|XP_022292027.1	L_gigantea|XP_009046439.1
+OG0000007	S_constricta_2	C_virginica|XP_022292027.1	S_constricta|evm.model.ctg412.17
+OG0000007	P_fucata_2	C_virginica|XP_022292027.1	P_fucata|Pma_10030419
+OG0000007	L_gigantea_2	C_virginica|XP_022289925.1	L_gigantea|XP_009046438.1
+OG0000007	P_fucata_2	C_virginica|XP_022289925.1	P_fucata|Pma_10006875, P_fucata|Pma_207.322
+OG0000007	H_robusta_2	C_virginica|XP_022328330.1	H_robusta|ESN95559.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022328330.1	O_bimaculoides|XP_014769873.1
+OG0000007	B_glabrata_2	C_virginica|XP_022328330.1	B_glabrata|XP_013082062.1
+OG0000007	A_granulata_2	C_virginica|XP_022328330.1	A_granulata|model.g13938.t1_1
+OG0000007	S_constricta_2	C_virginica|XP_022328330.1	S_constricta|evm.model.ctg306.4
+OG0000007	L_gigantea_2	C_virginica|XP_022328330.1	L_gigantea|XP_009065436.1
+OG0000007	P_fucata_2	C_virginica|XP_022328330.1	P_fucata|Pma_10023861, P_fucata|Pma_10007466, P_fucata|Pma_10016649
+OG0000007	P_fucata_2	C_virginica|XP_022324615.1	P_fucata|Pma_10016536
+OG0000007	H_robusta_2	C_virginica|XP_022324615.1	H_robusta|ESO01497.1
+OG0000007	A_granulata_2	C_virginica|XP_022324615.1	A_granulata|model.g5761.t1_1
+OG0000007	B_glabrata_2	C_virginica|XP_022324615.1	B_glabrata|XP_013063618.1
+OG0000007	L_gigantea_2	C_virginica|XP_022324615.1	L_gigantea|XP_009046479.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022324615.1	O_bimaculoides|XP_014767862.1
+OG0000007	B_glabrata_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	B_glabrata|XP_013094229.1
+OG0000007	S_constricta_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	S_constricta|evm.model.ctg562.15
+OG0000007	H_robusta_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	H_robusta|ESN99512.1
+OG0000007	L_gigantea_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	L_gigantea|XP_009065931.1, L_gigantea|XP_009065930.1
+OG0000007	A_granulata_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	A_granulata|evm.model.Super-Scaffold_100006.1323_1
+OG0000007	P_fucata_2	C_virginica|XP_022320319.1, C_virginica|XP_022320653.1	P_fucata|Pma_10027249
+OG0000007	H_robusta_2	C_virginica|XP_022340779.1	H_robusta|ESN93724.1, H_robusta|ESO04948.1
+OG0000007	A_granulata_2	C_virginica|XP_022340779.1	A_granulata|model.g6270.t1.2.5d3b84cf_1
+OG0000007	L_gigantea_2	C_virginica|XP_022340779.1	L_gigantea|XP_009046441.1
+OG0000007	P_fucata_2	C_virginica|XP_022340779.1	P_fucata|Pma_10017849
+OG0000007	H_robusta_2	C_virginica|XP_022309837.1, C_virginica|XP_022342129.1	H_robusta|ESO07165.1
+OG0000007	L_gigantea_2	C_virginica|XP_022309837.1	L_gigantea|XP_009046445.1
+OG0000007	B_glabrata_2	C_virginica|XP_022309837.1	B_glabrata|XP_013086911.1, B_glabrata|XP_013093880.1
+OG0000007	O_bimaculoides_2	C_virginica|XP_022309837.1	O_bimaculoides|XP_014781016.1
+OG0000007	S_constricta_2	C_virginica|XP_022309837.1	S_constricta|evm.model.ctg436.1
+OG0000007	P_fucata_2	C_virginica|XP_022309837.1	P_fucata|Pma_10008710
+OG0000007	S_constricta_2	C_virginica|XP_022342129.1	S_constricta|evm.model.ctg436.4
+OG0000007	L_gigantea_2	C_virginica|XP_022342129.1	L_gigantea|XP_009046444.1
+OG0000007	A_granulata_2	C_virginica|XP_022342129.1	A_granulata|model.g6274.t1_1
+OG0000008	P_fucata_2	C_virginica|XP_022336556.1	P_fucata|Pma_10018523, P_fucata|Pma_10032670, P_fucata|Pma_10013104, P_fucata|Pma_10009170
+OG0000008	P_fucata_2	C_virginica|XP_022328162.1	P_fucata|Pma_10010336, P_fucata|Pma_10001272, P_fucata|Pma_10015719, P_fucata|Pma_10014823, P_fucata|Pma_10027590, P_fucata|Pma_10025225, P_fucata|Pma_10012813, P_fucata|Pma_10014442, P_fucata|Pma_10018762, P_fucata|Pma_10002973, P_fucata|Pma_10020755, P_fucata|Pma_10026499, P_fucata|Pma_137.648, P_fucata|Pma_10025202, P_fucata|Pma_10024277, P_fucata|Pma_10005812, P_fucata|Pma_10017267, P_fucata|Pma_10021364, P_fucata|Pma_10012983, P_fucata|Pma_10031891, P_fucata|Pma_10005503, P_fucata|Pma_10014461, P_fucata|Pma_10011701, P_fucata|Pma_10006710, P_fucata|Pma_10016756, P_fucata|Pma_10021257, P_fucata|Pma_10016596, P_fucata|Pma_10018764, P_fucata|Pma_10026204, P_fucata|Pma_10031329, P_fucata|Pma_10017760, P_fucata|Pma_10011400, P_fucata|Pma_10001395, P_fucata|Pma_125.33, P_fucata|Pma_10025742, P_fucata|Pma_10018689, P_fucata|Pma_10010065, P_fucata|Pma_10021487, P_fucata|Pma_10024322, P_fucata|Pma_10015213, P_fucata|Pma_10015220, P_fucata|Pma_10023717, P_fucata|Pma_10007564, P_fucata|Pma_10014641, P_fucata|Pma_10016550, P_fucata|Pma_10017727, P_fucata|Pma_10002741, P_fucata|Pma_10013457, P_fucata|Pma_10018460, P_fucata|Pma_10010358, P_fucata|Pma_10025714, P_fucata|Pma_10010850, P_fucata|Pma_10029566, P_fucata|Pma_10002023, P_fucata|Pma_10021130, P_fucata|Pma_10028024, P_fucata|Pma_10013957, P_fucata|Pma_10032283, P_fucata|Pma_10016205, P_fucata|Pma_10014031, P_fucata|Pma_10031879, P_fucata|Pma_10005046, P_fucata|Pma_10029961, P_fucata|Pma_10000932, P_fucata|Pma_10027521, P_fucata|Pma_10014274, P_fucata|Pma_10011413, P_fucata|Pma_10032441, P_fucata|Pma_10026145, P_fucata|Pma_10028195, P_fucata|Pma_10026194, P_fucata|Pma_10000381, P_fucata|Pma_10028243, P_fucata|Pma_10010252, P_fucata|Pma_10018601, P_fucata|Pma_10025403, P_fucata|Pma_10005838, P_fucata|Pma_10030000, P_fucata|Pma_10017036, P_fucata|Pma_10005415, P_fucata|Pma_10029625, P_fucata|Pma_10022931, P_fucata|Pma_10021465, P_fucata|Pma_10012601, P_fucata|Pma_10012164, P_fucata|Pma_10009788, P_fucata|Pma_10006437, P_fucata|Pma_10016906, P_fucata|Pma_10011621, P_fucata|Pma_10018782, P_fucata|Pma_10022527, P_fucata|Pma_10026497, P_fucata|Pma_10029621, P_fucata|Pma_10032536, P_fucata|Pma_10028987, P_fucata|Pma_10002834, P_fucata|Pma_10015948, P_fucata|Pma_10001198, P_fucata|Pma_10027002, P_fucata|Pma_10023276, P_fucata|Pma_10027927, P_fucata|Pma_10030532, P_fucata|Pma_10020872, P_fucata|Pma_10028861, P_fucata|Pma_10030056, P_fucata|Pma_10014331, P_fucata|Pma_10029267, P_fucata|Pma_10023630, P_fucata|Pma_10022256, P_fucata|Pma_10009288, P_fucata|Pma_10009276, P_fucata|Pma_10021591
+OG0000009	H_robusta_2	C_virginica|XP_022335688.1	H_robusta|ESO12556.1
+OG0000009	A_granulata_2	C_virginica|XP_022335688.1	A_granulata|evm.model.Super-Scaffold_100012.506_1
+OG0000009	B_glabrata_2	C_virginica|XP_022335688.1	B_glabrata|XP_013076273.1
+OG0000009	L_gigantea_2	C_virginica|XP_022335688.1	L_gigantea|XP_009044518.1
+OG0000009	O_bimaculoides_2	C_virginica|XP_022335688.1	O_bimaculoides|XP_014769217.1
+OG0000009	P_fucata_2	C_virginica|XP_022335688.1	P_fucata|Pma_10032418
+OG0000009	A_granulata_2	C_virginica|XP_022316864.1	A_granulata|evm.model.Super-Scaffold_100004.157_1
+OG0000009	L_gigantea_2	C_virginica|XP_022316864.1	L_gigantea|XP_009055766.1, L_gigantea|XP_009064105.1
+OG0000009	S_constricta_2	C_virginica|XP_022316864.1	S_constricta|evm.model.ctg76.11
+OG0000009	P_fucata_2	C_virginica|XP_022316864.1	P_fucata|Pma_10006517
+OG0000009	H_robusta_2	C_virginica|XP_022308211.1	H_robusta|ESN95234.1
+OG0000009	P_fucata_2	C_virginica|XP_022308211.1	P_fucata|Pma_10011588
+OG0000009	L_gigantea_2	C_virginica|XP_022308211.1	L_gigantea|XP_009046723.1, L_gigantea|XP_009058115.1
+OG0000009	B_glabrata_2	C_virginica|XP_022308211.1	B_glabrata|XP_013080003.1, B_glabrata|XP_013094576.1, B_glabrata|XP_013063268.1
+OG0000009	S_constricta_2	C_virginica|XP_022308211.1	S_constricta|evm.model.ctg1628.1, S_constricta|evm.model.ctg6192.1, S_constricta|evm.model.ctg1696.4
+OG0000009	P_fucata_2	C_virginica|XP_022336489.1	P_fucata|Pma_2.186
+OG0000009	A_granulata_2	C_virginica|XP_022299766.1	A_granulata|evm.model.Super-Scaffold_100013.618_1
+OG0000009	L_gigantea_2	C_virginica|XP_022299766.1	L_gigantea|XP_009044627.1
+OG0000009	S_constricta_2	C_virginica|XP_022299766.1	S_constricta|evm.model.ctg138.15, S_constricta|evm.model.ctg885.2
+OG0000009	P_fucata_2	C_virginica|XP_022299766.1	P_fucata|Pma_10021751
+OG0000009	A_granulata_2	C_virginica|XP_022335661.1	A_granulata|evm.model.Super-Scaffold_505.825_1
+OG0000009	L_gigantea_2	C_virginica|XP_022335661.1	L_gigantea|XP_009057810.1
+OG0000009	P_fucata_2	C_virginica|XP_022335661.1	P_fucata|Pma_10028191
+OG0000009	A_granulata_2	C_virginica|XP_022338842.1, C_virginica|XP_022338942.1	A_granulata|evm.model.Super-Scaffold_100002.833_1, A_granulata|evm.model.Super-Scaffold_100013.583_1
+OG0000009	S_constricta_2	C_virginica|XP_022338842.1, C_virginica|XP_022338942.1	S_constricta|evm.model.ctg6778.1
+OG0000009	H_robusta_2	C_virginica|XP_022338842.1, C_virginica|XP_022338942.1	H_robusta|ESN95530.1, H_robusta|ESO00696.1
+OG0000009	H_robusta_2	C_virginica|XP_022286105.1, C_virginica|XP_022346077.1	H_robusta|ESO00154.1, H_robusta|ESO04934.1
+OG0000009	A_granulata_2	C_virginica|XP_022286105.1, C_virginica|XP_022346077.1	A_granulata|model.g14108.t1_1
+OG0000009	B_glabrata_2	C_virginica|XP_022286105.1, C_virginica|XP_022346077.1	B_glabrata|XP_013082520.1
+OG0000009	L_gigantea_2	C_virginica|XP_022286105.1, C_virginica|XP_022346077.1	L_gigantea|XP_009053915.1
+OG0000009	S_constricta_2	C_virginica|XP_022286105.1, C_virginica|XP_022346077.1	S_constricta|evm.model.ctg1144.9
+OG0000009	A_granulata_2	C_virginica|XP_022338373.1, C_virginica|XP_022338900.1	A_granulata|evm.model.Super-Scaffold_100006.1281_1, A_granulata|model.g14402.t1_1
+OG0000009	H_robusta_2	C_virginica|XP_022338373.1, C_virginica|XP_022338900.1	H_robusta|ESO05551.1, H_robusta|ESO05549.1, H_robusta|ESO05547.1, H_robusta|ESO05561.1, H_robusta|ESO05580.1, H_robusta|ESO05560.1, H_robusta|ESO05555.1, H_robusta|ESO05548.1, H_robusta|ESN96742.1, H_robusta|ESN96743.1, H_robusta|ESO05658.1, H_robusta|ESO05557.1, H_robusta|ESO05562.1, H_robusta|ESO05579.1, H_robusta|ESO05553.1, H_robusta|ESO05565.1, H_robusta|ESN90439.1, H_robusta|ESN93770.1
+OG0000009	O_bimaculoides_2	C_virginica|XP_022338373.1, C_virginica|XP_022338900.1	O_bimaculoides|XP_014768598.1, O_bimaculoides|XP_014771819.1
+OG0000009	B_glabrata_2	C_virginica|XP_022338373.1, C_virginica|XP_022338900.1	B_glabrata|XP_013071348.1
+OG0000009	P_fucata_2	C_virginica|XP_022338373.1, C_virginica|XP_022338900.1	P_fucata|Pma_325.96
+OG0000011	H_robusta_2	C_virginica|XP_022340848.1	H_robusta|ESN93667.1, H_robusta|ESO04681.1
+OG0000011	S_constricta_2	C_virginica|XP_022340848.1	S_constricta|evm.model.ctg366.24, S_constricta|evm.model.ctg748.4, S_constricta|evm.model.ctg3437.4, S_constricta|evm.model.ctg748.3, S_constricta|evm.model.ctg2148.3, S_constricta|evm.model.ctg2148.4, S_constricta|evm.model.ctg1814.1, S_constricta|evm.model.ctg2243.4, S_constricta|evm.model.ctg3389.3, S_constricta|evm.model.ctg2037.2, S_constricta|evm.model.ctg4062.2.1, S_constricta|evm.model.ctg1280.10, S_constricta|evm.model.ctg1280.6, S_constricta|evm.model.ctg1280.8, S_constricta|evm.model.ctg1197.1, S_constricta|evm.model.ctg1204.8, S_constricta|evm.model.ctg1157.14, S_constricta|evm.model.ctg3160.1, S_constricta|evm.model.ctg3075.1, S_constricta|evm.model.ctg2608.3.1, S_constricta|evm.model.ctg8738.1, S_constricta|evm.model.ctg1189.6, S_constricta|evm.model.ctg2960.1, S_constricta|evm.model.ctg1189.4, S_constricta|evm.model.ctg1950.1, S_constricta|evm.model.ctg2747.1, S_constricta|evm.model.ctg2716.3, S_constricta|evm.model.ctg1905.6, S_constricta|evm.model.ctg3105.3, S_constricta|evm.model.ctg2900.1, S_constricta|evm.model.ctg9031.1, S_constricta|evm.model.ctg1163.3, S_constricta|evm.model.ctg1163.2, S_constricta|evm.model.ctg5056.3, S_constricta|evm.model.ctg1905.4, S_constricta|evm.model.ctg2900.2, S_constricta|evm.model.ctg2935.2, S_constricta|evm.model.ctg1414.8.1, S_constricta|evm.model.ctg1163.4, S_constricta|evm.model.ctg2250.2, S_constricta|evm.model.ctg1728.1.5, S_constricta|evm.model.ctg1031.2, S_constricta|evm.model.ctg1031.5, S_constricta|evm.model.ctg1031.1, S_constricta|evm.model.ctg3583.1, S_constricta|evm.model.ctg1163.1, S_constricta|evm.model.ctg3583.2, S_constricta|evm.model.ctg1905.5, S_constricta|evm.model.ctg3234.1, S_constricta|evm.model.ctg1173.5, S_constricta|evm.model.ctg1892.2, S_constricta|evm.model.ctg1801.2, S_constricta|evm.model.ctg1611.2, S_constricta|evm.model.ctg2170.1, S_constricta|evm.model.ctg5056.2, S_constricta|evm.model.ctg3433.3, S_constricta|evm.model.ctg1905.2, S_constricta|evm.model.ctg4448.1_evm.model.ctg4448.2, S_constricta|evm.model.ctg1905.3, S_constricta|evm.model.ctg2506.2.1, S_constricta|evm.model.ctg5056.1, S_constricta|evm.model.ctg2935.4, S_constricta|evm.model.ctg3898.1, S_constricta|evm.model.ctg2170.3, S_constricta|evm.model.ctg1414.7, S_constricta|evm.model.ctg3433.1, S_constricta|evm.model.ctg3898.2, S_constricta|evm.model.ctg3433.2, S_constricta|evm.model.ctg2935.1, S_constricta|evm.model.ctg2170.2, S_constricta|evm.model.ctg1173.9, S_constricta|evm.model.ctg2716.1, S_constricta|evm.model.ctg1173.10, S_constricta|evm.model.ctg1173.2, S_constricta|evm.model.ctg1173.1, S_constricta|evm.model.ctg1173.7, S_constricta|evm.model.ctg2947.1, S_constricta|evm.model.ctg1525.1, S_constricta|evm.model.ctg1611.4, S_constricta|evm.model.ctg1892.1, S_constricta|evm.model.ctg1611.6, S_constricta|evm.model.ctg1611.3, S_constricta|evm.model.ctg1173.6, S_constricta|evm.model.ctg1611.1, S_constricta|evm.model.ctg1189.1, S_constricta|evm.model.ctg2250.1, S_constricta|evm.model.ctg3234.3, S_constricta|evm.model.ctg3234.4, S_constricta|evm.model.ctg1611.5, S_constricta|evm.model.ctg1173.8, S_constricta|evm.model.ctg2947.2, S_constricta|evm.model.ctg103.60
+OG0000011	P_fucata_2	C_virginica|XP_022340848.1	P_fucata|Pma_10023646, P_fucata|Pma_10011539, P_fucata|Pma_10019860, P_fucata|Pma_55.139
+OG0000011	L_gigantea_2	C_virginica|XP_022340848.1	L_gigantea|XP_009053022.1, L_gigantea|XP_009044047.1
+OG0000011	B_glabrata_2	C_virginica|XP_022340848.1	B_glabrata|XP_013083200.1, B_glabrata|XP_013092586.1
+OG0000011	A_granulata_2	C_virginica|XP_022340848.1	A_granulata|model.g14860.t1_1
+OG0000011	O_bimaculoides_2	C_virginica|XP_022340848.1	O_bimaculoides|XP_014785327.1
+OG0000013	P_fucata_2	C_virginica|XP_022334804.1, C_virginica|XP_022306357.1, C_virginica|XP_022311594.1, C_virginica|XP_022306358.1, C_virginica|XP_022312453.1, C_virginica|XP_022306385.1, C_virginica|XP_022311480.1, C_virginica|XP_022306362.1, C_virginica|XP_022306364.1, C_virginica|XP_022306367.1, C_virginica|XP_022306351.1, C_virginica|XP_022312370.1, C_virginica|XP_022306359.1, C_virginica|XP_022306475.1, C_virginica|XP_022306472.1, C_virginica|XP_022306479.1, C_virginica|XP_022311867.1, C_virginica|XP_022306474.1, C_virginica|XP_022311310.1, C_virginica|XP_022306369.1, C_virginica|XP_022307480.1, C_virginica|XP_022307479.1, C_virginica|XP_022311311.1, C_virginica|XP_022311877.1, C_virginica|XP_022307477.1, C_virginica|XP_022306473.1, C_virginica|XP_022304397.1, C_virginica|XP_022307478.1, C_virginica|XP_022311307.1, C_virginica|XP_022306463.1, C_virginica|XP_022306465.1, C_virginica|XP_022311708.1, C_virginica|XP_022306466.1, C_virginica|XP_022311860.1, C_virginica|XP_022311308.1, C_virginica|XP_022311879.1, C_virginica|XP_022306468.1, C_virginica|XP_022311861.1, C_virginica|XP_022306483.1, C_virginica|XP_022311460.1, C_virginica|XP_022310797.1, C_virginica|XP_022305369.1, C_virginica|XP_022310798.1, C_virginica|XP_022305368.1, C_virginica|XP_022310804.1, C_virginica|XP_022304232.1, C_virginica|XP_022307631.1, C_virginica|XP_022331776.1, C_virginica|XP_022305679.1, C_virginica|XP_022310258.1, C_virginica|XP_022307624.1, C_virginica|XP_022305652.1, C_virginica|XP_022307630.1, C_virginica|XP_022307619.1, C_virginica|XP_022304650.1, C_virginica|XP_022306710.1, C_virginica|XP_022307622.1, C_virginica|XP_022304926.1, C_virginica|XP_022305656.1, C_virginica|XP_022305661.1, C_virginica|XP_022310056.1, C_virginica|XP_022310242.1, C_virginica|XP_022307623.1, C_virginica|XP_022310070.1, C_virginica|XP_022305646.1, C_virginica|XP_022304902.1, C_virginica|XP_022304465.1, C_virginica|XP_022309564.1, C_virginica|XP_022305672.1, C_virginica|XP_022304147.1, C_virginica|XP_022305644.1, C_virginica|XP_022305671.1, C_virginica|XP_022305678.1, C_virginica|XP_022307634.1, C_virginica|XP_022305675.1, C_virginica|XP_022305647.1, C_virginica|XP_022305648.1, C_virginica|XP_022304272.1, C_virginica|XP_022305639.1, C_virginica|XP_022307633.1, C_virginica|XP_022304826.1, C_virginica|XP_022303194.1, C_virginica|XP_022305636.1	P_fucata|Pma_108.798, P_fucata|Pma_10011085, P_fucata|Pma_10011366
+OG0000015	S_constricta_2	C_virginica|XP_022325142.1	S_constricta|evm.model.ctg413.13
+OG0000015	H_robusta_2	C_virginica|XP_022325142.1	H_robusta|ESO05631.1
+OG0000015	B_glabrata_2	C_virginica|XP_022325142.1	B_glabrata|XP_013076722.1, B_glabrata|XP_013090484.1
+OG0000015	P_fucata_2	C_virginica|XP_022325142.1	P_fucata|Pma_10001006
+OG0000015	H_robusta_2	C_virginica|XP_022313105.1	H_robusta|ESO03499.1, H_robusta|ESN92664.1, H_robusta|ESN96466.1, H_robusta|ESN97514.1, H_robusta|ESN97593.1, H_robusta|ESO01045.1, H_robusta|ESO10761.1, H_robusta|ESO10737.1, H_robusta|ESN98277.1, H_robusta|ESN96591.1, H_robusta|ESN96597.1, H_robusta|ESO03493.1, H_robusta|ESO03102.1, H_robusta|ESO03105.1, H_robusta|ESO07891.1, H_robusta|ESO07910.1, H_robusta|ESO03444.1, H_robusta|ESN95337.1, H_robusta|ESO03104.1, H_robusta|ESN94607.1, H_robusta|ESN94604.1, H_robusta|ESN94435.1, H_robusta|ESN94436.1, H_robusta|ESN94603.1, H_robusta|ESN98372.1, H_robusta|ESO03249.1, H_robusta|ESO03248.1, H_robusta|ESN98371.1, H_robusta|ESN98370.1, H_robusta|ESO03247.1, H_robusta|ESO00996.1, H_robusta|ESN95338.1, H_robusta|ESN91147.1, H_robusta|ESN97570.1, H_robusta|ESO09452.1, H_robusta|ESO09989.1, H_robusta|ESO09990.1, H_robusta|ESN98909.1, H_robusta|ESN98910.1, H_robusta|ESN96969.1, H_robusta|ESN99957.1, H_robusta|ESO01034.1, H_robusta|ESN96703.1
+OG0000015	H_robusta_2	C_virginica|XP_022341159.1	H_robusta|ESN90293.1
+OG0000015	O_bimaculoides_2	C_virginica|XP_022341159.1	O_bimaculoides|XP_014789051.1
+OG0000015	B_glabrata_2	C_virginica|XP_022341159.1	B_glabrata|XP_013077189.1
+OG0000015	L_gigantea_2	C_virginica|XP_022341159.1	L_gigantea|XP_009052518.1
+OG0000015	A_granulata_2	C_virginica|XP_022341159.1	A_granulata|evm.model.Super-Scaffold_100002.249_1
+OG0000015	S_constricta_2	C_virginica|XP_022341159.1	S_constricta|evm.model.ctg528.30
+OG0000016	H_robusta_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	H_robusta|ESO12711.1, H_robusta|ESO12860.1
+OG0000016	A_granulata_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	A_granulata|evm.model.Super-Scaffold_100019.314_1, A_granulata|model.g20194.t1_1, A_granulata|evm.model.Super-Scaffold_100016.112_1, A_granulata|model.g19855.t1_1, A_granulata|evm.model.Super-Scaffold_505.1528_1, A_granulata|model.g26165.t1_1, A_granulata|evm.model.Super-Scaffold_100005.476_1, A_granulata|evm.model.Super-Scaffold_100037.2_1, A_granulata|model.g8906.t1_1
+OG0000016	L_gigantea_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	L_gigantea|XP_009066031.1
+OG0000016	P_fucata_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	P_fucata|Pma_10013077, P_fucata|Pma_10013078, P_fucata|Pma_10021023, P_fucata|Pma_10013072, P_fucata|Pma_10017238, P_fucata|Pma_10013074, P_fucata|Pma_2.319, P_fucata|Pma_10002971, P_fucata|Pma_10026311, P_fucata|Pma_10019994, P_fucata|Pma_10020228, P_fucata|Pma_10026308, P_fucata|Pma_10017082, P_fucata|Pma_10010486, P_fucata|Pma_10005410, P_fucata|Pma_10026304, P_fucata|Pma_10026305, P_fucata|Pma_10026309, P_fucata|Pma_10002972, P_fucata|Pma_10027671
+OG0000016	S_constricta_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	S_constricta|evm.model.ctg496.5, S_constricta|evm.model.ctg6.81, S_constricta|evm.model.ctg174.7
+OG0000016	B_glabrata_2	C_virginica|XP_022308580.1, C_virginica|XP_022294752.1, C_virginica|XP_022293525.1, C_virginica|XP_022332689.1, C_virginica|XP_022334600.1	B_glabrata|XP_013068640.1, B_glabrata|XP_013068639.1, B_glabrata|XP_013090968.1, B_glabrata|XP_013089408.1, B_glabrata|XP_013090966.1, B_glabrata|XP_013093196.1, B_glabrata|XP_013094005.1, B_glabrata|XP_013080962.1, B_glabrata|XP_013062374.1, B_glabrata|XP_013080662.1, B_glabrata|XP_013093671.1, B_glabrata|XP_013078245.1, B_glabrata|XP_013086582.1, B_glabrata|XP_013086580.1, B_glabrata|XP_013091907.1, B_glabrata|XP_013092990.1, B_glabrata|XP_013096412.1
+OG0000017	H_robusta_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1, C_virginica|XP_022343020.1	H_robusta|ESO10253.1
+OG0000017	A_granulata_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1, C_virginica|XP_022343020.1	A_granulata|model.g4966.t1_1, A_granulata|model.g706.t1_1, A_granulata|model.g4965.t1_1, A_granulata|evm.model.Super-Scaffold_100003.1034_1
+OG0000017	B_glabrata_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1, C_virginica|XP_022343020.1	B_glabrata|XP_013083785.1
+OG0000017	L_gigantea_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1, C_virginica|XP_022343020.1	L_gigantea|XP_009054246.1
+OG0000017	O_bimaculoides_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1, C_virginica|XP_022343020.1	O_bimaculoides|XP_014773512.1
+OG0000017	P_fucata_2	C_virginica|XP_022344548.1, C_virginica|XP_022344551.1	P_fucata|Pma_10029257, P_fucata|Pma_10029259
+OG0000017	P_fucata_2	C_virginica|XP_022343020.1	P_fucata|Pma_10024934
+OG0000017	L_gigantea_2	C_virginica|XP_022344537.1, C_virginica|XP_022344538.1, C_virginica|XP_022338110.1, C_virginica|XP_022344539.1, C_virginica|XP_022288802.1, C_virginica|XP_022292738.1, C_virginica|XP_022339402.1, C_virginica|XP_022339405.1	L_gigantea|XP_009061494.1
+OG0000017	B_glabrata_2	C_virginica|XP_022344537.1, C_virginica|XP_022344538.1, C_virginica|XP_022338110.1, C_virginica|XP_022344539.1, C_virginica|XP_022288802.1, C_virginica|XP_022292738.1, C_virginica|XP_022339402.1, C_virginica|XP_022339405.1	B_glabrata|XP_013078946.1, B_glabrata|XP_013065892.1, B_glabrata|XP_013065863.1, B_glabrata|XP_013079385.1, B_glabrata|XP_013079394.1, B_glabrata|XP_013077200.1, B_glabrata|XP_013062035.1, B_glabrata|XP_013065895.1, B_glabrata|XP_013062034.1, B_glabrata|XP_013077202.1, B_glabrata|XP_013065857.1, B_glabrata|XP_013065893.1, B_glabrata|XP_013080598.1, B_glabrata|XP_013080599.1, B_glabrata|XP_013093165.1
+OG0000017	S_constricta_2	C_virginica|XP_022344537.1, C_virginica|XP_022344538.1	S_constricta|evm.model.ctg747.5
+OG0000017	P_fucata_2	C_virginica|XP_022344537.1, C_virginica|XP_022344538.1	P_fucata|Pma_10029261
+OG0000017	S_constricta_2	C_virginica|XP_022338110.1, C_virginica|XP_022344539.1, C_virginica|XP_022288802.1	S_constricta|evm.model.ctg747.4, S_constricta|evm.model.ctg225.33
+OG0000017	P_fucata_2	C_virginica|XP_022338110.1	P_fucata|Pma_10003264
+OG0000017	P_fucata_2	C_virginica|XP_022344539.1	P_fucata|Pma_10029262
+OG0000017	P_fucata_2	C_virginica|XP_022288802.1	P_fucata|Pma_10021622
+OG0000017	S_constricta_2	C_virginica|XP_022292738.1	S_constricta|evm.model.ctg337.18
+OG0000017	P_fucata_2	C_virginica|XP_022292738.1	P_fucata|Pma_10031907
+OG0000017	S_constricta_2	C_virginica|XP_022339402.1, C_virginica|XP_022339405.1	S_constricta|evm.model.ctg416.42
+OG0000017	P_fucata_2	C_virginica|XP_022339402.1	P_fucata|Pma_10016367
+OG0000017	P_fucata_2	C_virginica|XP_022339405.1	P_fucata|Pma_10023166
+OG0000018	L_gigantea_2	C_virginica|XP_022333877.1, C_virginica|XP_022300455.1	L_gigantea|XP_009055411.1
+OG0000018	P_fucata_2	C_virginica|XP_022333877.1	P_fucata|Pma_10016081
+OG0000018	P_fucata_2	C_virginica|XP_022300455.1	P_fucata|Pma_10027321, P_fucata|Pma_10011065, P_fucata|Pma_10013599, P_fucata|Pma_10021855, P_fucata|Pma_10022476, P_fucata|Pma_10020684, P_fucata|Pma_10026948, P_fucata|Pma_10028434, P_fucata|Pma_10021692, P_fucata|Pma_10001184, P_fucata|Pma_10018175, P_fucata|Pma_10030542, P_fucata|Pma_10023239, P_fucata|Pma_10020252, P_fucata|Pma_10025744, P_fucata|Pma_10002367, P_fucata|Pma_10013560, P_fucata|Pma_10010736, P_fucata|Pma_10007429, P_fucata|Pma_10000702, P_fucata|Pma_10029440, P_fucata|Pma_10011394, P_fucata|Pma_10023184, P_fucata|Pma_10006442, P_fucata|Pma_10022327, P_fucata|Pma_10023372, P_fucata|Pma_10020542, P_fucata|Pma_10023966, P_fucata|Pma_10030882, P_fucata|Pma_10004726, P_fucata|Pma_10013561, P_fucata|Pma_10009009, P_fucata|Pma_10002677, P_fucata|Pma_10010284, P_fucata|Pma_10013403, P_fucata|Pma_10006138, P_fucata|Pma_10005768, P_fucata|Pma_10030764, P_fucata|Pma_10021806, P_fucata|Pma_10016667, P_fucata|Pma_10007024, P_fucata|Pma_10004474, P_fucata|Pma_10008755, P_fucata|Pma_10019583, P_fucata|Pma_10031645, P_fucata|Pma_10024686, P_fucata|Pma_10006295, P_fucata|Pma_10026409, P_fucata|Pma_10012443, P_fucata|Pma_10016439, P_fucata|Pma_10011110, P_fucata|Pma_10022590, P_fucata|Pma_10023292, P_fucata|Pma_10013452, P_fucata|Pma_10013450, P_fucata|Pma_10014320
+OG0000019	O_bimaculoides_2	C_virginica|XP_022338983.1	O_bimaculoides|XP_014773657.1
+OG0000019	H_robusta_2	C_virginica|XP_022338983.1	H_robusta|ESO05380.1
+OG0000019	L_gigantea_2	C_virginica|XP_022338983.1	L_gigantea|XP_009050388.1
+OG0000019	B_glabrata_2	C_virginica|XP_022338983.1	B_glabrata|XP_013085161.1
+OG0000019	S_constricta_2	C_virginica|XP_022338983.1	S_constricta|evm.model.ctg23.32
+OG0000019	O_bimaculoides_2	C_virginica|XP_022291061.1	O_bimaculoides|XP_014781196.1
+OG0000019	S_constricta_2	C_virginica|XP_022291061.1	S_constricta|evm.model.ctg159.29
+OG0000019	P_fucata_2	C_virginica|XP_022291061.1	P_fucata|Pma_10019755
+OG0000019	S_constricta_2	C_virginica|XP_022314994.1	S_constricta|evm.model.ctg9.1, S_constricta|evm.model.ctg128.7
+OG0000019	A_granulata_2	C_virginica|XP_022314994.1	A_granulata|model.g7414.t1_1
+OG0000019	B_glabrata_2	C_virginica|XP_022314994.1	B_glabrata|XP_013083944.1
+OG0000019	L_gigantea_2	C_virginica|XP_022314994.1	L_gigantea|XP_009059734.1
+OG0000019	P_fucata_2	C_virginica|XP_022314994.1	P_fucata|Pma_10027659
+OG0000019	H_robusta_2	C_virginica|XP_022337519.1, C_virginica|XP_022313091.1, C_virginica|XP_022313389.1, C_virginica|XP_022318187.1, C_virginica|XP_022312847.1, C_virginica|XP_022312947.1, C_virginica|XP_022302633.1, C_virginica|XP_022313153.1	H_robusta|ESO09462.1
+OG0000019	L_gigantea_2	C_virginica|XP_022337519.1	L_gigantea|XP_009062371.1
+OG0000019	B_glabrata_2	C_virginica|XP_022337519.1	B_glabrata|XP_013072245.1
+OG0000019	A_granulata_2	C_virginica|XP_022337519.1	A_granulata|model.g14035.t1_1
+OG0000019	S_constricta_2	C_virginica|XP_022337519.1	S_constricta|evm.model.ctg859.12
+OG0000019	P_fucata_2	C_virginica|XP_022337519.1	P_fucata|Pma_10025141
+OG0000019	O_bimaculoides_2	C_virginica|XP_022313091.1, C_virginica|XP_022313389.1	O_bimaculoides|XP_014772300.1
+OG0000019	L_gigantea_2	C_virginica|XP_022313091.1, C_virginica|XP_022313389.1	L_gigantea|XP_009053791.1
+OG0000019	S_constricta_2	C_virginica|XP_022313091.1, C_virginica|XP_022313389.1	S_constricta|evm.model.ctg117.11
+OG0000019	P_fucata_2	C_virginica|XP_022313091.1, C_virginica|XP_022313389.1	P_fucata|Pma_10004783, P_fucata|Pma_10004784
+OG0000019	A_granulata_2	C_virginica|XP_022312847.1, C_virginica|XP_022312947.1	A_granulata|model.g7451.t1_1
+OG0000019	L_gigantea_2	C_virginica|XP_022312847.1, C_virginica|XP_022312947.1	L_gigantea|XP_009057899.1
+OG0000019	S_constricta_2	C_virginica|XP_022312847.1, C_virginica|XP_022312947.1	S_constricta|evm.model.ctg510.19
+OG0000019	P_fucata_2	C_virginica|XP_022312847.1, C_virginica|XP_022312947.1	P_fucata|Pma_10004192
+OG0000019	B_glabrata_2	C_virginica|XP_022302633.1, C_virginica|XP_022313153.1	B_glabrata|XP_013063444.1
+OG0000019	O_bimaculoides_2	C_virginica|XP_022302633.1, C_virginica|XP_022313153.1	O_bimaculoides|XP_014780698.1
+OG0000019	L_gigantea_2	C_virginica|XP_022302633.1	L_gigantea|XP_009056958.1
+OG0000019	S_constricta_2	C_virginica|XP_022302633.1	S_constricta|evm.model.ctg84.12
+OG0000019	A_granulata_2	C_virginica|XP_022302633.1	A_granulata|model.g11738.t1.5.5d3b86a4_1
+OG0000019	P_fucata_2	C_virginica|XP_022302633.1	P_fucata|Pma_10023026, P_fucata|Pma_10013841
+OG0000019	S_constricta_2	C_virginica|XP_022313153.1	S_constricta|evm.model.ctg131.23, S_constricta|evm.model.ctg131.22
+OG0000019	L_gigantea_2	C_virginica|XP_022313153.1	L_gigantea|XP_009047890.1
+OG0000019	A_granulata_2	C_virginica|XP_022313153.1	A_granulata|model.g8205.t1_1
+OG0000019	P_fucata_2	C_virginica|XP_022313153.1	P_fucata|Pma_10003080
+OG0000020	O_bimaculoides_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	O_bimaculoides|XP_014770772.1, O_bimaculoides|XP_014770779.1, O_bimaculoides|XP_014780678.1, O_bimaculoides|XP_014782253.1, O_bimaculoides|XP_014783124.1, O_bimaculoides|XP_014784698.1
+OG0000020	B_glabrata_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	B_glabrata|XP_013063795.1, B_glabrata|XP_013079560.1, B_glabrata|XP_013082920.1
+OG0000020	A_granulata_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	A_granulata|model.g11218.t1_1, A_granulata|model.g27971.t1_1, A_granulata|model.g12669.t1_1, A_granulata|model.g11836.t1_1, A_granulata|model.g12028.t1_1, A_granulata|model.g12671.t1_1
+OG0000020	L_gigantea_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	L_gigantea|XP_009057758.1, L_gigantea|XP_009046332.1, L_gigantea|XP_009046334.1, L_gigantea|XP_009046333.1, L_gigantea|XP_009047653.1, L_gigantea|XP_009051451.1, L_gigantea|XP_009051452.1, L_gigantea|XP_009054607.1, L_gigantea|XP_009059079.1
+OG0000020	P_fucata_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	P_fucata|Pma_10019387, P_fucata|Pma_10020902, P_fucata|Pma_10026027, P_fucata|Pma_10001746
+OG0000020	S_constricta_2	C_virginica|XP_022331975.1, C_virginica|XP_022331976.1	S_constricta|evm.model.ctg3.92, S_constricta|evm.model.ctg1086.13, S_constricta|evm.model.ctg1086.12, S_constricta|evm.model.ctg1086.11, S_constricta|evm.model.ctg1086.9, S_constricta|evm.model.ctg2779.2, S_constricta|evm.model.ctg6487.1, S_constricta|evm.model.ctg1723.2, S_constricta|evm.model.ctg727.2, S_constricta|evm.model.ctg727.4, S_constricta|evm.model.ctg5497.1, S_constricta|evm.model.ctg727.3, S_constricta|evm.model.ctg28.4, S_constricta|evm.model.ctg189.107
+OG0000021	A_granulata_2	C_virginica|XP_022320337.1, C_virginica|XP_022319163.1, C_virginica|XP_022330434.1, C_virginica|XP_022342549.1, C_virginica|XP_022291094.1, C_virginica|XP_022291640.1, C_virginica|XP_022308078.1, C_virginica|XP_022293003.1, C_virginica|XP_022304791.1, C_virginica|XP_022317583.1	A_granulata|model.g31071.t1_1, A_granulata|evm.model.Super-Scaffold_100012.51_1
+OG0000021	P_fucata_2	C_virginica|XP_022320337.1, C_virginica|XP_022319163.1, C_virginica|XP_022330434.1, C_virginica|XP_022342549.1, C_virginica|XP_022291094.1, C_virginica|XP_022291640.1, C_virginica|XP_022308078.1	P_fucata|Pma_10031676, P_fucata|Pma_10018803, P_fucata|Pma_10018494, P_fucata|Pma_312.314, P_fucata|Pma_10025973, P_fucata|Pma_388.228
+OG0000021	L_gigantea_2	C_virginica|XP_022320337.1, C_virginica|XP_022319163.1, C_virginica|XP_022330434.1, C_virginica|XP_022342549.1, C_virginica|XP_022291094.1, C_virginica|XP_022291640.1, C_virginica|XP_022308078.1	L_gigantea|XP_009061998.1
+OG0000021	P_fucata_2	C_virginica|XP_022293003.1, C_virginica|XP_022304791.1, C_virginica|XP_022317583.1	P_fucata|Pma_563.627, P_fucata|Pma_285.110, P_fucata|Pma_520.689, P_fucata|Pma_220.644, P_fucata|Pma_10001900, P_fucata|Pma_10011278, P_fucata|Pma_330.410, P_fucata|Pma_10004526
+OG0000023	S_constricta_2	C_virginica|XP_022322019.1	S_constricta|evm.model.ctg238.53
+OG0000023	H_robusta_2	C_virginica|XP_022322019.1	H_robusta|ESO00598.1
+OG0000023	B_glabrata_2	C_virginica|XP_022322019.1	B_glabrata|XP_013069100.1
+OG0000023	L_gigantea_2	C_virginica|XP_022322019.1	L_gigantea|XP_009044903.1
+OG0000023	A_granulata_2	C_virginica|XP_022322019.1	A_granulata|evm.model.Super-Scaffold_100002.117_1
+OG0000023	O_bimaculoides_2	C_virginica|XP_022322019.1	O_bimaculoides|XP_014787445.1
+OG0000023	P_fucata_2	C_virginica|XP_022322019.1	P_fucata|Pma_10014854
+OG0000024	H_robusta_2	C_virginica|XP_022319000.1	H_robusta|ESN91305.1
+OG0000024	B_glabrata_2	C_virginica|XP_022319000.1	B_glabrata|XP_013079153.1
+OG0000024	O_bimaculoides_2	C_virginica|XP_022319000.1	O_bimaculoides|XP_014778891.1
+OG0000024	S_constricta_2	C_virginica|XP_022319000.1	S_constricta|evm.model.ctg14.39
+OG0000024	L_gigantea_2	C_virginica|XP_022319000.1	L_gigantea|XP_009056746.1
+OG0000024	A_granulata_2	C_virginica|XP_022319000.1	A_granulata|evm.model.Super-Scaffold_100005.884_1
+OG0000024	P_fucata_2	C_virginica|XP_022319000.1	P_fucata|Pma_10012487
+OG0000025	H_robusta_2	C_virginica|XP_022316668.1	H_robusta|ESN91955.1
+OG0000025	S_constricta_2	C_virginica|XP_022316668.1	S_constricta|evm.model.ctg97.43
+OG0000025	B_glabrata_2	C_virginica|XP_022316668.1	B_glabrata|XP_013070418.1
+OG0000025	L_gigantea_2	C_virginica|XP_022316668.1	L_gigantea|XP_009048639.1
+OG0000025	A_granulata_2	C_virginica|XP_022316668.1	A_granulata|evm.model.Super-Scaffold_100008.679_1
+OG0000025	O_bimaculoides_2	C_virginica|XP_022316668.1	O_bimaculoides|XP_014789699.1
+OG0000025	P_fucata_2	C_virginica|XP_022316668.1	P_fucata|Pma_10016699
+OG0000026	S_constricta_2	C_virginica|XP_022344839.1	S_constricta|evm.model.ctg1004.16
+OG0000026	O_bimaculoides_2	C_virginica|XP_022344839.1	O_bimaculoides|XP_014789426.1
+OG0000026	A_granulata_2	C_virginica|XP_022344839.1	A_granulata|evm.model.Super-Scaffold_100010.607_1
+OG0000026	B_glabrata_2	C_virginica|XP_022344839.1	B_glabrata|XP_013085147.1
+OG0000026	H_robusta_2	C_virginica|XP_022344839.1	H_robusta|ESN95294.1
+OG0000026	L_gigantea_2	C_virginica|XP_022344839.1	L_gigantea|XP_009051788.1
+OG0000026	P_fucata_2	C_virginica|XP_022344839.1	P_fucata|Pma_10004014
+OG0000027	O_bimaculoides_2	C_virginica|XP_022341852.1	O_bimaculoides|XP_014788131.1
+OG0000027	H_robusta_2	C_virginica|XP_022341852.1	H_robusta|ESO08179.1
+OG0000027	A_granulata_2	C_virginica|XP_022341852.1	A_granulata|evm.model.Super-Scaffold_100013.373_1
+OG0000027	B_glabrata_2	C_virginica|XP_022341852.1	B_glabrata|XP_013079423.1
+OG0000027	S_constricta_2	C_virginica|XP_022341852.1	S_constricta|evm.model.ctg660.7
+OG0000027	L_gigantea_2	C_virginica|XP_022341852.1	L_gigantea|XP_009058327.1
+OG0000027	P_fucata_2	C_virginica|XP_022341852.1	P_fucata|Pma_10008115
+OG0000028	B_glabrata_2	C_virginica|XP_022321873.1	B_glabrata|XP_013064541.1
+OG0000028	O_bimaculoides_2	C_virginica|XP_022321873.1	O_bimaculoides|XP_014790475.1
+OG0000028	A_granulata_2	C_virginica|XP_022321873.1	A_granulata|evm.model.Super-Scaffold_100025.188_1
+OG0000028	L_gigantea_2	C_virginica|XP_022321873.1	L_gigantea|XP_009050366.1
+OG0000028	H_robusta_2	C_virginica|XP_022321873.1	H_robusta|ESO08129.1
+OG0000028	S_constricta_2	C_virginica|XP_022321873.1	S_constricta|evm.model.ctg930.2
+OG0000028	P_fucata_2	C_virginica|XP_022321873.1	P_fucata|Pma_10025415
+OG0000029	A_granulata_2	C_virginica|XP_022344457.1	A_granulata|model.g2134.t1_1
+OG0000029	H_robusta_2	C_virginica|XP_022344457.1	H_robusta|ESO13052.1
+OG0000029	O_bimaculoides_2	C_virginica|XP_022344457.1	O_bimaculoides|XP_014772627.1
+OG0000029	B_glabrata_2	C_virginica|XP_022344457.1	B_glabrata|XP_013084231.1
+OG0000029	S_constricta_2	C_virginica|XP_022344457.1	S_constricta|evm.model.ctg492.4
+OG0000029	L_gigantea_2	C_virginica|XP_022344457.1	L_gigantea|XP_009051479.1
+OG0000029	P_fucata_2	C_virginica|XP_022344457.1	P_fucata|Pma_10031590
+OG0000030	A_granulata_2	C_virginica|XP_022308357.1	A_granulata|model.g1298.t1_1
+OG0000030	O_bimaculoides_2	C_virginica|XP_022308357.1	O_bimaculoides|XP_014784674.1
+OG0000030	B_glabrata_2	C_virginica|XP_022308357.1	B_glabrata|XP_013088149.1
+OG0000030	H_robusta_2	C_virginica|XP_022308357.1	H_robusta|ESO09280.1
+OG0000030	L_gigantea_2	C_virginica|XP_022308357.1	L_gigantea|XP_009051490.1
+OG0000030	S_constricta_2	C_virginica|XP_022308357.1	S_constricta|evm.model.ctg40.49
+OG0000030	P_fucata_2	C_virginica|XP_022308357.1	P_fucata|Pma_10019276
+OG0000031	B_glabrata_2	C_virginica|XP_022328400.1	B_glabrata|XP_013061816.1
+OG0000031	O_bimaculoides_2	C_virginica|XP_022328400.1	O_bimaculoides|XP_014787618.1
+OG0000031	H_robusta_2	C_virginica|XP_022328400.1	H_robusta|ESO09736.1
+OG0000031	L_gigantea_2	C_virginica|XP_022328400.1	L_gigantea|XP_009055442.1
+OG0000031	A_granulata_2	C_virginica|XP_022328400.1	A_granulata|model.g100.t1_1
+OG0000031	S_constricta_2	C_virginica|XP_022328400.1	S_constricta|evm.model.ctg142.10
+OG0000031	P_fucata_2	C_virginica|XP_022328400.1	P_fucata|Pma_10004601
+OG0000032	H_robusta_2	C_virginica|XP_022338696.1	H_robusta|ESO02199.1
+OG0000032	S_constricta_2	C_virginica|XP_022338696.1	S_constricta|evm.model.ctg145.40
+OG0000032	A_granulata_2	C_virginica|XP_022338696.1	A_granulata|model.g501.t1_1
+OG0000032	O_bimaculoides_2	C_virginica|XP_022338696.1	O_bimaculoides|XP_014773878.1
+OG0000032	B_glabrata_2	C_virginica|XP_022338696.1	B_glabrata|XP_013081362.1
+OG0000032	L_gigantea_2	C_virginica|XP_022338696.1	L_gigantea|XP_009048498.1
+OG0000032	P_fucata_2	C_virginica|XP_022338696.1	P_fucata|Pma_10001679
+OG0000033	A_granulata_2	C_virginica|XP_022343803.1	A_granulata|model.g1883.t1_1
+OG0000033	O_bimaculoides_2	C_virginica|XP_022343803.1	O_bimaculoides|XP_014769418.1
+OG0000033	H_robusta_2	C_virginica|XP_022343803.1	H_robusta|ESN90052.1
+OG0000033	B_glabrata_2	C_virginica|XP_022343803.1	B_glabrata|XP_013091381.1
+OG0000033	L_gigantea_2	C_virginica|XP_022343803.1	L_gigantea|XP_009056300.1
+OG0000033	S_constricta_2	C_virginica|XP_022343803.1	S_constricta|evm.model.ctg647.9
+OG0000033	P_fucata_2	C_virginica|XP_022343803.1	P_fucata|Pma_10026789
+OG0000034	H_robusta_2	C_virginica|XP_022343845.1	H_robusta|ESN90476.1
+OG0000034	L_gigantea_2	C_virginica|XP_022343845.1	L_gigantea|XP_009054295.1
+OG0000034	B_glabrata_2	C_virginica|XP_022343845.1	B_glabrata|XP_013078957.1
+OG0000034	S_constricta_2	C_virginica|XP_022343845.1	S_constricta|evm.model.ctg613.8
+OG0000034	A_granulata_2	C_virginica|XP_022343845.1	A_granulata|model.g1662.t1_1
+OG0000034	O_bimaculoides_2	C_virginica|XP_022343845.1	O_bimaculoides|XP_014777276.1
+OG0000034	P_fucata_2	C_virginica|XP_022343845.1	P_fucata|Pma_10032131
+OG0000035	L_gigantea_2	C_virginica|XP_022313863.1	L_gigantea|XP_009063552.1
+OG0000035	O_bimaculoides_2	C_virginica|XP_022313863.1	O_bimaculoides|XP_014772225.1
+OG0000035	S_constricta_2	C_virginica|XP_022313863.1	S_constricta|evm.model.ctg392.9
+OG0000035	A_granulata_2	C_virginica|XP_022313863.1	A_granulata|model.g3215.t1_1
+OG0000035	B_glabrata_2	C_virginica|XP_022313863.1	B_glabrata|XP_013075562.1
+OG0000035	H_robusta_2	C_virginica|XP_022313863.1	H_robusta|ESO10634.1
+OG0000035	P_fucata_2	C_virginica|XP_022313863.1	P_fucata|Pma_10016128
+OG0000036	A_granulata_2	C_virginica|XP_022314684.1	A_granulata|model.g3997.t1_1
+OG0000036	O_bimaculoides_2	C_virginica|XP_022314684.1	O_bimaculoides|XP_014776166.1
+OG0000036	B_glabrata_2	C_virginica|XP_022314684.1	B_glabrata|XP_013064900.1
+OG0000036	L_gigantea_2	C_virginica|XP_022314684.1	L_gigantea|XP_009048015.1
+OG0000036	H_robusta_2	C_virginica|XP_022314684.1	H_robusta|ESO10298.1
+OG0000036	S_constricta_2	C_virginica|XP_022314684.1	S_constricta|evm.model.ctg96.20
+OG0000036	P_fucata_2	C_virginica|XP_022314684.1	P_fucata|Pma_10028537
+OG0000037	A_granulata_2	C_virginica|XP_022316489.1	A_granulata|model.g4135.t1_1
+OG0000037	H_robusta_2	C_virginica|XP_022316489.1	H_robusta|ESN95204.1
+OG0000037	O_bimaculoides_2	C_virginica|XP_022316489.1	O_bimaculoides|XP_014785114.1
+OG0000037	B_glabrata_2	C_virginica|XP_022316489.1	B_glabrata|XP_013085046.1
+OG0000037	L_gigantea_2	C_virginica|XP_022316489.1	L_gigantea|XP_009045422.1
+OG0000037	S_constricta_2	C_virginica|XP_022316489.1	S_constricta|evm.model.ctg533.29
+OG0000037	P_fucata_2	C_virginica|XP_022316489.1	P_fucata|Pma_10007898
+OG0000038	A_granulata_2	C_virginica|XP_022314870.1	A_granulata|model.g3909.t1_1
+OG0000038	O_bimaculoides_2	C_virginica|XP_022314870.1	O_bimaculoides|XP_014773522.1
+OG0000038	S_constricta_2	C_virginica|XP_022314870.1	S_constricta|evm.model.ctg1402.5
+OG0000038	B_glabrata_2	C_virginica|XP_022314870.1	B_glabrata|XP_013077767.1
+OG0000038	L_gigantea_2	C_virginica|XP_022314870.1	L_gigantea|XP_009067307.1
+OG0000038	H_robusta_2	C_virginica|XP_022314870.1	H_robusta|ESO05119.1
+OG0000038	P_fucata_2	C_virginica|XP_022314870.1	P_fucata|Pma_225.222
+OG0000039	B_glabrata_2	C_virginica|XP_022309414.1	B_glabrata|XP_013086056.1
+OG0000039	O_bimaculoides_2	C_virginica|XP_022309414.1	O_bimaculoides|XP_014772348.1
+OG0000039	H_robusta_2	C_virginica|XP_022309414.1	H_robusta|ESN96911.1
+OG0000039	A_granulata_2	C_virginica|XP_022309414.1	A_granulata|model.g5912.t1_1
+OG0000039	L_gigantea_2	C_virginica|XP_022309414.1	L_gigantea|XP_009046521.1
+OG0000039	S_constricta_2	C_virginica|XP_022309414.1	S_constricta|evm.model.ctg271.100
+OG0000039	P_fucata_2	C_virginica|XP_022309414.1	P_fucata|Pma_10017118
+OG0000040	H_robusta_2	C_virginica|XP_022332522.1	H_robusta|ESO01626.1
+OG0000040	A_granulata_2	C_virginica|XP_022332522.1	A_granulata|model.g6072.t1_1
+OG0000040	B_glabrata_2	C_virginica|XP_022332522.1	B_glabrata|XP_013079984.1
+OG0000040	S_constricta_2	C_virginica|XP_022332522.1	S_constricta|evm.model.ctg76.36
+OG0000040	L_gigantea_2	C_virginica|XP_022332522.1	L_gigantea|XP_009047712.1
+OG0000040	O_bimaculoides_2	C_virginica|XP_022332522.1	O_bimaculoides|XP_014788148.1
+OG0000040	P_fucata_2	C_virginica|XP_022332522.1	P_fucata|Pma_10009782
+OG0000041	H_robusta_2	C_virginica|XP_022301526.1	H_robusta|ESO00575.1
+OG0000041	O_bimaculoides_2	C_virginica|XP_022301526.1	O_bimaculoides|XP_014773542.1
+OG0000041	A_granulata_2	C_virginica|XP_022301526.1	A_granulata|model.g8800.t1_1
+OG0000041	S_constricta_2	C_virginica|XP_022301526.1	S_constricta|evm.model.ctg64.47
+OG0000041	B_glabrata_2	C_virginica|XP_022301526.1	B_glabrata|XP_013075181.1
+OG0000041	L_gigantea_2	C_virginica|XP_022301526.1	L_gigantea|XP_009050006.1
+OG0000041	P_fucata_2	C_virginica|XP_022301526.1	P_fucata|Pma_10020132
+OG0000042	A_granulata_2	C_virginica|XP_022300046.1	A_granulata|model.g8671.t1_1
+OG0000042	O_bimaculoides_2	C_virginica|XP_022300046.1	O_bimaculoides|XP_014775340.1
+OG0000042	L_gigantea_2	C_virginica|XP_022300046.1	L_gigantea|XP_009062528.1
+OG0000042	H_robusta_2	C_virginica|XP_022300046.1	H_robusta|ESN96167.1
+OG0000042	S_constricta_2	C_virginica|XP_022300046.1	S_constricta|evm.model.ctg154.29
+OG0000042	B_glabrata_2	C_virginica|XP_022300046.1	B_glabrata|XP_013068776.1
+OG0000042	P_fucata_2	C_virginica|XP_022300046.1	P_fucata|Pma_10002130
+OG0000043	H_robusta_2	C_virginica|XP_022322855.1	H_robusta|ESO04933.1
+OG0000043	O_bimaculoides_2	C_virginica|XP_022322855.1	O_bimaculoides|XP_014783376.1
+OG0000043	A_granulata_2	C_virginica|XP_022322855.1	A_granulata|model.g9992.t1_1
+OG0000043	B_glabrata_2	C_virginica|XP_022322855.1	B_glabrata|XP_013064636.1
+OG0000043	L_gigantea_2	C_virginica|XP_022322855.1	L_gigantea|XP_009045632.1
+OG0000043	S_constricta_2	C_virginica|XP_022322855.1	S_constricta|evm.model.ctg491.9
+OG0000043	P_fucata_2	C_virginica|XP_022322855.1	P_fucata|Pma_10008006
+OG0000044	A_granulata_2	C_virginica|XP_022334366.1	A_granulata|model.g9597.t1_1
+OG0000044	O_bimaculoides_2	C_virginica|XP_022334366.1	O_bimaculoides|XP_014767759.1
+OG0000044	L_gigantea_2	C_virginica|XP_022334366.1	L_gigantea|XP_009057767.1
+OG0000044	H_robusta_2	C_virginica|XP_022334366.1	H_robusta|ESO00697.1
+OG0000044	B_glabrata_2	C_virginica|XP_022334366.1	B_glabrata|XP_013096019.1
+OG0000044	S_constricta_2	C_virginica|XP_022334366.1	S_constricta|evm.model.ctg340.12
+OG0000044	P_fucata_2	C_virginica|XP_022334366.1	P_fucata|Pma_10030088
+OG0000045	H_robusta_2	C_virginica|XP_022317065.1	H_robusta|ESN99635.1
+OG0000045	O_bimaculoides_2	C_virginica|XP_022317065.1	O_bimaculoides|XP_014774176.1
+OG0000045	S_constricta_2	C_virginica|XP_022317065.1	S_constricta|evm.model.ctg968.2
+OG0000045	L_gigantea_2	C_virginica|XP_022317065.1	L_gigantea|XP_009043858.1
+OG0000045	A_granulata_2	C_virginica|XP_022317065.1	A_granulata|model.g11944.t1_1
+OG0000045	B_glabrata_2	C_virginica|XP_022317065.1	B_glabrata|XP_013086308.1
+OG0000045	P_fucata_2	C_virginica|XP_022317065.1	P_fucata|Pma_10002234
+OG0000046	A_granulata_2	C_virginica|XP_022325540.1	A_granulata|model.g13152.t1_1
+OG0000046	B_glabrata_2	C_virginica|XP_022325540.1	B_glabrata|XP_013066099.1
+OG0000046	L_gigantea_2	C_virginica|XP_022325540.1	L_gigantea|XP_009060904.1
+OG0000046	H_robusta_2	C_virginica|XP_022325540.1	H_robusta|ESO10083.1
+OG0000046	S_constricta_2	C_virginica|XP_022325540.1	S_constricta|evm.model.ctg667.12
+OG0000046	O_bimaculoides_2	C_virginica|XP_022325540.1	O_bimaculoides|XP_014772041.1
+OG0000046	P_fucata_2	C_virginica|XP_022325540.1	P_fucata|Pma_10027324
+OG0000047	A_granulata_2	C_virginica|XP_022333984.1	A_granulata|model.g15250.t1_1
+OG0000047	O_bimaculoides_2	C_virginica|XP_022333984.1	O_bimaculoides|XP_014770126.1
+OG0000047	L_gigantea_2	C_virginica|XP_022333984.1	L_gigantea|XP_009059115.1
+OG0000047	H_robusta_2	C_virginica|XP_022333984.1	H_robusta|ESN91550.1
+OG0000047	B_glabrata_2	C_virginica|XP_022333984.1	B_glabrata|XP_013082575.1
+OG0000047	S_constricta_2	C_virginica|XP_022333984.1	S_constricta|evm.model.ctg1.21
+OG0000047	P_fucata_2	C_virginica|XP_022333984.1	P_fucata|Pma_10023216
+OG0000048	B_glabrata_2	C_virginica|XP_022330767.1	B_glabrata|XP_013086900.1
+OG0000048	H_robusta_2	C_virginica|XP_022330767.1	H_robusta|ESO13187.1
+OG0000048	L_gigantea_2	C_virginica|XP_022330767.1	L_gigantea|XP_009064850.1
+OG0000048	S_constricta_2	C_virginica|XP_022330767.1	S_constricta|evm.model.ctg1.125_evm.model.ctg1.126
+OG0000048	O_bimaculoides_2	C_virginica|XP_022330767.1	O_bimaculoides|XP_014783673.1
+OG0000048	A_granulata_2	C_virginica|XP_022330767.1	A_granulata|model.g15596.t1_1
+OG0000048	P_fucata_2	C_virginica|XP_022330767.1	P_fucata|Pma_10003678
+OG0000049	A_granulata_2	C_virginica|XP_022333004.1	A_granulata|model.g17957.t1_1
+OG0000049	O_bimaculoides_2	C_virginica|XP_022333004.1	O_bimaculoides|XP_014790578.1
+OG0000049	H_robusta_2	C_virginica|XP_022333004.1	H_robusta|ESN98754.1
+OG0000049	B_glabrata_2	C_virginica|XP_022333004.1	B_glabrata|XP_013067132.1
+OG0000049	L_gigantea_2	C_virginica|XP_022333004.1	L_gigantea|XP_009043632.1
+OG0000049	S_constricta_2	C_virginica|XP_022333004.1	S_constricta|evm.model.ctg388.17
+OG0000049	P_fucata_2	C_virginica|XP_022333004.1	P_fucata|Pma_10020653
+OG0000050	H_robusta_2	C_virginica|XP_022340056.1	H_robusta|ESO00076.1
+OG0000050	O_bimaculoides_2	C_virginica|XP_022340056.1	O_bimaculoides|XP_014773139.1
+OG0000050	S_constricta_2	C_virginica|XP_022340056.1	S_constricta|evm.model.ctg51.64
+OG0000050	A_granulata_2	C_virginica|XP_022340056.1	A_granulata|model.g30402.t1_1
+OG0000050	P_fucata_2	C_virginica|XP_022340056.1	P_fucata|Pma_10006139
+OG0000050	L_gigantea_2	C_virginica|XP_022340056.1	L_gigantea|XP_009053420.1
+OG0000050	B_glabrata_2	C_virginica|XP_022340056.1	B_glabrata|XP_013095945.1
+OG0000051	H_robusta_2	C_virginica|XP_022343998.1	H_robusta|ESN99728.1
+OG0000051	O_bimaculoides_2	C_virginica|XP_022343998.1	O_bimaculoides|XP_014776868.1
+OG0000051	A_granulata_2	C_virginica|XP_022343998.1	A_granulata|model.g29359.t1_1
+OG0000051	L_gigantea_2	C_virginica|XP_022343998.1	L_gigantea|XP_009050923.1
+OG0000051	B_glabrata_2	C_virginica|XP_022343998.1	B_glabrata|XP_013090147.1
+OG0000051	S_constricta_2	C_virginica|XP_022343998.1	S_constricta|evm.model.ctg185.15
+OG0000051	P_fucata_2	C_virginica|XP_022343998.1	P_fucata|Pma_10021729
+OG0000052	H_robusta_2	C_virginica|XP_022345957.1	H_robusta|ESN98670.1
+OG0000052	O_bimaculoides_2	C_virginica|XP_022345957.1	O_bimaculoides|XP_014790391.1
+OG0000052	B_glabrata_2	C_virginica|XP_022345957.1	B_glabrata|XP_013088196.1
+OG0000052	A_granulata_2	C_virginica|XP_022345957.1	A_granulata|model.g28777.t1_1
+OG0000052	L_gigantea_2	C_virginica|XP_022345957.1	L_gigantea|XP_009054282.1
+OG0000052	S_constricta_2	C_virginica|XP_022345957.1	S_constricta|evm.model.ctg101.83
+OG0000052	P_fucata_2	C_virginica|XP_022345957.1	P_fucata|Pma_10014024
+OG0000053	H_robusta_2	C_virginica|XP_022286161.1	H_robusta|ESO03583.1
+OG0000053	O_bimaculoides_2	C_virginica|XP_022286161.1	O_bimaculoides|XP_014778145.1
+OG0000053	L_gigantea_2	C_virginica|XP_022286161.1	L_gigantea|XP_009066668.1
+OG0000053	B_glabrata_2	C_virginica|XP_022286161.1	B_glabrata|XP_013067251.1
+OG0000053	A_granulata_2	C_virginica|XP_022286161.1	A_granulata|model.g29911.t1_1
+OG0000053	S_constricta_2	C_virginica|XP_022286161.1	S_constricta|evm.model.ctg1651.2
+OG0000053	P_fucata_2	C_virginica|XP_022286161.1	P_fucata|Pma_10029871
+OG0000054	H_robusta_2	C_virginica|XP_022343743.1	H_robusta|ESO10888.1
+OG0000054	A_granulata_2	C_virginica|XP_022343743.1	A_granulata|model.g1284.t1.1.5d3b82d5_1
+OG0000054	S_constricta_2	C_virginica|XP_022343743.1	S_constricta|evm.model.ctg775.15
+OG0000054	O_bimaculoides_2	C_virginica|XP_022343743.1	O_bimaculoides|XP_014779552.1
+OG0000054	L_gigantea_2	C_virginica|XP_022343743.1	L_gigantea|XP_009044613.1
+OG0000054	B_glabrata_2	C_virginica|XP_022343743.1	B_glabrata|XP_013065711.1
+OG0000054	P_fucata_2	C_virginica|XP_022343743.1	P_fucata|Pma_10029064
+OG0000055	H_robusta_2	C_virginica|XP_022345421.1	H_robusta|ESN91162.1
+OG0000055	S_constricta_2	C_virginica|XP_022345421.1	S_constricta|evm.model.ctg1149.7
+OG0000055	O_bimaculoides_2	C_virginica|XP_022345421.1	O_bimaculoides|XP_014775648.1
+OG0000055	A_granulata_2	C_virginica|XP_022345421.1	A_granulata|model.g2097.t1_1
+OG0000055	B_glabrata_2	C_virginica|XP_022345421.1	B_glabrata|XP_013087945.1
+OG0000055	L_gigantea_2	C_virginica|XP_022345421.1	L_gigantea|XP_009066700.1
+OG0000055	P_fucata_2	C_virginica|XP_022345421.1	P_fucata|Pma_10017450
+OG0000056	H_robusta_2	C_virginica|XP_022329200.1	H_robusta|ESO08731.1
+OG0000056	L_gigantea_2	C_virginica|XP_022329200.1	L_gigantea|XP_009054866.1
+OG0000056	O_bimaculoides_2	C_virginica|XP_022329200.1	O_bimaculoides|XP_014783300.1
+OG0000056	S_constricta_2	C_virginica|XP_022329200.1	S_constricta|evm.model.ctg1239.1
+OG0000056	B_glabrata_2	C_virginica|XP_022329200.1	B_glabrata|XP_013082149.1
+OG0000056	A_granulata_2	C_virginica|XP_022329200.1	A_granulata|model.g89.t1.1.5d3b81fd_1
+OG0000056	P_fucata_2	C_virginica|XP_022329200.1	P_fucata|Pma_10015971
+OG0000057	B_glabrata_2	C_virginica|XP_022288607.1	B_glabrata|XP_013065610.1
+OG0000057	O_bimaculoides_2	C_virginica|XP_022288607.1	O_bimaculoides|XP_014774168.1
+OG0000057	A_granulata_2	C_virginica|XP_022288607.1	A_granulata|model.g763.t1_model.g765.t1_1
+OG0000057	H_robusta_2	C_virginica|XP_022288607.1	H_robusta|ESO06944.1
+OG0000057	L_gigantea_2	C_virginica|XP_022288607.1	L_gigantea|XP_009047623.1
+OG0000057	S_constricta_2	C_virginica|XP_022288607.1	S_constricta|evm.model.ctg138.11
+OG0000057	P_fucata_2	C_virginica|XP_022288607.1	P_fucata|Pma_10013840
+OG0000058	H_robusta_2	C_virginica|XP_022317557.1	H_robusta|ESO09558.1
+OG0000058	O_bimaculoides_2	C_virginica|XP_022317557.1	O_bimaculoides|XP_014785555.1
+OG0000058	B_glabrata_2	C_virginica|XP_022317557.1	B_glabrata|XP_013076231.1
+OG0000058	L_gigantea_2	C_virginica|XP_022317557.1	L_gigantea|XP_009060107.1
+OG0000058	A_granulata_2	C_virginica|XP_022317557.1	A_granulata|model.g4291.t1_1
+OG0000058	S_constricta_2	C_virginica|XP_022317557.1	S_constricta|evm.model.ctg96.49
+OG0000058	P_fucata_2	C_virginica|XP_022317557.1	P_fucata|Pma_10014039
+OG0000059	B_glabrata_2	C_virginica|XP_022295132.1	B_glabrata|XP_013083411.1
+OG0000059	H_robusta_2	C_virginica|XP_022295132.1	H_robusta|ESN94151.1
+OG0000059	L_gigantea_2	C_virginica|XP_022295132.1	L_gigantea|XP_009060271.1
+OG0000059	A_granulata_2	C_virginica|XP_022295132.1	A_granulata|model.g6491.t1.1.5d3b8503_1
+OG0000059	O_bimaculoides_2	C_virginica|XP_022295132.1	O_bimaculoides|XP_014789933.1
+OG0000059	S_constricta_2	C_virginica|XP_022295132.1	S_constricta|evm.model.ctg639.2
+OG0000059	P_fucata_2	C_virginica|XP_022295132.1	P_fucata|Pma_10022791
+OG0000060	H_robusta_2	C_virginica|XP_022316787.1	H_robusta|ESN99626.1
+OG0000060	O_bimaculoides_2	C_virginica|XP_022316787.1	O_bimaculoides|XP_014776694.1
+OG0000060	B_glabrata_2	C_virginica|XP_022316787.1	B_glabrata|XP_013072764.1
+OG0000060	L_gigantea_2	C_virginica|XP_022316787.1	L_gigantea|XP_009056650.1
+OG0000060	A_granulata_2	C_virginica|XP_022316787.1	A_granulata|model.g7388.t1_1
+OG0000060	S_constricta_2	C_virginica|XP_022316787.1	S_constricta|evm.model.ctg74.29
+OG0000060	P_fucata_2	C_virginica|XP_022316787.1	P_fucata|Pma_10022841
+OG0000061	H_robusta_2	C_virginica|XP_022296668.1	H_robusta|ESO02346.1
+OG0000061	S_constricta_2	C_virginica|XP_022296668.1	S_constricta|evm.model.ctg210.6
+OG0000061	O_bimaculoides_2	C_virginica|XP_022296668.1	O_bimaculoides|XP_014790210.1
+OG0000061	L_gigantea_2	C_virginica|XP_022296668.1	L_gigantea|XP_009053673.1
+OG0000061	A_granulata_2	C_virginica|XP_022296668.1	A_granulata|model.g7604.t1.1.5d3b84b3_1
+OG0000061	B_glabrata_2	C_virginica|XP_022296668.1	B_glabrata|XP_013096882.1
+OG0000061	P_fucata_2	C_virginica|XP_022296668.1	P_fucata|Pma_10032223
+OG0000062	A_granulata_2	C_virginica|XP_022298945.1	A_granulata|model.g8718.t1.1.5d3b85ae_1
+OG0000062	O_bimaculoides_2	C_virginica|XP_022298945.1	O_bimaculoides|XP_014772987.1
+OG0000062	L_gigantea_2	C_virginica|XP_022298945.1	L_gigantea|XP_009059459.1
+OG0000062	S_constricta_2	C_virginica|XP_022298945.1	S_constricta|evm.model.ctg230.1
+OG0000062	B_glabrata_2	C_virginica|XP_022298945.1	B_glabrata|XP_013065247.1
+OG0000062	H_robusta_2	C_virginica|XP_022298945.1	H_robusta|ESN92353.1
+OG0000062	P_fucata_2	C_virginica|XP_022298945.1	P_fucata|Pma_10006927
+OG0000063	H_robusta_2	C_virginica|XP_022313813.1	H_robusta|ESN90952.1
+OG0000063	S_constricta_2	C_virginica|XP_022313813.1	S_constricta|evm.model.ctg131.13
+OG0000063	A_granulata_2	C_virginica|XP_022313813.1	A_granulata|model.g7299.t1_1
+OG0000063	O_bimaculoides_2	C_virginica|XP_022313813.1	O_bimaculoides|XP_014776218.1
+OG0000063	B_glabrata_2	C_virginica|XP_022313813.1	B_glabrata|XP_013084385.1
+OG0000063	L_gigantea_2	C_virginica|XP_022313813.1	L_gigantea|XP_009053421.1
+OG0000063	P_fucata_2	C_virginica|XP_022313813.1	P_fucata|Pma_10026025
+OG0000064	H_robusta_2	C_virginica|XP_022320821.1	H_robusta|ESN94328.1
+OG0000064	O_bimaculoides_2	C_virginica|XP_022320821.1	O_bimaculoides|XP_014783678.1
+OG0000064	A_granulata_2	C_virginica|XP_022320821.1	A_granulata|model.g13274.t1_1
+OG0000064	L_gigantea_2	C_virginica|XP_022320821.1	L_gigantea|XP_009051192.1
+OG0000064	S_constricta_2	C_virginica|XP_022320821.1	S_constricta|evm.model.ctg1020.4
+OG0000064	P_fucata_2	C_virginica|XP_022320821.1	P_fucata|Pma_10001281
+OG0000064	B_glabrata_2	C_virginica|XP_022320821.1	B_glabrata|XP_013061978.1
+OG0000065	A_granulata_2	C_virginica|XP_022340992.1	A_granulata|model.g17523.t1_1
+OG0000065	O_bimaculoides_2	C_virginica|XP_022340992.1	O_bimaculoides|XP_014772273.1
+OG0000065	B_glabrata_2	C_virginica|XP_022340992.1	B_glabrata|XP_013084680.1
+OG0000065	L_gigantea_2	C_virginica|XP_022340992.1	L_gigantea|XP_009050443.1
+OG0000065	H_robusta_2	C_virginica|XP_022340992.1	H_robusta|ESO10101.1
+OG0000065	S_constricta_2	C_virginica|XP_022340992.1	S_constricta|evm.model.ctg502.6
+OG0000065	P_fucata_2	C_virginica|XP_022340992.1	P_fucata|Pma_10008428
+OG0000066	L_gigantea_2	C_virginica|XP_022332899.1	L_gigantea|XP_009046288.1
+OG0000066	H_robusta_2	C_virginica|XP_022332899.1	H_robusta|ESO01061.1
+OG0000066	B_glabrata_2	C_virginica|XP_022332899.1	B_glabrata|XP_013080185.1
+OG0000066	A_granulata_2	C_virginica|XP_022332899.1	A_granulata|model.g17660.t1_1
+OG0000066	O_bimaculoides_2	C_virginica|XP_022332899.1	O_bimaculoides|XP_014778623.1
+OG0000066	P_fucata_2	C_virginica|XP_022332899.1	P_fucata|Pma_10031684
+OG0000066	S_constricta_2	C_virginica|XP_022332899.1	S_constricta|evm.model.ctg442.45
+OG0000067	H_robusta_2	C_virginica|XP_022321982.1	H_robusta|ESN96928.1
+OG0000067	O_bimaculoides_2	C_virginica|XP_022321982.1	O_bimaculoides|XP_014771836.1
+OG0000067	S_constricta_2	C_virginica|XP_022321982.1	S_constricta|evm.model.ctg249.21
+OG0000067	A_granulata_2	C_virginica|XP_022321982.1	A_granulata|model.g20823.t1_1
+OG0000067	B_glabrata_2	C_virginica|XP_022321982.1	B_glabrata|XP_013070700.1
+OG0000067	L_gigantea_2	C_virginica|XP_022321982.1	L_gigantea|XP_009050729.1
+OG0000067	P_fucata_2	C_virginica|XP_022321982.1	P_fucata|Pma_10022889
+OG0000068	A_granulata_2	C_virginica|XP_022341053.1	A_granulata|model.g29179.t1_1
+OG0000068	H_robusta_2	C_virginica|XP_022341053.1	H_robusta|ESN99588.1
+OG0000068	O_bimaculoides_2	C_virginica|XP_022341053.1	O_bimaculoides|XP_014789121.1
+OG0000068	S_constricta_2	C_virginica|XP_022341053.1	S_constricta|evm.model.ctg1547.1
+OG0000068	B_glabrata_2	C_virginica|XP_022341053.1	B_glabrata|XP_013071542.1
+OG0000068	L_gigantea_2	C_virginica|XP_022341053.1	L_gigantea|XP_009064827.1
+OG0000068	P_fucata_2	C_virginica|XP_022341053.1	P_fucata|Pma_10017451
+OG0000069	S_constricta_2	C_virginica|XP_022322535.1	S_constricta|evm.model.ctg381.13
+OG0000069	B_glabrata_2	C_virginica|XP_022322535.1	B_glabrata|XP_013063965.1
+OG0000069	L_gigantea_2	C_virginica|XP_022322535.1	L_gigantea|XP_009048448.1
+OG0000069	A_granulata_2	C_virginica|XP_022322535.1	A_granulata|model.g31682.t1_1
+OG0000069	O_bimaculoides_2	C_virginica|XP_022322535.1	O_bimaculoides|XP_014772840.1
+OG0000069	H_robusta_2	C_virginica|XP_022322535.1	H_robusta|ESO02510.1
+OG0000069	P_fucata_2	C_virginica|XP_022322535.1	P_fucata|Pma_10015959
+OG0000070	A_granulata_2	C_virginica|XP_022333852.1	A_granulata|model.g32000.t1_1
+OG0000070	O_bimaculoides_2	C_virginica|XP_022333852.1	O_bimaculoides|XP_014789614.1
+OG0000070	B_glabrata_2	C_virginica|XP_022333852.1	B_glabrata|XP_013067166.1
+OG0000070	H_robusta_2	C_virginica|XP_022333852.1	H_robusta|ESO13213.1
+OG0000070	L_gigantea_2	C_virginica|XP_022333852.1	L_gigantea|XP_009063619.1
+OG0000070	S_constricta_2	C_virginica|XP_022333852.1	S_constricta|evm.model.ctg367.23
+OG0000070	P_fucata_2	C_virginica|XP_022333852.1	P_fucata|Pma_10013995
+OG0000071	P_fucata_2	C_virginica|XP_022343574.1, C_virginica|XP_022334317.1	P_fucata|Pma_10031795

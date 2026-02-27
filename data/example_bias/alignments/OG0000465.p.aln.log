@@ -1,0 +1,272 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    MacBook-Air.local (SSE4.2, 16 GB RAM)
+Command: iqtree -s data/example_bias/alignments/OG0000465.p.aln -lmap 5000 -n 0 -m LG
+Seed:    623413 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Apr  3 12:07:09 2025
+Kernel:  SSE2 - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file data/example_bias/alignments/OG0000465.p.aln ... Fasta format detected
+Reading fasta file: done in 0.00459909 secs using 89.52% CPU
+Alignment most likely contains protein sequences
+Alignment has 210 sequences with 686 columns, 637 distinct patterns
+496 parsimony-informative, 133 singleton sites, 57 constant sites
+                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000212908 secs using 96.76% CPU
+   1  AM286415           0.00%    passed     99.54%
+   2  AORN               0.00%    passed     24.97%
+   3  AP012551           0.00%    passed     99.65%
+   4  ASM1161710v1       0.00%    passed     95.85%
+   5  ASM229144v1        0.00%    passed     98.64%
+   6  BX248583           0.15%    failed      4.86%
+   7  CP000263           0.00%    failed      0.00%
+   8  CP001817           0.00%    failed      0.00%
+   9  CP010907           0.00%    passed     74.04%
+  10  CP011787           0.00%    failed      2.71%
+  11  CP012849           1.90%    failed      0.00%
+  12  CP017279           0.00%    passed     99.98%
+  13  CP021659           0.00%    passed     97.46%
+  14  CP055276           0.00%    passed     99.88%
+  15  GCA-000008885      0.44%    failed      0.00%
+  16  GCA-000427805      0.00%    passed     99.92%
+  17  GCA-001242845      0.00%    failed      0.00%
+  18  GCA-001457715      0.00%    failed      2.34%
+  19  GCA-002855795      0.29%    passed     65.85%
+  20  GCA-002933345      0.00%    failed      0.87%
+  21  GCA-004342665      0.00%    passed     99.67%
+  22  GCA-012689415      0.00%    passed     96.63%
+  23  GCA-015762725      0.00%    passed     98.26%
+  24  GCA-016086315      0.00%    passed     99.91%
+  25  GCF-000008865.2    0.00%    passed     99.81%
+  26  GCF-000186485      0.00%    passed     98.98%
+  27  GCF-000247565      0.29%    failed      0.00%
+  28  GCF-000258345.2    0.00%    passed     85.90%
+  29  GCF-000284655     18.37%    failed      0.00%
+  30  GCF-000412335.2    0.00%    passed     99.85%
+  31  GCF-000429565      0.00%    passed     99.99%
+  32  GCF-000439895      0.00%    passed     99.67%
+  33  GCF-000735425      0.00%    passed     99.97%
+  34  GCF-000757905      0.00%    passed     99.99%
+  35  GCF-000803315      0.00%    passed     99.53%
+  36  GCF-001188485      0.00%    passed     99.93%
+  37  GCF-001571285      0.00%    passed     99.96%
+  38  GCF-001684335      0.00%    passed     99.86%
+  39  GCF-001858105      0.00%    passed     99.85%
+  40  GCF-001976145      0.00%    passed     99.73%
+  41  GCF-002247485      0.00%    passed     99.81%
+  42  GCF-002632465      0.00%    passed     99.89%
+  43  GCF-002632485      0.00%    passed     99.97%
+  44  GCF-002811195      0.00%    passed     99.89%
+  45  GCF-002858935      0.00%    passed     99.63%
+  46  GCF-002933315      0.00%    failed      1.33%
+  47  GCF-003182475      0.00%    passed     95.97%
+  48  GCF-003287735      0.00%    passed     99.59%
+  49  GCF-003601925      0.00%    passed     99.85%
+  50  GCF-003666245      0.00%    passed     95.45%
+  51  GCF-003846135      0.00%    passed     99.61%
+  52  GCF-004137785      0.00%    passed     99.38%
+  53  GCF-004168465      0.00%    passed     99.96%
+  54  GCF-004308205      0.00%    passed     95.85%
+  55  GCF-004343195      0.00%    passed     98.51%
+  56  GCF-009372235      0.00%    passed     99.25%
+  57  GCF-009800925      0.00%    passed     99.76%
+  58  GCF-010119855      0.00%    passed     99.44%
+  59  GCF-011189495      0.00%    passed     99.92%
+  60  GCF-011189505      0.00%    passed     99.84%
+  61  GCF-011189575      0.00%    passed     99.56%
+  62  GCF-012026695      0.15%    passed     99.98%
+  63  GCF-012933545      0.29%    passed     99.85%
+  64  GCF-013234275      0.00%    passed     99.88%
+  65  GCF-013373955      0.00%    passed     88.51%
+  66  GCF-013403315      0.00%    passed     99.90%
+  67  GCF-014639435      0.00%    passed     99.54%
+  68  GCF-014946725      0.00%    passed     99.99%
+  69  GCF-015762685      0.00%    passed     98.97%
+  70  GCF-016415625      0.00%    passed     99.39%
+  71  GCF-016804125      0.00%    passed     99.94%
+  72  GCF-900107885      0.00%    passed     97.57%
+  73  GCF-900112785      0.00%    passed     99.89%
+  74  GCF-900113945      0.00%    passed     99.93%
+  75  GCF-900115195      0.00%    passed     99.89%
+  76  GCF-900185945      0.00%    passed     99.92%
+  77  GCF-900343025      0.00%    passed    100.00%
+  78  GCF-900706815      0.00%    passed     99.30%
+  79  GCF-902158555      0.00%    passed     99.81%
+  80  GCF-902158635      0.00%    passed     99.81%
+  81  GCF-902498915      0.00%    passed     99.86%
+  82  GCF-903968575      0.00%    passed     99.96%
+  83  LN854557           2.92%    passed     97.56%
+  84  LN999831           0.00%    passed     41.02%
+  85  LN999832           0.00%    passed     21.98%
+  86  LT897836           0.00%    passed     92.62%
+  87  NC-003197          0.00%    passed     99.83%
+  88  NC-004337.2        0.00%    passed     99.78%
+  89  NC-004545          0.00%    failed      3.85%
+  90  NC-007292          0.00%    failed      0.99%
+  91  NC-010554          0.00%    passed     99.85%
+  92  NC-010694          0.00%    passed     99.85%
+  93  NC-011834          0.00%    failed      0.53%
+  94  NC-012779.2        0.00%    passed     81.22%
+  95  NC-012880          0.00%    passed     98.65%
+  96  NC-012912          0.00%    passed     99.05%
+  97  NC-012962          0.00%    passed     99.69%
+  98  NC-013716          0.00%    passed     99.71%
+  99  NC-013892          0.00%    passed     99.98%
+ 100  NC-013961          0.00%    passed     99.89%
+ 101  NC-014109          0.44%    failed      0.00%
+ 102  NC-014228          0.00%    passed     99.96%
+ 103  NC-014306          0.00%    passed     99.88%
+ 104  NC-015735          0.00%    passed     99.77%
+ 105  NC-016632          0.00%    passed     93.92%
+ 106  NC-017047          0.00%    passed     99.98%
+ 107  NC-017554          0.00%    passed     99.92%
+ 108  NC-017731          0.00%    passed     97.43%
+ 109  NC-017910          0.00%    passed     99.62%
+ 110  NC-018419          0.00%    passed     99.13%
+ 111  NC-018420          0.00%    passed     90.19%
+ 112  NC-021057          0.00%    passed     99.77%
+ 113  NZ-AP010872        0.29%    failed      2.27%
+ 114  NZ-AP014521        0.00%    failed      0.00%
+ 115  NZ-AP019531        0.00%    passed     98.98%
+ 116  NZ-AP022665        0.00%    passed     99.98%
+ 117  NZ-CP006568        0.00%    passed     97.75%
+ 118  NZ-CP006569        0.00%    passed     96.13%
+ 119  NZ-CP007044.2      0.00%    passed     99.43%
+ 120  NZ-CP009253        0.00%    passed     10.21%
+ 121  NZ-CP009610        0.00%    passed     73.14%
+ 122  NZ-CP009756        0.00%    passed     99.83%
+ 123  NZ-CP009973        0.00%    passed     99.74%
+ 124  NZ-CP010029        0.00%    passed     98.89%
+ 125  NZ-CP010048        0.00%    failed      1.26%
+ 126  NZ-CP010049        0.58%    failed      0.02%
+ 127  NZ-CP011254        0.00%    passed     99.88%
+ 128  NZ-CP011299        0.00%    failed      0.01%
+ 129  NZ-CP011602        0.00%    passed     99.75%
+ 130  NZ-CP013920        0.00%    failed      0.07%
+ 131  NZ-CP013940        0.00%    passed     99.94%
+ 132  NZ-CP013990        0.00%    passed     99.99%
+ 133  NZ-CP014007        0.00%    passed     99.89%
+ 134  NZ-CP015113        0.00%    passed     99.94%
+ 135  NZ-CP015749        0.00%    passed     99.32%
+ 136  NZ-CP017184        0.00%    passed     99.68%
+ 137  NZ-CP017610        0.00%    passed     77.86%
+ 138  NZ-CP017671        0.00%    passed     99.65%
+ 139  NZ-CP019706        0.00%    passed     99.95%
+ 140  NZ-CP020388        0.00%    passed     99.89%
+ 141  NZ-CP023529        0.00%    passed     99.99%
+ 142  NZ-CP023536        0.00%    passed     98.47%
+ 143  NZ-CP023567        0.00%    passed     99.93%
+ 144  NZ-CP023706        0.00%    passed     89.55%
+ 145  NZ-CP024768        0.00%    passed     99.73%
+ 146  NZ-CP027107        0.00%    passed     99.96%
+ 147  NZ-CP028926        0.00%    passed     50.19%
+ 148  NZ-CP029205        0.00%    failed      0.88%
+ 149  NZ-CP031123.2      0.00%    passed     99.20%
+ 150  NZ-CP034035        0.00%    passed     97.75%
+ 151  NZ-CP034148        0.00%    passed     99.72%
+ 152  NZ-CP034752        0.00%    passed     99.78%
+ 153  NZ-CP034938        0.00%    passed     98.57%
+ 154  NZ-CP035129        0.00%    passed     99.98%
+ 155  NZ-CP038155        0.00%    passed     99.99%
+ 156  NZ-CP038469        0.00%    passed     99.99%
+ 157  NZ-CP038662        0.00%    passed     99.70%
+ 158  NZ-CP038853        0.00%    passed     99.88%
+ 159  NZ-CP040428        0.00%    passed     99.43%
+ 160  NZ-CP042220.2      0.00%    passed     99.38%
+ 161  NZ-CP042941        0.00%    passed     99.63%
+ 162  NZ-CP045205        0.00%    passed     99.49%
+ 163  NZ-CP045216        0.00%    passed     99.34%
+ 164  NZ-CP045300        0.00%    passed     99.92%
+ 165  NZ-CP045845        0.00%    passed    100.00%
+ 166  NZ-CP045913        0.00%    passed     99.94%
+ 167  NZ-CP046202        0.00%    failed      0.00%
+ 168  NZ-CP046204        0.00%    failed      0.00%
+ 169  NZ-CP046206        0.00%    failed      0.00%
+ 170  NZ-CP046208        0.00%    failed      0.00%
+ 171  NZ-CP046214        0.00%    failed      0.00%
+ 172  NZ-CP046216        0.00%    failed      0.00%
+ 173  NZ-CP046218        0.00%    failed      0.00%
+ 174  NZ-CP046220        0.00%    failed      0.00%
+ 175  NZ-CP046222        0.00%    failed      0.00%
+ 176  NZ-CP046224        0.00%    failed      0.00%
+ 177  NZ-CP046228        0.00%    failed      0.00%
+ 178  NZ-CP046230        0.00%    failed      0.00%
+ 179  NZ-CP046232        0.00%    failed      0.00%
+ 180  NZ-CP046533        0.00%    failed      0.01%
+ 181  NZ-CP046534        0.00%    failed      2.32%
+ 182  NZ-CP048243        0.00%    passed     99.92%
+ 183  NZ-CP048784        0.00%    passed     99.91%
+ 184  NZ-CP048796        0.00%    passed     97.18%
+ 185  NZ-CP049021        0.00%    passed     99.97%
+ 186  NZ-CP049603        0.00%    passed     99.33%
+ 187  NZ-CP050811        0.00%    passed     99.87%
+ 188  NZ-CP050855        0.00%    passed     99.40%
+ 189  NZ-CP050969        0.00%    passed     92.51%
+ 190  NZ-CP051652        0.00%    passed     98.84%
+ 191  NZ-CP053416        0.00%    passed     99.68%
+ 192  NZ-CP054049        0.00%    passed     99.87%
+ 193  NZ-CP054254        0.00%    passed     99.95%
+ 194  NZ-CP061511        0.00%    passed     99.96%
+ 195  NZ-CP063425        0.00%    passed     99.85%
+ 196  NZ-CP065024        0.00%    passed     99.53%
+ 197  NZ-CP065534        0.00%    passed     99.27%
+ 198  NZ-CP069157        0.00%    passed     99.92%
+ 199  NZ-CP072652        0.00%    passed     98.81%
+ 200  NZ-HG326223        0.00%    passed     99.84%
+ 201  NZ-LN999835        0.00%    passed     99.76%
+ 202  NZ-LR025083        0.00%    passed     99.95%
+ 203  NZ-LR025108        0.00%    passed     95.02%
+ 204  NZ-LR134201        0.00%    passed     99.23%
+ 205  NZ-LR134531        0.00%    passed     99.91%
+ 206  NZ-LS483470        0.00%    passed     99.27%
+ 207  NZ-LT594522        0.00%    passed     95.91%
+ 208  NZ-LT615367        0.00%    passed     99.83%
+ 209  NZ-LT635893        0.00%    failed      0.00%
+ 210  NZ-LT883155        0.00%    passed     99.94%
+****  TOTAL              0.12%  39 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: GCF-004308205 is identical to ASM1161710v1 but kept for subsequent analysis
+NOTE: GCF-002247485 is identical to GCF-000008865.2 but kept for subsequent analysis
+NOTE: NZ-AP019531 is identical to GCF-000186485 but kept for subsequent analysis
+NOTE: NC-021057 is identical to NC-015735 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.065 seconds
+
+NOTE: 21 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -52291.109
+Optimal log-likelihood: -52100.333
+Parameters optimization took 1 rounds (0.976 sec)
+
+Performing likelihood mapping with 5000 quartets...
+WARNING: Number of quartets is recommended to be at least 5250 s.t. each sequence is sampled sufficiently
+Computing 5000 quartet likelihoods (one dot represents 100 quartets).
+
+.......... .......... .......... .......... ..........  : 5000
+
+likelihood mapping plot (SVG) written to data/example_bias/alignments/OG0000465.p.aln.lmap.svg
+likelihood mapping plot (EPS) written to data/example_bias/alignments/OG0000465.p.aln.lmap.eps
+Likelihood mapping needed 10.841 seconds
+
+Wrote distance file to... 
+BEST SCORE FOUND : -52100.333
+Total tree length: 15.158
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 11.837 sec (0h:0m:11s)
+Total wall-clock time used: 11.900 sec (0h:0m:11s)
+
+Analysis results written to: 
+  IQ-TREE report:                data/example_bias/alignments/OG0000465.p.aln.iqtree
+  Maximum-likelihood tree:       data/example_bias/alignments/OG0000465.p.aln.treefile
+  Likelihood mapping plot (SVG): data/example_bias/alignments/OG0000465.p.aln.lmap.svg
+  Likelihood mapping plot (EPS): data/example_bias/alignments/OG0000465.p.aln.lmap.eps
+  Screen log file:               data/example_bias/alignments/OG0000465.p.aln.log
+
+Date and Time: Thu Apr  3 12:07:21 2025

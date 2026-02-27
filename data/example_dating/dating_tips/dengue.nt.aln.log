@@ -1,0 +1,262 @@
+IQ-TREE multicore version 2.4.0 for MacOS Intel 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    Mac.home-life.hub (SSE4.2, 16 GB RAM)
+Command: iqtree -s data/example_dating/dating_tips/dengue.nt.aln --date data/example_dating/dating_tips/calibrations.txt -redo
+Seed:    627225 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Apr  2 20:46:46 2025
+Kernel:  SSE2 - 1 threads (8 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 8 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file data/example_dating/dating_tips/dengue.nt.aln ... Fasta format detected
+Reading fasta file: done in 0.00167799 secs using 84.39% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 17 sequences with 1485 columns, 138 distinct patterns
+130 parsimony-informative, 92 singleton sites, 1263 constant sites
+           Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 1.40667e-05 secs using 71.09% CPU
+   1  D4Brazi      0.00%    passed     99.91%
+   2  D4ElSal1     0.00%    passed     99.68%
+   3  D4ElSal2     0.00%    passed     99.91%
+   4  D4Indon1     0.00%    passed     99.70%
+   5  D4Indon2     0.00%    passed     99.15%
+   6  D4Mexico     0.00%    passed     99.99%
+   7  D4NewCal     0.00%    passed     99.91%
+   8  D4Philip1    0.00%    passed     97.45%
+   9  D4Philip2    0.00%    passed     99.78%
+  10  D4Philip     0.00%    passed     99.91%
+  11  D4PRico      0.00%    passed     98.24%
+  12  D4SLanka     0.00%    passed     97.58%
+  13  D4Tahiti1    0.00%    passed     99.83%
+  14  D4Tahiti2    0.00%    passed     99.78%
+  15  D4Thai1      0.00%    passed     99.74%
+  16  D4Thai2      0.00%    passed     99.65%
+  17  D4Thai3      0.00%    passed     99.89%
+****  TOTAL        0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -3722.866
+Optimal log-likelihood: -3722.863
+Rate parameters:  A-C: 0.79115  A-G: 14.66606  A-T: 2.36001  C-G: 0.98126  C-T: 48.27645  G-T: 1.00000
+Base frequencies:  A: 0.308  C: 0.188  G: 0.272  T: 0.232
+Proportion of invariable sites: 0.423
+Gamma shape alpha: 0.497
+Parameters optimization took 1 rounds (0.005 sec)
+Time for fast ML tree search: 0.050 seconds
+
+NOTE: ModelFinder requires 0 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 1485 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         3791.563     39  7661.126     7663.285     7867.949
+  2  GTR+F+I       3724.242     40  7528.485     7530.756     7740.612
+  3  GTR+F+G4      3723.771     40  7527.541     7529.813     7739.668
+  4  GTR+F+I+G4    3722.849     41  7527.697     7530.084     7745.127
+  5  GTR+F+R2      3724.258     41  7530.516     7532.902     7747.946
+  6  GTR+F+R3      3723.050     43  7532.100     7534.726     7760.136
+ 14  GTR+F+I+R2    3724.237     42  7532.473     7534.978     7755.206
+ 15  GTR+F+I+R3    3723.053     44  7534.107     7536.857     7767.446
+ 24  SYM+I         3747.635     37  7569.270     7571.213     7765.487
+ 25  SYM+G4        3747.196     37  7568.392     7570.336     7764.610
+ 26  SYM+I+G4      3746.288     38  7568.577     7570.627     7770.097
+ 27  SYM+R2        3747.611     38  7571.223     7573.273     7772.743
+ 46  TVM+F+I       3751.291     39  7580.582     7582.741     7787.405
+ 47  TVM+F+G4      3751.644     39  7581.288     7583.447     7788.112
+ 48  TVM+F+I+G4    3749.855     40  7579.709     7581.981     7791.836
+ 49  TVM+F+R2      3751.236     40  7582.473     7584.744     7794.599
+ 68  TVMe+I        3761.039     36  7594.077     7595.917     7784.992
+ 69  TVMe+G4       3761.054     36  7594.108     7595.948     7785.022
+ 70  TVMe+I+G4     3760.000     37  7594.000     7595.943     7790.217
+ 71  TVMe+R2       3760.989     37  7595.979     7597.922     7792.196
+ 90  TIM3+F+I      3725.395     38  7526.790     7528.840     7728.311
+ 91  TIM3+F+G4     3724.926     38  7525.852     7527.902     7727.373
+ 92  TIM3+F+I+G4   3724.013     39  7526.025     7528.184     7732.849
+ 93  TIM3+F+R2     3725.302     39  7528.603     7530.762     7735.427
+112  TIM3e+I       3749.085     35  7568.170     7569.909     7753.781
+113  TIM3e+G4      3748.648     35  7567.297     7569.036     7752.908
+114  TIM3e+I+G4    3747.751     36  7567.502     7569.342     7758.416
+115  TIM3e+R2      3748.960     36  7569.919     7571.759     7760.833
+134  TIM2+F+I      3726.014     38  7528.027     7530.077     7729.548
+135  TIM2+F+G4     3725.536     38  7527.072     7529.122     7728.593
+136  TIM2+F+I+G4   3724.614     39  7527.228     7529.387     7734.051
+137  TIM2+F+R2     3725.863     39  7529.726     7531.885     7736.549
+156  TIM2e+I       3750.205     35  7570.410     7572.149     7756.021
+157  TIM2e+G4      3749.778     35  7569.556     7571.295     7755.167
+158  TIM2e+I+G4    3748.892     36  7569.784     7571.623     7760.698
+159  TIM2e+R2      3750.053     36  7572.107     7573.947     7763.021
+178  TIM+F+I       3725.704     38  7527.409     7529.459     7728.929
+179  TIM+F+G4      3725.216     38  7526.432     7528.482     7727.952
+180  TIM+F+I+G4    3724.257     39  7526.514     7528.673     7733.337
+181  TIM+F+R2      3725.527     39  7529.054     7531.213     7735.878
+200  TIMe+I        3750.035     35  7570.071     7571.810     7755.682
+201  TIMe+G4       3749.599     35  7569.198     7570.937     7754.809
+202  TIMe+I+G4     3748.675     36  7569.351     7571.190     7760.265
+203  TIMe+R2       3749.860     36  7571.721     7573.560     7762.635
+222  TPM3u+F+I     3752.479     37  7578.958     7580.902     7775.176
+223  TPM3u+F+G4    3752.820     37  7579.641     7581.584     7775.858
+224  TPM3u+F+I+G4  3751.024     38  7578.049     7580.099     7779.569
+225  TPM3u+F+R2    3752.215     38  7580.430     7582.480     7781.950
+244  TPM3+I        3762.545     34  7593.089     7594.730     7773.397
+245  TPM3+G4       3762.553     34  7593.106     7594.747     7773.414
+246  TPM3+I+G4     3761.505     35  7593.009     7594.748     7778.620
+247  TPM3+R2       3762.326     35  7594.652     7596.391     7780.263
+266  TPM2u+F+I     3753.082     37  7580.165     7582.108     7776.382
+267  TPM2u+F+G4    3753.411     37  7580.822     7582.765     7777.039
+268  TPM2u+F+I+G4  3751.667     38  7579.335     7581.385     7780.855
+269  TPM2u+F+R2    3752.757     38  7581.514     7583.564     7783.034
+288  TPM2+I        3763.515     34  7595.030     7596.671     7775.338
+289  TPM2+G4       3763.524     34  7595.048     7596.690     7775.356
+290  TPM2+I+G4     3762.515     35  7595.029     7596.768     7780.640
+291  TPM2+R2       3763.253     35  7596.506     7598.245     7782.117
+310  K3Pu+F+I      3752.699     37  7579.399     7581.342     7775.616
+311  K3Pu+F+G4     3753.052     37  7580.104     7582.047     7776.321
+312  K3Pu+F+I+G4   3751.242     38  7578.485     7580.535     7780.005
+313  K3Pu+F+R2     3752.285     38  7580.569     7582.619     7782.090
+332  K3P+I         3763.357     34  7594.713     7596.355     7775.021
+333  K3P+G4        3763.377     34  7594.754     7596.395     7775.062
+334  K3P+I+G4      3762.315     35  7594.631     7596.370     7780.242
+335  K3P+R2        3763.024     35  7596.048     7597.787     7781.659
+354  TN+F+I        3726.715     37  7527.430     7529.373     7723.647
+355  TN+F+G4       3726.232     37  7526.464     7528.407     7722.681
+356  TN+F+I+G4     3725.292     38  7526.584     7528.634     7728.105
+357  TN+F+R2       3726.189     38  7528.378     7530.427     7729.898
+376  TNe+I         3751.146     34  7570.292     7571.933     7750.599
+377  TNe+G4        3750.715     34  7569.431     7571.072     7749.738
+378  TNe+I+G4      3749.815     35  7569.629     7571.369     7755.240
+379  TNe+R2        3750.610     35  7571.219     7572.958     7756.830
+398  HKY+F+I       3753.764     36  7579.527     7581.367     7770.442
+399  HKY+F+G4      3754.094     36  7580.189     7582.029     7771.103
+400  HKY+F+I+G4    3752.321     37  7578.641     7580.584     7774.858
+401  HKY+F+R2      3752.937     37  7579.874     7581.817     7776.091
+420  K2P+I         3764.482     33  7594.963     7596.510     7769.968
+421  K2P+G4        3764.492     33  7594.984     7596.530     7769.988
+422  K2P+I+G4      3763.465     34  7594.931     7596.572     7775.239
+423  K2P+R2        3763.876     34  7595.752     7597.393     7776.060
+442  F81+F+I       3981.267     35  8032.533     8034.272     8218.144
+443  F81+F+G4      3981.158     35  8032.316     8034.055     8217.927
+444  F81+F+I+G4    3980.943     36  8033.886     8035.726     8224.800
+445  F81+F+R2      3981.044     36  8034.087     8035.927     8225.002
+464  JC+I          3988.966     32  8041.933     8043.387     8211.634
+465  JC+G4         3988.883     32  8041.766     8043.221     8211.467
+466  JC+I+G4       3988.572     33  8043.144     8044.691     8218.149
+467  JC+R2         3988.668     33  8043.335     8044.882     8218.340
+Akaike Information Criterion:           TIM3+F+G4
+Corrected Akaike Information Criterion: TIM3+F+G4
+Bayesian Information Criterion:         TN+F+G4
+Best-fit model: TN+F+G4 chosen according to BIC
+
+All model information printed to data/example_dating/dating_tips/dengue.nt.aln.model.gz
+CPU time for ModelFinder: 0.646 seconds (0h:0m:0s)
+Wall-clock time for ModelFinder: 0.660 seconds (0h:0m:0s)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3981.222
+2. Current log-likelihood: -3726.801
+3. Current log-likelihood: -3726.237
+Optimal log-likelihood: -3726.233
+Rate parameters:  A-C: 1.00000  A-G: 10.64434  A-T: 1.00000  C-G: 1.00000  C-T: 34.05064  G-T: 1.00000
+Base frequencies:  A: 0.308  C: 0.188  G: 0.272  T: 0.232
+Gamma shape alpha: 0.140
+Parameters optimization took 3 rounds (0.014 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00182199 secs using 77.66% CPU
+Computing ML distances took 0.001886 sec (of wall-clock time) 0.001462 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 3.29018e-05 secs using 115.5% CPU
+Computing RapidNJ tree took 0.000118 sec (of wall-clock time) 0.000154 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3737.744
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.045 second
+Computing log-likelihood of 98 initial trees ... 0.066 seconds
+Current best score: -3726.233
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3726.233
+Iteration 10 / LogL: -3726.234 / Time: 0h:0m:0s
+Iteration 20 / LogL: -3726.676 / Time: 0h:0m:0s
+Finish initializing candidate tree set (4)
+Current best tree score: -3726.233 / CPU time: 0.223
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3726.234 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 40 / LogL: -3726.246 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 50 / LogL: -3726.249 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 60 / LogL: -3726.244 / Time: 0h:0m:1s (0h:0m:0s left)
+UPDATE BEST LOG-LIKELIHOOD: -3726.233
+Iteration 70 / LogL: -3726.236 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 80 / LogL: -3726.237 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 90 / LogL: -3729.150 / Time: 0h:0m:1s (0h:0m:0s left)
+Iteration 100 / LogL: -3726.238 / Time: 0h:0m:1s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3726.233
+Optimal log-likelihood: -3726.233
+Rate parameters:  A-C: 1.00000  A-G: 10.61107  A-T: 1.00000  C-G: 1.00000  C-T: 34.07009  G-T: 1.00000
+Base frequencies:  A: 0.308  C: 0.188  G: 0.272  T: 0.232
+Gamma shape alpha: 0.141
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -3726.233
+Total tree length: 0.239
+
+Total number of iterations: 102
+CPU time used for tree search: 1.281 sec (0h:0m:1s)
+Wall-clock time used for tree search: 1.090 sec (0h:0m:1s)
+Total CPU time used: 1.958 sec (0h:0m:1s)
+Total wall-clock time used: 1.782 sec (0h:0m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                data/example_dating/dating_tips/dengue.nt.aln.iqtree
+  Maximum-likelihood tree:       data/example_dating/dating_tips/dengue.nt.aln.treefile
+  Likelihood distances:          data/example_dating/dating_tips/dengue.nt.aln.mldist
+  Screen log file:               data/example_dating/dating_tips/dengue.nt.aln.log
+
+--- Start phylogenetic dating ---
+Reading date file data/example_dating/dating_tips/calibrations.txt ...
+8 dates extracted
+Building time tree by least-square dating (LSD) with command:
+lsd -i data/example_dating/dating_tips/dengue.nt.aln.timetree.subst -s 1485 -o data/example_dating/dating_tips/dengue.nt.aln.timetree -r a -d data/example_dating/dating_tips/dengue.nt.aln.timetree.date 
+
+TREE 1
+*PROCESSING:
+Reading the tree ... 
+Collapse 4 (over 14) internal branches having branch length <= 0.000337
+ (settable via option -l)
+Parameter to adjust variances was set to 0.00673 (settable via option -b)
+Minimum branch length of time scaled tree (settable via option -u and -U): 0
+Estimating the root position on all branches using fast method ...
+
+*WARNINGS:
+- The tips D4NewCal D4Tahiti2 D4Indon2 D4Thai1 D4Thai2 D4Philip2 D4Philip1 D4ElSal2 D4Brazi do not have temporal constraint, their dates will be infered.
+- 28.5714% internal branches were collapsed.
+- The tips D4NewCal D4Tahiti2 D4Indon2 D4Thai1 D4Thai2 D4Philip2 D4Philip1 D4ElSal2 D4Brazi do not have temporal constraint, their dates will be infered.
+
+*RESULTS:
+- Dating results:
+ rate 0.000442401, tMRCA 1919-12-12 , objective function 0.0050641
+
+TOTAL ELAPSED TIME: 0.00227 seconds
+LSD results written to:
+  LSD report:                  data/example_dating/dating_tips/dengue.nt.aln.timetree.lsd
+  Time tree in nexus format:   data/example_dating/dating_tips/dengue.nt.aln.timetree.nex
+  Time tree in newick format:  data/example_dating/dating_tips/dengue.nt.aln.timetree.nwk
+
+--- End phylogenetic dating ---
+Date and Time: Wed Apr  2 20:46:48 2025
