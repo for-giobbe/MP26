@@ -20,7 +20,7 @@ The exam will take place over one hour and will focus on both practice and theor
 - C. Subtree Pruning and Regrafting.
 - D. Tree Bisection and Reconnection.
 
-To align a gene:
+To align a gene you use:
 - A. IQTREE
 **- B. MAFFT**
 - C. Astral
