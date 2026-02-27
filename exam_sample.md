@@ -33,19 +33,24 @@ To align a gene you use:
 - D. Gblocks
 
 
+---
+
+
 ### Fill-in-the-blank questions:
 
 
 In phylogenetic analysis, a site is considered parsimony-informative if it contains at least _________________
-diVerent character states, each represented in at least _________________ sequences.
+different character states, each represented in at least _________________ sequences.
+
+
+Sequence saturation occurs when multiple _________________ happen at the same site, making it hard to infer the
+true number of _________________ between sequences.
 
 
 The Markov property in substitution models states that the probability of a nucleotide changing from one state to
 another depends only on its _________________ state, not on its _________________ one.
 
 
-Sequence saturation occurs when multiple _________________ happen at the same site, making it hard to infer the
-true number of _________________ between sequences.
 ---
 
 
