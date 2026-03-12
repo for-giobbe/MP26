@@ -27,7 +27,7 @@ Teaching material for the "Molecular Phylogenetics" classes of the MSc in Bioinf
 
 
 Other important stuff:
-- Recordings: WIP
+- Recordings: [**here**](https://drive.google.com/drive/folders/1uBJ5eLK1M396rmwWbZuh0R_xj33mioAR?usp=drive_link)
 - Exam sample: [**here**](https://github.com/for-giobbe/MP26/blob/main/exam_sample.md).
 - Single slides pack: WIP
 
