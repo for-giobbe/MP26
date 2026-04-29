@@ -17,7 +17,7 @@ Teaching material for the "Molecular Phylogenetics" classes of the MSc in Bioinf
 - **W3_L07** - MK models of molecular evolution [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/07.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/07.md) ]
 - **W3_L08** - Maximum Likelihood (ML) [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/08.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/08.md) ]
 - **W3_L09** - Bayesian Inference (BI)[ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/09.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/09.md) ]
-- **W4_L10** - support metrics [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/10.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/10.md) ]
+- **W3_L10** - support metrics [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/10.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/10.md) ]
 - **W6_L11** - complex substitution models [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/11.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/11.md) ]
 - **W6_L12** - discordance, ILS & the coalescent [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/12.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/12.md) ]
 - **W7_L13** - stochastic and systematic bias [ [slides](https://github.com/for-giobbe/MP26/blob/main/slides/13.pdf) + [practicals](https://github.com/for-giobbe/MP26/blob/main/practicals/13.md) ]
@@ -30,6 +30,6 @@ Other important stuff:
 - Recordings: [**here**](https://drive.google.com/drive/folders/1uBJ5eLK1M396rmwWbZuh0R_xj33mioAR?usp=drive_link)
 - Exam sample: [**here**](https://github.com/for-giobbe/MP26/blob/main/exam_sample.md).
 - Single slides pack: WIP
-
+- date of the exam may the 25th from 15:00 to 16 in aula 2D.
 
 For any inquiry write to: giobbe.forni2@unibo.it
